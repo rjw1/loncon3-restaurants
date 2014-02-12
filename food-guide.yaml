@@ -1,0 +1,303 @@
+name: Gillani's Restaurant
+address: 59-61 Barking Road, Canning Town, E16 4HB
+lat: 51.516247
+long: 0.0088360011
+station: Canning Town
+type: restaurant
+cuisine: Turkish
+photo: http://www.flickr.com/photos/kake_pugh/12256496106/
+checked: no
+---
+name: Alenka
+address: 63 Barking Road, Canning Town, E16 4HB
+lat: 51.516282
+long: 0.0089111030
+station: Canning Town
+type: grocery shop
+cuisine: Eastern European
+checked: no
+photo: http://www.flickr.com/photos/kake_pugh/12256080613/
+summary: Eastern European grocery shop advertising Moldovian wine and brandy.
+checked: no
+---
+name: Torto
+address: 137 Barking Road, Canning Town, E16 4HQ
+lat: 51.517683
+long: 0.012099847
+station: Canning Town
+type: restaurant
+cuisine:
+  - Brazilian
+  - Portuguese
+photo: http://www.flickr.com/photos/kake_pugh/12256335144/
+checked: no
+---
+name: Kings Continental Cuisine
+address: 147 Barking Road, Canning Town, E16 4HQ
+lat: 51.517835
+long: 0.012439147
+station: Canning Town
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/12256476926/
+checked: no
+---
+name: Albina
+address: 239 Barking Road, Canning Town, E13 8EQ
+website: http://www.albinaltd.co.uk/
+phone: 020 7474 0244
+lat: 51.519779
+long: 0.016839713
+station: Canning Town
+type: restaurant
+cuisine: Ukrainian
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/12255891665/
+checked: no
+---
+name: Albena Russian Delicatessen
+address: 253 Barking Road, Canning Town, E13 8EQ
+phone: 020 7474 4141
+lat: 51.519969
+long: 0.017260820
+station: Canning Town
+type: grocery shop
+cuisine: Russian
+photo: http://www.flickr.com/photos/kake_pugh/12256317624/
+checked: no
+---
+name: Nikki's Place
+address: 282 Barking Road, Canning Town, E13 8HR
+phone: 020 7511 2943
+lat: 51.520362
+long: 0.018786594
+station: Canning Town
+type: restaurant
+cuisine: African
+photo: http://www.flickr.com/photos/kake_pugh/12256043303/
+checked: no
+---
+name: Bronze
+address: 291-293 Barking Road, Canning Town, E13 8EQ
+phone: 020 7511 4252
+lat: 51.520822
+long: 0.019162104
+station: Canning Town
+type: restaurant
+cuisine:
+  - African
+  - Caribbean
+photo: http://www.flickr.com/photos/kake_pugh/12256439696/
+checked: no
+---
+name: Pie Crust Cafe
+address: 273 Stratford High Street, E15 2TF
+lat: 51.536318
+long: -0.0038566142
+station: Stratford High Street
+type: restaurant
+cuisine:
+  - British
+  - Thai
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12265435416/
+  - http://www.flickr.com/photos/kake_pugh/12265299514/
+summary: A dual menu offers British “greasy spoon” cafe food as well as Thai food, in a traditional British cafe setting.
+checked: no
+---
+name: King Edward VII
+address: 47 Broadway, Stratford, E15 4BQ
+lat: 51.541144
+long: 0.0029159635
+station: Stratford
+type: pub
+cuisine: British
+licensed: yes
+byob: no
+photo:
+  - http://www.flickr.com/photos/kake_pugh/2743681267/
+  - http://www.flickr.com/photos/kake_pugh/12265853593/
+  - http://www.flickr.com/photos/kake_pugh/12266264866/
+  - http://www.flickr.com/photos/kake_pugh/12266255236/
+  - http://www.flickr.com/photos/kake_pugh/12265673285/
+summary: Real ale and pub food; the menu is perhaps a little over-ambitious, so stick with the basics.  Sandwiches at lunchtime are good value.
+access: One step down to get in. Half a dozen steps up to the back room, from which the toilets are also accessed.
+checked: Feb 2014
+---
+name: Indisca
+address: 150 The Grove, Stratford, E15 1NS
+phone: 020 8534 7770
+lat: 51.543863
+long: 0.0041068643
+station: Stratford
+type: restaurant
+cuisine: Indian
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12267333816/
+  - http://www.flickr.com/photos/kake_pugh/12267318456/
+  - http://www.flickr.com/photos/kake_pugh/12266729935/
+  - http://www.flickr.com/photos/kake_pugh/12266880523/
+  - http://www.flickr.com/photos/kake_pugh/12266870893/
+checked: no
+---
+name: Hua Run
+address: 125 The Grove, Stratford, E15 1EN
+phone: 020 8221 0498
+lat: 51.545344
+long: 0.0046889037
+station:
+  - Stratford
+  - Maryland
+type: grocery shop
+cuisine: Chinese
+photo: http://www.flickr.com/photos/kake_pugh/12267140824/
+summary: Small but well-stocked Chinese supermarket.
+access: Only a very small step to get in, manageable on wheels, but there isn't much space to manoeuvre inside and it would be very tricky to get a wheelchair or pram in.
+checked: Feb 2014
+---
+name: Londek
+address: 198 The Grove, Stratford, E15 1NS
+phone: 020 8270 0063
+website: http://londekrestaurant.co.uk/
+lat: 51.545343
+long: 0.0043992251
+station: 
+  - Stratford
+  - Maryland
+type: restaurant
+cuisine: Polish
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12266693015/
+  - http://www.flickr.com/photos/kake_pugh/12267835576/
+  - http://www.flickr.com/photos/kake_pugh/12267701804/
+checked: Feb 2014
+---
+name: Zirnis
+address: 168 The Grove, Stratford, E15 1NS
+lat: 51.544423
+long: 0.0043536275
+station:
+  - Stratford
+  - Maryland
+type: grocery store
+photo: http://www.flickr.com/photos/kake_pugh/12267439603/
+checked: no
+---
+name: Brazil Express
+address: Unit 10, Market Village
+lat: 51.541643
+long: 0.0019584149
+station: Stratford
+type: restaurant
+cuisine: Brazilian
+photo: http://www.flickr.com/photos/kake_pugh/12269368506/
+summary: Tiny Brazilian cafe in a shopping centre.  Pop in for a snack and a drink.
+checked: Feb 2014
+---
+name: Yoe Bo
+address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
+phone: 020 8519 2020
+website: http://www.yoebo.co.uk/
+lat: 51.542582
+long: 0.00038167831
+station: Stratford
+type: restaurant
+cuisine: Chinese
+photo: http://www.flickr.com/photos/kake_pugh/3737080596/
+summary: All-you-can-eat Chinese buffet restaurant.
+checked: Feb 2014
+---
+name: Theatre Royal Bar
+address: Theatre Royal, Gerry Raffles Square, Stratford, E15 1BN
+lat: 51.542545
+long: 0.00066599247
+station: Stratford
+type: restaurant
+cuisine: Caribbean
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12269274376/
+  - http://www.flickr.com/photos/kake_pugh/12269286316/
+  - http://www.flickr.com/photos/kake_pugh/12268726215/
+checked: no
+---
+name: Stratford Circus Cafe (Northern Imagination?)
+address: Stratford Circus, Theatre Square, Stratford, E15 1BX
+website: https://www.stratford-circus.com/
+lat: 51.542835
+long: 0.0017120540
+type: restaurant
+cuisine: Italian
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12268692495/
+  - http://www.flickr.com/photos/kake_pugh/12269123924/
+  - http://www.flickr.com/photos/kake_pugh/12268674515/
+  - http://www.flickr.com/photos/kake_pugh/12269110404/
+summary: Soup, sandwiches, serious coffee, and craft beer from local breweries.
+checked: Feb 2014
+---
+name: Lituanica
+address: Unit 4, Beckton Retail Park, Alpine Way, E6 6LA
+website: http://www.lituanica.co.uk/
+phone: 020 7473 2619 
+lat: 51.516391
+long: 0.062619656
+type:
+  - grocery shop
+  - restaurant
+cuisine: Lithuanian
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12440257875/
+  - http://www.flickr.com/photos/kake_pugh/12440377823/
+summary: Lithuanian supermarket, restaurant, and bookshop.
+access: Supermarket on ground floor. Restaurant up a flight of stairs with a sturdy handrail; no lift.
+checked: Feb 2014
+---
+name: Asian Mega Mart
+address: Beckton Retail Park, Alpine Way, E6 6LA
+lat: 51.517349
+long: 0.061965197
+type: grocery shop
+cuisine:
+  - Bangladeshi
+  - Indian
+  - Pakistani
+  - Sri Lankan
+photo: http://www.flickr.com/photos/kake_pugh/12440228835/
+summary: Huge South Asian supermarket.
+checked: no
+---
+name: Yi-Ban
+address: London Regatta Centre, Dockside Road, Royal Docks, E16 2QT
+phone: 020 7473 6699
+website: http://www.yi-ban.com/
+lat: 51.507704
+long: 0.041821808
+type: restaurant
+cuisine: Chinese
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12440348573/
+  - http://www.flickr.com/photos/kake_pugh/4873560820/
+summary: Cantonese restaurant with a view over the Royal Docks and London City Airport; good for dim sum in large groups, particularly with children who enjoy the views of the planes.
+access: Step-free to the building from Royal Albert DLR (via a lift at the DLR station), though there are a few rough cobbled patches along the way. Also step-free from the (large, free) car park. Restaurant is on an upper floor but there's a lift. Toilets on same level as restaurant, with no intervening steps (including an accessible one that doubles as a baby-change room).
+checked: Jul 2013
+---
+name: Fox Connaught
+address: Lynx Way, Royal Docks, E16 1JR
+phone: 020 7476 6777
+website: http://www.foxbars.com/
+lat: 51.508692
+long: 0.039488286
+type: pub
+cuisine: British
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12440200325/
+  - http://www.flickr.com/photos/kake_pugh/12440661734/
+  - http://www.flickr.com/photos/kake_pugh/9189056309/
+  - http://www.flickr.com/photos/kake_pugh/9189052495/
+  - http://www.flickr.com/photos/kake_pugh/9191846914/
+  - http://www.flickr.com/photos/kake_pugh/9189045589/
+summary: Real ale and an extensive pub food/bistro menu, including traditional British Sunday lunches. Also open for breakfast. Hotel rooms upstairs.
+access: Step-free to bar, seating area, and RADAR-locked accessible toilet.
+checked: Jun 2013
