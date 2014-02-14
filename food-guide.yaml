@@ -330,3 +330,76 @@ photo:
 summary: Small and colourful cafe offering fried breakfasts, jacket potatoes, sandwiches, salads, granola, and cakes.  Traditional London pie/mash/liquor meals on Fridays.
 access: A step to get in, a little cluttered inside. Accessible toilet.
 checked: Feb 2014
+---
+name: Custom House Pub and Kitchen
+address: Custom House Hotel, 272-283 Victoria Dock Road, Custom House, E16 3BY
+phone: 020 7474 0011
+website: http://www.customhouse-hotel.co.uk/
+lat: 51.510028
+long: 0.026779979
+type: pub
+photo: http://www.flickr.com/photos/kake_pugh/12518133855/
+checked: no
+---
+name: Golden Sands
+address: 1 Freemasons Road, Custom House, E16 3AR
+phone: 020 7476 7704
+lat: 51.510315
+long: 0.025969550
+type: takeaway
+cuisine: Chinese
+photo: http://www.flickr.com/photos/kake_pugh/12518133033/
+checked: no
+---
+name: Le Royal
+address: 13 Freemasons Road, Custom House, E16 3AR
+lat: 51.510646
+long: 0.025760338
+type: takeaway
+cuisine: Indian
+photo: http://www.flickr.com/photos/kake_pugh/12518482764/
+checked: no
+---
+name: Pacific Fish Bar
+address: 17-19 Freemasons Road, Custom House, E16 3AR
+lat: 51.510839
+long: 0.025653049
+type: takeaway
+cuisine: fish and chips
+photo: http://www.flickr.com/photos/kake_pugh/12518475004/
+checked: no
+---
+name: ExCEL Cafe and Restaurant / Freemasons Cafe
+address: 27 Freemasons Road, Custom House, E16 3AR
+phone: 020 7473 7978
+lat: 51.511004
+long: 0.025588676
+type: restaurant
+cuisine: British
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12518469424/
+  - http://www.flickr.com/photos/kake_pugh/12518469424/
+  - http://www.flickr.com/photos/kake_pugh/12518436284/
+summary: Traditional British cafe serving fried breakfasts, sandwiches, jacket potatoes, grills, omelettes, and roast lunches.
+checked: no
+---
+name: Nisa Local
+address: 53 Freemasons Road, Custom House, E16 3PJ
+phone: 020 7474 2349
+website: http://www.nisalocally.co.uk/
+lat: 51.511699
+long: 0.025065646
+type: grocery shop
+photo: http://www.flickr.com/photos/kake_pugh/12518105803/
+checked: no
+---
+name: Customs Bakery and Sandwich Bar
+address: 49 Freemasons Road, Custom House, E16 3PJ
+lat: 51.511580
+long: 0.024951652
+type:
+  - takeaway
+  - grocery shop
+photo: http://www.flickr.com/photos/kake_pugh/12518105803/
+summary: Fresh bread, cakes, sandwiches, and hot savoury pastries.
+checked: no
