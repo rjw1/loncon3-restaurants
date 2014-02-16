@@ -469,7 +469,7 @@ summary: Try the gol gappa for an interesting snack not found on all Indian menu
 checked: no
 ---
 name: China Palace
-address: Unit R1 Warehouse, 2 Western Gateway, Royal Victoria Dock North, E16 1DR
+address: Unit R1 Warehouse, 2 Western Gateway, Royal Victoria Dock, E16 1DR
 website: http://www.chinapalaceexcel.com/
 phone: 020 7474 0808
 lat: 51.508709
@@ -480,4 +480,46 @@ cuisine: Chinese
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/12560423855/
 summary: Large Chinese restaurant right next to ExCeL, serving dim sum in the day and a long menu of Cantonese food in the evening.
+checked: no
+---
+name: Elite Dining
+address: 3 Western Gateway, Royal Victoria Dock, E16 1BD
+website: http://www.elite-dining.co.uk/
+phone: 020 7476 2852
+lat: 51.508372
+long: 0.024596661
+station: Custom House
+type: restaurant
+cuisine: Indian
+licensed: yes
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12569004245/
+  - http://www.flickr.com/photos/kake_pugh/12569446804/
+  - http://www.flickr.com/photos/kake_pugh/12569295774/
+  - http://www.flickr.com/photos/kake_pugh/12569292894/
+summary: 700-seater Indian restaurant in a converted warehouse, just opposite the western entrance to ExCeL.
+checked: no
+---
+name: Airline Cafe and Diner
+address: 14 Western Gateway, Royal Victoria Dock, E16 1FD
+phone: 020 7474 4522
+lat: 51.508222
+long: 0.022182673
+station: Custom House
+type: restaurant
+cuisine:
+  - British
+  - Italian
+licensed: yes
+hours: "Mon-Sun: 8am-10pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12569428884/
+  - http://www.flickr.com/photos/kake_pugh/12569409474/
+  - http://www.flickr.com/photos/kake_pugh/12569409474/
+  - http://www.flickr.com/photos/kake_pugh/12569038083/
+  - http://www.flickr.com/photos/kake_pugh/12569038083/
+  - http://www.flickr.com/photos/kake_pugh/12569362654/
+  - http://www.flickr.com/photos/kake_pugh/12568999113/
+summary: Burgers, traditional British fried breakfasts, hot meals, sandwiches, salads, and pizzas.
 checked: no
