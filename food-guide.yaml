@@ -226,6 +226,7 @@ address: Stratford Circus, Theatre Square, Stratford, E15 1BX
 website: https://www.stratford-circus.com/
 lat: 51.542835
 long: 0.0017120540
+station: Stratford
 type: restaurant
 cuisine: Italian
 licensed: yes
@@ -243,6 +244,7 @@ website: http://www.lituanica.co.uk/
 phone: 020 7473 2619 
 lat: 51.516391
 long: 0.062619656
+station: Beckton
 type:
   - grocery shop
   - restaurant
@@ -264,6 +266,7 @@ name: Asian Mega Mart
 address: Beckton Retail Park, Alpine Way, E6 6LA
 lat: 51.517349
 long: 0.061965197
+station: Beckton
 type: grocery shop
 cuisine:
   - Bangladeshi
@@ -280,6 +283,7 @@ phone: 020 7473 6699
 website: http://www.yi-ban.com/
 lat: 51.507704
 long: 0.041821808
+station: Royal Albert
 type: restaurant
 cuisine: Chinese
 photo:
@@ -295,6 +299,7 @@ phone: 020 7476 6777
 website: http://www.foxbars.com/
 lat: 51.508692
 long: 0.039488286
+station: Prince Regent
 type: pub
 cuisine: British
 photo:
@@ -309,11 +314,12 @@ access: Step-free to bar, seating area, and RADAR-locked accessible toilet.
 checked: Jun 2013
 ---
 name: Garden Community Cafe
-address:  7 Cundy Road, Custom House, E16 3DJ
+address: 7 Cundy Road, Custom House, E16 3DJ
 phone: 020 7474 5257
 website: http://www.gardencommunitycafe.org/
 lat: 51.510543
 long: 0.034480
+station: Prince Regent
 type: restaurant
 cuisine: British
 photo:
@@ -337,6 +343,7 @@ phone: 020 7474 0011
 website: http://www.customhouse-hotel.co.uk/
 lat: 51.510028
 long: 0.026779979
+station: Custom House
 type: pub
 photo: http://www.flickr.com/photos/kake_pugh/12518133855/
 checked: no
@@ -346,6 +353,7 @@ address: 1 Freemasons Road, Custom House, E16 3AR
 phone: 020 7476 7704
 lat: 51.510315
 long: 0.025969550
+station: Custom House
 type: takeaway
 cuisine: Chinese
 photo: http://www.flickr.com/photos/kake_pugh/12518133033/
@@ -355,6 +363,7 @@ name: Le Royal
 address: 13 Freemasons Road, Custom House, E16 3AR
 lat: 51.510646
 long: 0.025760338
+station: Custom House
 type: takeaway
 cuisine: Indian
 photo: http://www.flickr.com/photos/kake_pugh/12518482764/
@@ -364,6 +373,7 @@ name: Pacific Fish Bar
 address: 17-19 Freemasons Road, Custom House, E16 3AR
 lat: 51.510839
 long: 0.025653049
+station: Custom House
 type: takeaway
 cuisine: fish and chips
 photo: http://www.flickr.com/photos/kake_pugh/12518475004/
@@ -374,6 +384,7 @@ address: 27 Freemasons Road, Custom House, E16 3AR
 phone: 020 7473 7978
 lat: 51.511004
 long: 0.025588676
+station: Custom House
 type: restaurant
 cuisine: British
 photo:
@@ -389,6 +400,7 @@ phone: 020 7474 2349
 website: http://www.nisalocally.co.uk/
 lat: 51.511699
 long: 0.025065646
+station: Custom House
 type: grocery shop
 photo: http://www.flickr.com/photos/kake_pugh/12518105803/
 checked: no
@@ -397,6 +409,7 @@ name: Customs Bakery and Sandwich Bar
 address: 49 Freemasons Road, Custom House, E16 3PJ
 lat: 51.511580
 long: 0.024951652
+station: Custom House
 type:
   - takeaway
   - grocery shop
