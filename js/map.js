@@ -1,16 +1,20 @@
 var centre_lat, centre_long;
 var positions = [], markers = [];
 var base_url = "http://127.0.0.1/~kake/loncon/";
+var icons = {};
 
-var gicon = L.Icon.extend( {
+var gicon_base = L.Icon.extend( {
     options: {
-      iconUrl: 'http://maps.google.com/mapfiles/ms/micons/red-dot.png',
       shadowUrl: null,
       iconSize: new L.Point( 32, 32 ),
       iconAnchor: new L.Point( 15, 32 ),
       popupAnchor: new L.Point( 0, -29 )
     }
 } );
+
+var icon_url_base = 'http://maps.google.com/mapfiles/ms/micons/';
+
+icons.red = new gicon_base( { iconUrl: icon_url_base + 'red-dot.png' } );
 
 $(
   function() {
@@ -41,7 +45,7 @@ function add_marker( i, thing ) {
 
   position = new L.LatLng( thing.lat, thing.long );
 
-  marker = new L.Marker( position, { icon: new gicon() } );
+  marker = new L.Marker( position, { icon: icons.red } );
   map.addLayer( marker );
 
   content = '<b>' + thing.name + '</b><br>' + thing.address;
