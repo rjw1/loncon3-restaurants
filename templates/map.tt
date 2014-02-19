@@ -32,7 +32,6 @@
 
   centre_lat = [% centre_lat %];
   centre_long = [% centre_long %];
-  map_type = 'venue';
 
   function add_markers() {
     var venue;
@@ -40,7 +39,7 @@
     [% FOREACH venue = venues %]
       [% i = i + 1 %]
       venue = [% venue.json %];
-      add_marker( [% i %], venue, 'venue' );
+      add_marker( [% i %], venue );
     [% END %]
   }
 </script>

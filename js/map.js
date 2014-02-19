@@ -1,4 +1,4 @@
-var centre_lat, centre_long, map_type;
+var centre_lat, centre_long;
 var positions = [], markers = [];
 var base_url = "http://127.0.0.1/~kake/loncon/";
 
@@ -32,7 +32,7 @@ $(
   }
 );
 
-function add_marker( i, thing, type ) {
+function add_marker( i, thing ) {
   var content, marker, position;
 
   if ( thing.not_on_map ) {
@@ -44,27 +44,7 @@ function add_marker( i, thing, type ) {
   marker = new L.Marker( position, { icon: new gicon() } );
   map.addLayer( marker );
 
-  if ( type && type == 'venue' ) {
-    content = '<b>' + thing.name + '</b>';
-  }
-  content = content + '<br>' + thing.address;
-  if ( type && type == 'venue' ) {
-    if ( thing.has_links ) {
-      var links = [];
-      if ( thing.flickr ) {
-        links.push( '<a href="' + thing.flickr + '">Photo</a>' );
-      }
-      if ( thing.website ) {
-        links.push( '<a href="' + thing.website + '">Website</a>' );
-      }
-      if ( thing.twitter ) {
-        links.push( '<a href="https://twitter.com/' + thing.twitter +
-                    '">Twitter</a>' );
-      }
-      content = content + '<br><b>Links: </b>' + links.join( ', ' );
-    }
-  }
-
+  content = '<b>' + thing.name + '</b><br>' + thing.address;
   marker.bindPopup( content );
 
   markers[ i ] = marker;
