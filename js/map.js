@@ -12,9 +12,15 @@ var gicon_base = L.Icon.extend( {
     }
 } );
 
-var icon_url_base = 'http://maps.google.com/mapfiles/ms/micons/';
+var icon_url_base = 'http://127.0.0.1/~kake/loncon/icons/';
 
 icons.red = new gicon_base( { iconUrl: icon_url_base + 'red-dot.png' } );
+icons.blue = new gicon_base( { iconUrl: icon_url_base + 'blue-dot.png' } );
+icons.green = new gicon_base( { iconUrl: icon_url_base + 'green-dot.png' } );
+icons.yellow = new gicon_base( { iconUrl: icon_url_base + 'yellow-dot.png' } );
+icons.blue_red = new gicon_base( { iconUrl: icon_url_base + 'blue-red-dot.png' } );
+icons.green_yellow = new gicon_base( { iconUrl: icon_url_base + 'green-yellow-dot.png' } );
+icons.red_yellow = new gicon_base( { iconUrl: icon_url_base + 'red-yellow-dot.png' } );
 
 $(
   function() {
@@ -44,8 +50,7 @@ function add_marker( i, thing ) {
   }
 
   position = new L.LatLng( thing.lat, thing.long );
-
-  marker = new L.Marker( position, { icon: icons.red } );
+  marker = new L.Marker( position, { icon: icons[thing.marker] } );
   map.addLayer( marker );
 
   content = '<b>' + thing.name + '</b><br>' + thing.address;

@@ -2,6 +2,7 @@
 
 use strict;
 use File::Copy;
+use File::Glob qw( :glob );
 use Template;
 use YAML::Any qw( LoadFile );
 
@@ -17,18 +18,41 @@ my ( $min_lat, $max_lat, $centre_lat, $min_long, $max_long, $centre_long );
 $min_lat = $max_lat = $venues[0]{lat};
 $min_long = $max_long = $venues[0]{long};
 
+# Marker colours
+my %colours = (
+  restaurant => "red",
+  pub => "blue",
+  takeaway => "green",
+  "grocery shop" => "yellow",
+);
+
 foreach my $venue ( @venues ) {
+  # Check whether we need to expand our bounding box.
   $min_lat = $venue->{lat} if ( $venue->{lat} < $min_lat );
   $max_lat = $venue->{lat} if ( $venue->{lat} > $max_lat );
   $min_long = $venue->{long} if ( $venue->{long} < $min_long );
   $max_long = $venue->{long} if ( $venue->{long} > $max_long );
+
+  # Figure out an appropriate colour of marker.
+  my @types;
+  if ( ref $venue->{type} ) {
+    @types = @{ $venue->{type} };
+  } else {
+    @types = ( $venue->{type} );
+  }
+
+  my @markers = map { $colours{$_}; } @types;
+  if ( ! $markers[0] ) {
+    die "No appropriate markers for $venue->{name}.\n";
+  }
+  $venue->{marker} = join( "_", sort @markers );
 }
 
 my $tt_config = {
   INCLUDE_PATH => "$datadir/templates/",
   OUTPUT_PATH => "$webdir/",
 };
-my $tt = Template->new( $tt_config ) or croak Template->error;
+my $tt = Template->new( $tt_config ) or die Template->error;
 
 my $tt_vars = {
   base_url => "http://127.0.0.1/~kake/loncon/",
@@ -47,3 +71,8 @@ close $output_fh;
 
 copy( "$datadir/stylesheets/loncon.css", "$webdir/stylesheets" ) || die $!;
 copy( "$datadir/js/map.js", "$webdir/js" ) || die $!;
+my @icons = bsd_glob( "$datadir/icons/*.png" );
+foreach my $icon ( @icons ) {
+  my ( $vol, $dir, $file) = File::Spec->splitpath( $icon );
+  copy( "$datadir/icons/$file", "$webdir/icons" ) || die $!;
+}
