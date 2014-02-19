@@ -693,3 +693,62 @@ type: restaurant
 cuisine: Thai
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/12596517845/
+---
+name: Ayanna's
+address: 2 Yablsey Street, Blackwall, E14 9RG
+website: http://www.ayannaslondon.com/
+twitter: AyannasLondon
+phone: 020 7515 8177
+lat: 51.505300
+long: -0.0071097315
+station: Blackwall
+type: restaurant
+cuisine: Caribbean
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: yes
+hours: "Mon: closed; Tue-Sun: 5:30pm-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12637459384/
+---
+name: The Gun
+address: 27 Coldharbour, Isle of Dogs, E14 9NS
+website: http://www.thegundocklands.com/
+twitter: thegundocklands
+phone: 020 7515 5222
+lat: 51.501787
+long: -0.0078446567
+station:
+  - Blackwall
+  - Canary Wharf
+  - South Quay
+type: pub
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: 11am-midnight; Sun 11am-11pm (food hours differ)"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12637059783/
+  - http://www.flickr.com/photos/kake_pugh/12637059783/
+  - http://www.flickr.com/photos/kake_pugh/12637085623/
+  - http://www.flickr.com/photos/kake_pugh/12637085623/
+access: "Step-free access to the bar, a decent amount of the seating area, and the toilets, though not the riverside terrace."
+---
+name: The George
+address: 114 Glengall Grove, Crossharbour, E14 3ND
+website: http://thegeorge-e14.com/
+phone: 020 7987 4433
+lat: 51.496083
+long: -0.013724059
+station: Crossharbour
+type: pub
+cuisine: British
+licensed: yes
+byob: no
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12636861475/
+  - http://www.flickr.com/photos/kake_pugh/12637047243/
+  - http://www.flickr.com/photos/kake_pugh/12637034293/
+  - http://www.flickr.com/photos/kake_pugh/12637020383/
+summary: Traditional British pub with real ales and an unusual “snug” bar.
+access: All three street entrances have low steps — approximately 1-2cm at the entrance to the snug, and 4-5cm elsewhere.  Once you're in, it's all on one level.
