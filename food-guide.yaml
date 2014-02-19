@@ -398,6 +398,7 @@ name: Nisa Local
 address: 53 Freemasons Road, Custom House, E16 3PJ
 phone: 020 7474 2349
 website: http://www.nisalocally.co.uk/
+twitter: NisaLocally
 lat: 51.511699
 long: 0.025065646
 station: Custom House
@@ -536,3 +537,158 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12568999113/
 summary: Burgers, traditional British fried breakfasts, hot meals, sandwiches, salads, and pizzas.
 checked: no
+---
+name: Nisa Local
+address: 14 Western Gateway, Royal Victoria Dock, E16 1BJ
+website: http://www.nisalocally.co.uk/
+twitter: NisaLocally
+phone: 020 7473 7886
+lat: 51.508158
+long: 0.021809846
+station:
+  - Custom House
+  - Royal Victoria
+type: grocery shop
+photo: http://www.flickr.com/photos/kake_pugh/12596839875/
+---
+name: Royal Docks Pizza
+address: Unit G8, ExCeL Marina, 8 Western Gateway, E16 1AT
+website: http://www.royaldockpizza.com/
+phone: 020 7473 3620
+lat: 51.507944
+long: 0.020618945
+station: Royal Victoria
+type: takeaway
+cuisine: Italian
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: 11:30am-1am"
+photo: http://www.flickr.com/photos/kake_pugh/12596823395/
+summary: Free delivery, or collect from reception of Reem Al Bawadi restaurant.
+---
+name: Reem Al Bawadi
+address: 8 ExCeL Marina, Western Gateway, E16 1DR
+website: http://reem-albawadi.com/
+phone: 020 7511 8046
+lat: 51.507894
+long: 0.020643085
+station: Royal Victoria
+type: restaurant
+cuisine: Lebanese
+takeaway: yes
+delivery: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12597205544/
+  - http://www.flickr.com/photos/kake_pugh/12596916173/
+  - http://www.flickr.com/photos/kake_pugh/12596899713/
+---
+name: Café Bonnane
+address: 
+phone: 020 7474 4975
+lat: 51.507828
+long: 0.020669907
+station: Royal Victoria
+type: restaurant
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12596899713/
+  - http://www.flickr.com/photos/kake_pugh/12596739635/
+---
+name: Caribbean Scene
+address: Unit G7, ExCeL Marina, 17 Western Gateway, E16 1AQ
+website: http://www.caribbeanscene.co.uk/
+twitter: CaribbeanScene
+phone: 020 7511 2023
+lat: 51.507574
+long: 0.020828158
+station: Royal Victoria
+type: restaurant
+cuisine: Caribbean
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12596692555/
+  - http://www.flickr.com/photos/kake_pugh/12596832143/
+  - http://www.flickr.com/photos/kake_pugh/12596709245/
+---
+name: Docklands Bar And Grill
+address: Victoria Dock Road, Western Gateway, Royal Victoria Dock, E16 1AL
+website: http://www.docklandsbarandgrill.co.uk/
+phone: 020 7055 2119
+lat: 51.508195
+long: 0.020034224
+station: Royal Victoria
+type:
+  - restaurant
+  - pub
+cuisine: British
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/12596786053/
+summary: Part of the Crowne Plaza hotel.
+---
+name: Tesco Express
+address: Unit B, The Oxygen, Royal Victoria Dock, E16 1BL
+website: http://www.tesco.com/
+twitter: tesco
+phone: 0345 6719545
+lat: 51.508245
+long: 0.019304663
+station: Royal Victoria
+type: grocery shop
+hours: "Mon-Sun: 7am-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/12597094584/
+summary: Also has a free 24-hour cashpoint.
+---
+name: Caffè Fratelli
+address: Unit 1, Western Gateway, E16 1AS
+website: http://www.caffefratelli.co.uk/
+twitter: CaffeFratelli
+phone: 020 7476 8239
+lat: 51.508242
+long: 0.018832594
+station: Royal Victoria
+type: restaurant
+cuisine: Italian
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12597062074/
+  - http://www.flickr.com/photos/kake_pugh/12596752443/
+summary: Small chain.
+---
+name: Crystal Café
+address: 1 Siemens Brothers Way, Royal Victoria Dock, E16 1GB
+website: http://www.thecrystal.org/
+phone: 020 7055 6400
+lat: 51.507287
+long: 0.016579539
+station: Royal Victoria
+type: restaurant
+hours: "Mon-Fri: 8:30am-5pm; Sat-Sun: 10am-7pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12596940004/
+  - http://www.flickr.com/photos/kake_pugh/12596607725/
+---
+name: Oiler Bar
+address: Royal Victoria Dock
+website: http://www.wakeupdocklands.com/the-oiler-bar
+twitter: oilerbar
+phone: 07599 905 526
+lat: 51.506492
+long: 0.017378837
+station: Royal Victoria
+type: pub
+licensed: yes
+hours: "Mon: noon-10:30pm; Tue-Sat: noon-11pm; Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12596534055/
+  - http://www.flickr.com/photos/kake_pugh/12596662193/
+  - http://www.flickr.com/photos/kake_pugh/12597009364/
+  - http://www.flickr.com/photos/kake_pugh/12596700893/
+---
+name: Nakhon Thai
+address: Waterfront Studios, 1 Dock Road, Royal Victoria Dock, E16 1AH
+website: http://www.nakhonthai.co.uk/
+phone: 020 7474 5510
+lat: 51.506158
+long: 0.016461521
+station: Royal Victoria
+type: restaurant
+cuisine: Thai
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/12596517845/
