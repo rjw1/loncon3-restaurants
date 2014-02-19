@@ -1,0 +1,48 @@
+[% USE CGI %]
+[% USE JSON ( convert_blessed => 1, allow_blessed => 1 ) %]
+
+[% do_map = 1 %]
+[% subtitle = 'map' %]
+[% INCLUDE header.tt %]
+
+<div id="map_canvas"></div>
+
+<div id="list">
+
+  <p>Venues (<a href="[% index_url %]">view without a map</a>):</p>
+  <ul>
+    [% i = 0 %]
+    [% FOREACH venue = venues %]
+      [% i = i + 1 %]
+      <li>
+        <span>
+        [% IF venue.not_on_map %]
+          [% CGI.escapeHTML( venue.name ) %] (not on map)
+        [% ELSE %]
+          <a href="#" onclick="return show_marker( [% i %] )">[% CGI.escapeHTML( venue.name ) %]</a>
+        [% END %]
+        </span>
+      </li>
+    [% END %]
+  </ul>
+
+</div>
+
+<script type="text/javascript">
+
+  centre_lat = [% centre_lat %];
+  centre_long = [% centre_long %];
+  map_type = 'venue';
+
+  function add_markers() {
+    var venue;
+    [% i = 0 %]
+    [% FOREACH venue = venues %]
+      [% i = i + 1 %]
+      venue = [% venue.json %];
+      add_marker( [% i %], venue, 'venue' );
+    [% END %]
+  }
+</script>
+
+[% INCLUDE footer.tt %]

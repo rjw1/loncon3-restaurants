@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>[% IF subtitle %][% subtitle %]: [% END %]Loncon 3 Restaurant Guide</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="[% base_url %]stylesheets/loncon.css" type="text/css" />
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+
+  <script type="text/javascript" 
+      src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"> 
+  </script>
+
+  [% IF do_map %]
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+    <script type="text/javascript" src="[% base_url %]js/map.js"></script>
+  [% END %]
+
+</head>
+
+<body>
+
+<div id="body_wrapper">
+
+  <div id="banner">
+    <h1 class="page_header"><a href="[% base_url %]">Loncon 3 Restaurant Guide</a></h1>
+  </div>
+
+  [% INCLUDE navbar.tt %]
+
+  <div id="main_content">
+
+    [% IF subtitle %]
+      <h2[% IF subtitle_class %] class="[% subtitle_class %]"[% END %]>[% subtitle %]</h2>
+    [% END %]

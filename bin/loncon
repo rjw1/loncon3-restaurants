@@ -1,0 +1,49 @@
+#!/usr/bin/perl -w
+
+use strict;
+use File::Copy;
+use Template;
+use YAML::Any qw( LoadFile );
+
+my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
+my $webdir = "/Users/kake/Sites/loncon";
+
+my $filename = $ARGV[0] || "$datadir/food-guide.yaml";
+
+my @venues = LoadFile( $filename );
+@venues = sort { $a->{name} cmp $b->{name} } @venues;
+
+my ( $min_lat, $max_lat, $centre_lat, $min_long, $max_long, $centre_long );
+$min_lat = $max_lat = $venues[0]{lat};
+$min_long = $max_long = $venues[0]{long};
+
+foreach my $venue ( @venues ) {
+  $min_lat = $venue->{lat} if ( $venue->{lat} < $min_lat );
+  $max_lat = $venue->{lat} if ( $venue->{lat} > $max_lat );
+  $min_long = $venue->{long} if ( $venue->{long} < $min_long );
+  $max_long = $venue->{long} if ( $venue->{long} > $max_long );
+}
+
+my $tt_config = {
+  INCLUDE_PATH => "$datadir/templates/",
+  OUTPUT_PATH => "$webdir/",
+};
+my $tt = Template->new( $tt_config ) or croak Template->error;
+
+my $tt_vars = {
+  base_url => "http://127.0.0.1/~kake/loncon/",
+  min_lat => $min_lat,
+  max_lat => $max_lat,
+  centre_lat => ( ( $min_lat + $max_lat ) / 2 ),
+  min_long => $min_long,
+  max_long => $max_long,
+  centre_long => ( ( $min_long + $max_long ) / 2 ),
+  venues => \@venues,
+};
+
+open( my $output_fh, ">", "$webdir/map.html" ) or die $!;
+$tt->process( "map.tt", $tt_vars, $output_fh ) or die $tt->error;
+close $output_fh;
+
+copy( "$datadir/stylesheets/loncon.css", "$webdir/stylesheets" ) || die $!;
+copy( "$datadir/js/map.js", "$webdir/js" ) || die $!;
