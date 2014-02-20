@@ -752,3 +752,151 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12637020383/
 summary: Traditional British pub with real ales and an unusual “snug” bar.
 access: All three street entrances have low steps — approximately 1-2cm at the entrance to the snug, and 4-5cm elsewhere.  Once you're in, it's all on one level.
+---
+name: Firezza
+address: Unit 6b, Baltimore Wharf, Pepper Street, Isle of Dogs, E14 9RH
+website: http://www.firezza.com/
+phone: 020 7987 7722
+lat: 51.496210
+long: -0.015658334
+station: Crossharbour
+type: takeaway
+cuisine: Italian
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: noon-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/12660454025/
+---
+name: Manjal
+address: 3 Turnberry Quay, Isle of Dogs, E14 9RD
+website: http://www.manjalrestaurant.com/
+twitter: Manjal_London
+phone: 020 7538 1140
+lat: 51.496128
+long: -0.016218916
+station: Crossharbour
+type: restaurant
+cuisine: Indian
+licensed: yes
+bookings: yes
+hours: "Mon-Sun: noon-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12660909124/
+---
+name: Lotus
+address: 9 Oakland Quay, Isle of Dogs, E14 9EA
+website: http://www.lotusfloating.co.uk/
+phone: 020 7515 6445
+lat: 51.496960
+long: -0.016125038
+station: Crossharbour
+type: restaurant
+cuisine: Chinese
+licensed: yes
+bookings: yes
+hours: "Mon: closed; Tue-Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12660898754/
+  - http://www.flickr.com/photos/kake_pugh/12660884864/
+summary: "Dim sum served noon-4:30pm."
+---
+name: Pepper Saint Ontiod
+address: 21 Pepper Street, Isle of Dogs, E14 9RP
+website: http://www.peppersaintontiod.com/
+twitter: peppersaint
+phone: 020 7987 5205
+lat: 51.496209
+long: -0.017830923
+station: Crossharbour
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Thu: noon-11pm; Fri: noon-midnight; Sat: noon-1pm; Sun: noon-10pm"
+photo: http://www.flickr.com/photos/kake_pugh/12660534643/
+summary: "Part of the “quirky” Antic chain."
+access: "Step-free entrance and step-free access to the bar, much of the seating area, and the accessible toilet (which doubles as an extra ladies'). Some of the seating is upstairs, along with the other toilets."
+---
+name: Byblos Harbour
+address: 41 Millharbour, Isle of Dogs, E14 9NB
+website: http://www.byblos-harbour.com/
+phone: 020 7538 4882
+lat: 51.497483
+long: -0.017605618
+station:
+  - Crossharbour
+  - South Quay
+type: restaurant
+cuisine: Lebanese
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12660391605/
+  - http://www.flickr.com/photos/kake_pugh/12660391605/
+---
+name: Tompkins
+address: 4 Pan Peninsula Square, Isle of Dogs, E14 9HN
+website: http://www.tompkins.uk.com/
+twitter: Tomptheattic
+phone: 020 8305 3080
+lat: 51.499812
+long: -0.017254248
+station: South Quay
+type: restaurant
+cuisine: American
+licensed: yes
+bookings: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12660391605/
+  - http://www.flickr.com/photos/kake_pugh/12660391605/
+  - http://www.flickr.com/photos/kake_pugh/12660473733/
+  - http://www.flickr.com/photos/kake_pugh/12660460543/
+  - http://www.flickr.com/photos/kake_pugh/12660448273/
+---
+name: Lemongrass Kitchen
+address: Unit 5, South Quay Plaza, 185 Marsh Wall, Isle of Dogs, E14 9SH
+website: http://www.lemongrasskitchen.co.uk/
+twitter: LemongrassKtchn
+phone: 020 7537 9392
+lat: 51.500365
+long: -0.017315537
+station: South Quay
+type: takeaway
+cuisine: pan-Asian
+takeaway: yes
+delivery: yes
+hours: "Mon-Fri: 11am-10pm; Sat-Sun: 5pm-10pm"
+photo: http://www.flickr.com/photos/kake_pugh/12660767214/
+---
+name: Goodman
+address: 3 South Quay Square, Isle of Dogs, E14 9SH
+website: http://www.goodmanrestaurants.com/
+twitter: Goodman_London
+phone: 020 7531 0300
+lat: 51.501570
+long: -0.019311100
+station: South Quay
+type: restaurant
+cuisine: steak
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: no
+hours: "Mon-Fri: noon-10:30pm; Sat: 5:30pm-10:30pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12660365915/
+  - http://www.flickr.com/photos/kake_pugh/12660744614/
+---
+name: Hazev
+address: 2 South Quay Square, Isle of Dogs, E14 9RT
+website: http://www.hazev.com/
+phone: 020 7515 9467
+lat: 51.501607
+long: -0.019608825
+station: South Quay
+type: restaurant
+cuisine: Turkish
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12660692154/
+  - http://www.flickr.com/photos/kake_pugh/12660367203/
+  - http://www.flickr.com/photos/kake_pugh/12660251895/
+  - http://www.flickr.com/photos/kake_pugh/12660251895/
+access: "Step-free to get in, and step-free through to the ladies' toilet at least, though the cubicles are a bit of a squeeze to get into."
