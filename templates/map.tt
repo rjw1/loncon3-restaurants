@@ -9,7 +9,7 @@
 
 <div id="list">
 
-  <p>Venues (<a href="[% index_url %]">view without a map</a>):</p>
+  <p>Venues:</p>
   <ul>
     [% i = 0 %]
     [% FOREACH venue = venues %]
