@@ -901,3 +901,441 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12660251895/
   - http://www.flickr.com/photos/kake_pugh/12660251895/
 access: "Step-free to get in, and step-free through to the ladies' toilet at least, though the cubicles are a bit of a squeeze to get into."
+---
+name: All Bar One
+address: 42 Mackenzie Walk, Canary Wharf, E14 5EH
+website: http://www.allbarone.co.uk/
+twitter: YourAllBarOne
+phone: 020 7516 0191
+lat: 51.504078
+long: -0.020271331
+station: Canary Wharf
+type: pub
+cuisine: British
+licensed: yes
+bookings: no
+hours: "Food served Mon-Fri 8am-10pm, Sat-Sun 10am-10pm."
+photo: http://www.flickr.com/photos/kake_pugh/12752113443/
+summary: Chain pub serving food all day including breakfast.
+---
+name: Slug and Lettuce
+address: 30 South Colonnade, Canary Wharf, E14 5EP
+website: http://www.slugandlettuce.co.uk/
+twitter: SlugLettuce
+phone: 020 7519 1612
+lat: 51.504262
+long: -0.020059437
+station: Canary Wharf
+type: pub
+cuisine: British
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/12752112063/
+summary: Chain pub serving food all day including breakfast.  No under-18s after 5pm.
+---
+name: Smollensky's
+address: 1 Reuters Plaza, Canary Wharf, E14 5AJ
+website: http://smollenskys.com/
+twitter: SmollenskysInfo
+phone: 020 7719 0101
+lat: 51.504125
+long: -0.019740254
+station: Canary Wharf
+type: pub
+cuisine: American
+licensed: yes
+bookings: yes
+hours: "Food served noon-10pm Mon-Sat.  Closed Sundays."
+photo: http://www.flickr.com/photos/kake_pugh/12751904225/
+---
+name: Carluccio's
+address: Reuters Plaza, Canary Wharf, E14 5AJ
+website: http://www.carluccios.com/
+phone: 020 7719 1749
+lat: 51.504302
+long: -0.019689292
+station: Canary Wharf
+type: restaurant
+cuisine: Italian
+licensed: yes
+hours: "Mon-Fri: 6:30am-11:30pm; Sat: 9am-11:30pm; Sun: 9am-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12752340924/
+summary: Chain Italian restaurant with a separate gluten-free menu including gluten-free pasta.  Also serves breakfast.
+---
+name: Nicolas
+address: Unit 480, One Canada Square, Canary Wharf, E14 5AX
+website: http://www.nicolas.com/
+phone: 020 7512 9283
+lat: 51.504682
+long: -0.019415706
+station: Canary Wharf
+type: pub
+cuisine: French
+licensed: yes
+hours: "Mon-Wed: 10am-8pm; Thu-Fri: 10am-9pm; Sat: 11am-7pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12751952233/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751937103/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751788725/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751770965/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751770965/in/photostream
+summary: Wine bar attached to a reputable French wine shop.  Small corkage charge for wine purchased in the shop.  Bar snacks and full meals.
+access: Step-free from the plaza outside Canary Wharf Station.
+---
+name: Birley Salt Beef
+address: Unit 23A, One Canada Square, Canary Wharf, E14 5AX
+website: https://www.birleysandwiches.co.uk/
+twitter: BirleySandwich
+phone: 020 7719 1163
+lat: 51.504749
+long: -0.019402295
+station: Canary Wharf
+type: takeaway
+cuisine: American
+licensed: no
+takeaway: yes
+hours: "Mon-Fri: 7am-4pm; Sat-Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/12751735305/
+summary: Hot salt beef and other meats carved to order and served in generously-filled sandwiches.  Don't think there's any seating.
+access: Step-free from the plaza outside Canary Wharf Station.
+---
+name: Rocket
+address: 2 Churchill Place, Canary Wharf, E14 5RB
+website: http://rocketrestaurants.co.uk/
+twitter: RocketFriends
+phone: 020 3200 2022
+lat: 51.504265
+long: -0.014703065
+station: Canary Wharf
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Food served Mon-Wed 11:30am-11pm, Thu-Sat 11:30am-midnight, closed Sun"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12751864263/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751847783/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751830823/in/photostream
+summary: Chain Italian restaurant.
+---
+name: Jamie's Italian
+address: Unit 17, 2 Churchill Place, Canary Wharf, E14 5RB
+website: https://www.jamieoliver.com/italian/
+twitter: JamiesItalianUK
+phone: 020 3002 5252
+lat: 51.504672
+long: -0.014818400
+station: Canary Wharf
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 11:30am-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12751651455/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12751651455/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12752105564/in/photostream
+summary: Chain Italian restaurant with a separate (but small) gluten-free menu.
+---
+name: Roka
+address: 1st Floor, 4 Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
+website: http://rokarestaurant.com/
+phone: 020 7636 5228
+lat: 51.504966
+long: -0.018640548
+station: Canary Wharf
+type: restaurant
+cuisine: Japanese
+hours: "Mon-Fri: 11:45am-3pm, 5:30pm-11pm; Sat: 11:30am-4pm, 5:30pm-11pm; Sun: 11:30am-8:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12819600024/
+summary: Japanese restaurant specialising in robatayaki (charcoal grill).
+---
+name: Wahaca
+address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
+website: http://www.wahaca.co.uk/
+twitter: Wahaca
+phone: 020 7516 9145
+lat: 51.504826
+long: -0.018686146
+station: Canary Wharf
+type: restaurant
+cuisine: Mexican
+licensed: yes
+bookings: no
+takeaway: yes
+hours: "Mon-Fri: 11:45am-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12819586194/in/photostream
+summary: Mexican restaurant and bar with a separate gluten-free menu.  Part of a small chain.
+---
+name: Canteen
+address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
+website: http://www.canteen.co.uk/
+twitter: CanteenLondon
+phone: 08456 861122
+lat: 51.504676
+long: -0.018761247
+station: Canary Wharf
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 7:30am-11pm; Sat: 9am-11pm; Sun: 10am-7pm"
+photo: http://www.flickr.com/photos/kake_pugh/12819572654/in/photostream
+summary: Seasonally-based British food and drink, including breakfast.
+---
+name: Taylor St Baristas
+address: 8 South Colonnade, Canary Wharf, E14 4PZ
+website: http://www.taylor-st.com/
+twitter: Taylor_St
+phone: 020 7519 6536
+lat: 51.504809
+long: -0.022025496
+station: Canary Wharf
+type: takeaway
+cuisine: British
+licensed: no
+takeaway: yes
+hours: "Mon-Fri: 7am-6pm; Sat-Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/12819148145/in/photostream
+summary: Coffee specialists also serving breakfast, soups, sandwiches, and cakes.  Mostly takeaway, a few seats.
+---
+name: Boisdale
+address: Cabot Place, Canary Wharf, E14 4QT
+website: http://www.boisdale.co.uk/
+twitter: BoisdaleCW
+phone: 020 7715 5818
+lat: 51.505166
+long: -0.021977216
+station: Canary Wharf
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Tue: noon-11pm; Wed-Fri: noon-midnight; Sat: 6pm-midnight; Sun: noon-4pm"
+photo: http://www.flickr.com/photos/kake_pugh/12819546984/in/photostream
+summary: Oysters, caviar, steaks, whisky, cigars, and live jazz.
+---
+name: Brera
+address: Unit 12, Cabot Place West, Canary Wharf, E14 4QT
+website: http://www.cafebrera.com/
+phone: 0207 512 9191
+lat: 51.505120
+long: -0.022186428
+station: Canary Wharf
+type: restaurant
+cuisine: Italian
+licensed: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Fri: 6am-9pm; Sat-Sun: 9am-6pm"
+photo: http://www.flickr.com/photos/kake_pugh/12819201803/in/photostream
+summary: Milanese-style cafe with bread baked on the premises.  Three locations around Canary Wharf.
+---
+name: Iberica
+address: 12 Cabot Square, Canary Wharf, E14 4QQ
+website: http://www.ibericalondon.co.uk/
+twitter: IbericaLondon
+phone: 020 7636 8650
+lat: 51.505611
+long: -0.022079542
+station: Canary Wharf
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+takeaway: yes
+hours: "Mon-Sat: 11:30am-11pm; Sun: noon-4pm"
+photo: http://www.flickr.com/photos/kake_pugh/12819109735/in/photostream
+summary: Modern Spanish cuisine including tapas.
+---
+name: Sri Nam
+address: 10 Cabot Square, Canary Wharf, E14 4EY
+website: http://www.orientalrestaurantgroup.co.uk/
+phone: 020 7715 9515
+lat: 51.505589
+long: -0.021964207
+station: Canary Wharf
+type: restaurant
+cuisine: Thai
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: noon-11pm; Sat-Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/12819177273/in/photostream
+---
+name: Tom's Kitchen
+address: 1 Westferry Circus, Canary Wharf, E14 4HD
+website: http://www.tomskitchen.co.uk/
+twitter: TomsKitchens
+phone: 020 3011 1555
+lat: 51.506083
+long: -0.025456443
+station: Canary Wharf
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+photo: http://www.flickr.com/photos/kake_pugh/12819083595/in/photostream
+summary: Modern British restaurant, bar, and deli.  Part of a small chain.
+---
+name: Royal China
+address: 30 Westferry Circus, Canary Wharf, E14 8RR
+website: http://www.royalchinagroup.co.uk/
+phone: 020 7719 0888
+lat: 51.505574
+long: -0.028178886
+station:
+  - Canary Wharf
+  - Westferry
+type: restaurant
+cuisine: Chinese
+licensed: yes
+bookings: yes
+photo: http://www.flickr.com/photos/kake_pugh/12832502835/in/photostream
+summary: Cantonese food including dim sum.  Part of a small chain.
+---
+name: Gaucho
+address: 29 Westferry Circus, Canary Wharf, E14 8RR
+website: http://www.gauchorestaurants.co.uk/
+twitter: GauchoGroup
+phone: 020 7987 9494
+lat: 51.505409
+long: -0.028094396
+station:
+  - Canary Wharf
+  - Westferry
+type: restaurant
+cuisine:
+  - Argentine
+  - steak
+licensed: yes
+bookings: yes
+takeaway: yes
+hours: "Mon-Sun: noon-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/12832914344/in/photostream
+summary: Argentine restaurant specialising in steak.  Part of a small chain.
+---
+name: Camino
+address: 28 Westferry Circus, Canary Wharf, E14 8RR
+website: http://www.camino.uk.com/
+twitter: CaminoLondon
+phone: 020 7239 9077
+lat: 51.505237
+long: -0.027928099
+station:
+  - Canary Wharf
+  - Westferry
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+photo: http://www.flickr.com/photos/kake_pugh/12832483295/in/photostream
+summary: Spanish food including tapas.  Part of a small chain.
+---
+name: Le Secret Des Rôtisseurs
+address: 37 Westferry Circus, E14 8RP
+website: http://www.eatlesecret.co.uk/
+twitter: LeSecretdesR
+phone: 020 7719 0950
+lat: 51.506606
+long: -0.029031828
+station:
+  - Canary Wharf
+  - Westferry
+type: restaurant
+cuisine: French
+licensed: yes
+bookings: yes
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12832535933/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832527593/in/photostream
+summary: French restaurant specialising in spit-roasted meats and Bordeaux wines.
+---
+name: The Grapes
+address: 76 Narrow Street, Limehouse, E14 8BP
+website: http://www.thegrapes.co.uk/
+twitter: TheGrapesLondon
+phone: 0207 987 4396
+lat: 51.508933
+long: -0.033867449
+station: Westferry
+type: pub
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Wed: noon-3:30pm, 5:30pm-11:30pm; Thu-Sat: noon-11:30pm; Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12832874984/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832874984/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832500793/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832848514/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832848514/in/photostream
+summary: Historic riverside pub with a restaurant upstairs.
+---
+name: The Narrow
+address: 44 Narrow Street, Limehouse, E14 8DP
+website: http://www.gordonramsay.com/thenarrow/
+phone: 0207 592 7950
+lat: 51.509746
+long: -0.037732914
+station: Limehouse
+type: pub
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: noon-10:30pm; Sun: noon-10pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12832826324/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832826324/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12832826324/in/photostream
+summary: Riverside pub offering modern British cuisine.  Part of the Gordon Ramsay group.
+---
+name: La Figa
+address: Unit 1, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
+website: http://www.lafigarestaurant.co.uk/
+phone: 020 7423 9829
+lat: 51.510140
+long: -0.039355651
+station: Limehouse
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+photo: http://www.flickr.com/photos/kake_pugh/12832376475/in/photostream
+---
+name: Veranda
+address: Unit 2, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
+website: http://www.verandadocklands.com/
+phone: 020 7791 2760
+lat: 51.510128
+long: -0.038797751
+station: Limehouse
+type: restaurant
+cuisine: Indian
+takeaway: yes
+delivery: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12833758804/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833394663/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833394663/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833394663/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833394663/in/photostream
+---
+name: Verde
+address: Unit 3, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
+website: http://verderiverside.co.uk/
+phone: 020 7702 8803
+lat: 51.510290
+long: -0.038797751
+station: Limehouse
+type: restaurant
+cuisine: Italian
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12833242943/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833277285/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833328243/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833245115/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833231015/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833636384/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833636384/in/photostream
+  - http://www.flickr.com/photos/kake_pugh/12833594794/in/photostream
