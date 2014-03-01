@@ -583,14 +583,14 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12596899713/
 ---
 name: Café Bonnane
-address: 
+address: ExCeL Marina, Western Gateway, E16 1DR
 phone: 020 7474 4975
 lat: 51.507828
 long: 0.020669907
 station: Royal Victoria
 type: restaurant
 photo:
-  - http://www.flickr.com/photos/kake_pugh/12596899713/
+  - http://www.flickr.com/photos/kake_pugh/12596862213/
   - http://www.flickr.com/photos/kake_pugh/12596739635/
 ---
 name: Caribbean Scene
@@ -1173,7 +1173,9 @@ type: restaurant
 cuisine: British
 licensed: yes
 bookings: yes
-photo: http://www.flickr.com/photos/kake_pugh/12819083595/in/photostream
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12819083595/
+  - http://www.flickr.com/photos/kake_pugh/12837792974/
 summary: Modern British restaurant, bar, and deli.  Part of a small chain.
 ---
 name: Royal China
@@ -1339,3 +1341,269 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12833636384/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12833636384/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12833594794/in/photostream
+---
+name: Obikà
+address: Unit 1, West Wintergarden, 35 Bank Street, Canary Wharf, E14 5NW
+website: http://obika.com/
+phone: 020 7719 1532
+lat: 51.502535
+long: -0.020239145
+station: Canary Wharf
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 9:30am-10pm; Sat: noon-10pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12836276055/
+  - http://www.flickr.com/photos/kake_pugh/12836276055/
+  - http://www.flickr.com/photos/kake_pugh/12836327273/
+  - http://www.flickr.com/photos/kake_pugh/12836226545/
+summary: Self-styled “Mozzarella bar”.
+---
+name: Zamoo Falafel
+address: 19 Cuba Street, Isle of Dogs, E14 8LD
+phone: 020 7515 2131
+lat: 51.501366
+long: -0.023897678
+station:
+  - Canary Wharf
+  - South Quay
+type: restaurant
+cuisine: Middle Eastern
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12836634524/
+  - http://www.flickr.com/photos/kake_pugh/12836264283/
+summary: Kebab and falafel cafe.
+---
+name: The North Pole
+address: 74 Manilla Street, Isle of Dogs, E14 8LG
+phone: 020 7987 5443
+lat: 51.500989
+long: -0.023318321
+station:
+  - Canary Wharf
+  - South Quay
+type: pub
+cuisine: British
+licensed: yes
+byob: no
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12836158395/
+  - http://www.flickr.com/photos/kake_pugh/12836158395/
+  - http://www.flickr.com/photos/kake_pugh/12836123475/
+summary: "Traditional British pub serving food at lunchtimes: sandwiches, jacket potatoes, sausage/burger/egg/ham with chips, omelettes."
+access: A step to get in, but it's all level once you're in.
+---
+name: Lime
+address: 1 Manilla Street, Regatta Point, Isle of Dogs, E14 8JZ
+website: http://www.limerestaurant.co.uk/
+phone: 020 7515 4500
+lat: 51.501173
+long: -0.025764495
+station:
+  - Canary Wharf
+  - South Quay
+type: restaurant
+cuisine: Indian
+bookings: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: noon-2:30pm, 5:30pm-11:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12837415305/
+---
+name: Aniseed
+address: 25 Westferry Road, Isle of Dogs, E14 8JH
+website: http://www.aniseed-docklands.co.uk/
+phone: 020 7517 9233
+lat: 51.501520
+long: -0.025872186
+station:
+  - Canary Wharf
+  - South Quay
+type: restaurant
+cuisine: Indian
+bookings: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: noon-2:30pm, 5:30pm-11:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12837451973/
+  - http://www.flickr.com/photos/kake_pugh/12837401055/
+---
+name: Tesco Express
+address: Landmark Tower, Westferry Road, Isle of Dogs, E14 9AB
+website: http://www.tesco.com/
+twitter: tesco
+phone: 0345 6719592
+lat: 51.501742
+long: -0.025786355
+station:
+  - Canary Wharf
+  - South Quay
+type: grocery shop
+hours: "Mon-Sat: 6am-midnight; Sun: 6am-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/12837820014/
+summary: Also has a free 24-hour cashpoint.
+---
+name: Bene Bene
+address: 3 Westferry Circus, Canary Wharf, E14 4HD
+lat: 51.506178
+long: -0.026274115
+station: Canary Wharf
+type: takeaway
+takeaway: yes
+photo: http://www.flickr.com/photos/kake_pugh/12837780504/
+summary: Cheap sandwich shop.
+---
+name: Quadrato
+address: Four Seasons Hotel, 46 Westferry Circus, Canary Wharf, E14 8RS
+website: http://www.fourseasons.com/canarywharf/dining/
+twitter: FSCanaryWharf
+phone: 020 7510 1858
+lat: 51.506652
+long: -0.027856618
+station:
+  - Canary Wharf
+  - Westferry
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 6:30am-11am, noon-3pm, 6pm-10:30pm; Sat: 8am-11am, noon-3pm, 6pm-10:30pm; Sun: 8am-11am, 12:30pm-3pm, 6pm-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12837414053/
+summary: Modern Italian restaurant in the Four Seasons Hotel, open for breakfast, lunch, and dinner.
+access: No step-free access from Westferry Station; for step-free access use Canary Wharf Station.
+---
+name: Dockland Diner
+address: 76-77 Cannon Drive, Isle of Dogs, E14 4AS
+phone: 020 7515 7160
+lat: 51.507364
+long: -0.025769860
+station:
+  - Westferry
+  - West India Quay
+type: restaurant
+cuisine: British
+licensed: no
+photo: http://www.flickr.com/photos/kake_pugh/12838590004/
+summary: Traditional British “greasy spoon” cafe — possibly the only one of its kind on the Isle of Dogs.
+---
+name: The Ledger Building
+address: 4 Hertsmere Road, West India Quay, E14 4AL
+website: http://www.jdwetherspoon.co.uk/home/pubs/the-ledger-building
+twitter: jdwtweet
+phone: 020 7536 7770
+lat: 51.507550
+long: -0.024578959
+station: West India Quay
+type: pub
+cuisine: British
+licensed: yes
+byob: no
+takeaway: no
+delivery: no
+hours: "Mon-Thu: 8am-midnight; Fri-Sat: 8am-1am; Sun: 8am-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/12838131875/
+summary: Lloyds No 1 (Wetherspoons) pub.  Reasonably-priced real ales and pub food.
+---
+name: Rum and Sugar
+address: No 1 Warehouse, West India Quay, E14 4AL
+website: http://www.rumandsugar.co.uk/
+twitter: RumAndSugar
+phone: 020 7538 2702
+lat: 51.507430
+long: -0.023720652
+station: West India Quay
+type: restaurant
+cuisine: British
+licensed: yes
+hours: "Mon: closed; Tue-Wed: 11am-11pm; Thu-Fri 11am-1am; Sat: 11am-11pm; Sun: 11am-6pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12838117565/
+  - http://www.flickr.com/photos/kake_pugh/12838530134/
+  - http://www.flickr.com/photos/kake_pugh/12838088265/
+  - http://www.flickr.com/photos/kake_pugh/12838502404/
+summary: Restaurant attached to the Museum of London Docklands.
+---
+name: La Tasca
+address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
+website: http://www.latasca.com/canary-wharf/
+twitter: LaTasca
+phone: 020 7531 9990
+lat: 51.507404
+long: -0.023382694
+station: West India Quay
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+hours: "Mon-Sun: 11am-11:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12838489764/
+summary: Chain tapas restaurant with several gluten-free options.
+---
+name: Strada
+address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
+website: http://www.strada.co.uk/italian-restaurant/west-india-quay
+phone: 020 7538 9435
+lat: 51.507384
+long: -0.023227125
+station: West India Quay
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: 11:30am-11pm; Sun: 11:30am-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/12838476074/
+summary: Chain Italian restaurant.
+---
+name: Temple Lounge
+address: Unit D, Hertsmere Road, West India Quay, E14 4AF
+website: http://www.temple-lounge.com/
+twitter: temple_lounge
+phone: 020 7005 0862
+lat: 51.507360
+long: -0.023023278
+station: West India Quay
+type: restaurant
+cuisine:
+  - Lebanese
+  - Indian
+licensed: no
+byob: yes
+bookings: yes
+hours: "Mon-Sun: 1pm-midnight"
+photo: http://www.flickr.com/photos/kake_pugh/12838101433/
+summary: Halal shisha cafe with a large covered outdoor seating area.  BYOB allowed only with advance reservations.  Minimum spend of £10/head.
+---
+name: Levante
+address: 14 Hertsmere Road, West India Quay, E14 4AF
+website: http://www.levantebar.com/
+phone: 020 3069 8981
+lat: 51.507340
+long: -0.022835523
+station: West India Quay
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12838019125/
+  - http://www.flickr.com/photos/kake_pugh/12838432334/
+summary: Spanish food including tapas.
+---
+name: Henry's
+address: Unit C, 16 Hertsmere Road, West India Quay, E14 4AX
+website: http://www.henryscafebar.co.uk/henrys-west-india-quay/
+twitter: HenrysWIQ
+phone: 020 7515 8361
+lat: 51.507323
+long: -0.022658497
+station: West India Quay
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+photo: http://www.flickr.com/photos/kake_pugh/12838419324/
+summary: Part of a small chain.
