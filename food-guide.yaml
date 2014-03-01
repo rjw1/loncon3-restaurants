@@ -1607,3 +1607,77 @@ licensed: yes
 bookings: yes
 photo: http://www.flickr.com/photos/kake_pugh/12838419324/
 summary: Part of a small chain.
+---
+name: Via
+address: Unit B, 18 Hertsmere Road, West India Quay, E14 4AY
+website: http://www.viabars.co.uk/
+twitter: Via_CanaryWharf
+phone: 020 7515 8549
+lat: 51.507277
+long: -0.022328988
+station: West India Quay
+type: restaurant
+cuisine: British
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12860026643/
+  - http://www.flickr.com/photos/kake_pugh/12859939235/
+  - http://www.flickr.com/photos/kake_pugh/12859994933/
+  - http://www.flickr.com/photos/kake_pugh/12859982643/
+  - http://www.flickr.com/photos/kake_pugh/12859970123/
+  - http://www.flickr.com/photos/kake_pugh/12859890545/
+  - http://www.flickr.com/photos/kake_pugh/12859950833/
+summary: Cocktails, burgers, sharing platters, and pub food.
+---
+name: Browns
+address: Unit A, 18 Hertsmere Road, West India Quay, E14 4AY
+website: http://www.browns-restaurants.co.uk/locations/west-india-quay/
+twitter: BrownsWIQ
+phone: 020 7987 9777
+lat: 51.507252
+long: -0.022052720
+station: West India Quay
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12860281164/
+  - http://www.flickr.com/photos/kake_pugh/12859924083/
+  - http://www.flickr.com/photos/kake_pugh/12859822885/
+  - http://www.flickr.com/photos/kake_pugh/12859875963/
+summary: Chain restaurant offering classic British food including breakfast, traditional afternoon tea, and Sunday roasts.
+---
+name: Manhattan Grill
+address: 22 Hertsmere Road, West India Quay, E14 4ED
+website: http://manhattangrill.co.uk/
+twitter: manhattan_grill
+phone: 020 7517 2808
+lat: 51.507131
+long: -0.021655753
+station: West India Quay
+type: restaurant
+cuisine: steak
+licensed: yes
+bookings: yes
+photo: http://www.flickr.com/photos/kake_pugh/12860251594/
+---
+name: Dockmaster's House
+address: 1 Hertsmere Road, Poplar, E14 8JJ
+website: http://www.dockmastershouse.com/
+twitter: DockmastersHous
+phone: 020 7345 0345
+lat: 51.508222
+long: -0.024150208
+station: Westferry
+type: restaurant
+cuisine: Indian
+licensed: yes
+bookings: yes
+takeaway: yes
+hours: "Mon-Fri: noon-2:30pm, 6pm-10:30pm; Sat: 6pm-10:30pm; Sun: closed (last orders 15 minutes before closing at all sessions)"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12860199654/
+  - http://www.flickr.com/photos/kake_pugh/12859775095/
+  - http://www.flickr.com/photos/kake_pugh/12860168404/
+summary: Fine dining Indian restaurant.
