@@ -1681,3 +1681,60 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12859775095/
   - http://www.flickr.com/photos/kake_pugh/12860168404/
 summary: Fine dining Indian restaurant.
+---
+name: Noodle Street
+address: 15-17 Pennyfields, Poplar, E14 8HP
+website: http://www.noodlestreet.co.uk/
+phone: 020 7987 8688
+lat: 51.509604
+long: -0.024262860
+station: Westferry
+type: restaurant
+cuisine: Chinese
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: 11:30am-11pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12861630904/
+  - http://www.flickr.com/photos/kake_pugh/12861233355/
+summary: Chinese food including dim sum, plus a few Japanese, Thai, and Vietnamese dishes.  Drinks include bubble tea.
+---
+name: Bengal Classic
+address: 11 Pennyfields, Poplar, E14 8HP
+phone: 020 7517 9955
+lat: 51.509634
+long: -0.024571314
+station: Westferry
+type: restaurant
+cuisine: Indian
+licensed: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Thu: noon-2:30pm, 6pm-11:30pm; Fri-Sat: noon-2:30pm, 6pm-midnight; Sun: noon-2:30pm, 6pm-11:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12861273553/
+  - http://www.flickr.com/photos/kake_pugh/12861147085/
+  - http://www.flickr.com/photos/kake_pugh/12861566514/
+  - http://www.flickr.com/photos/kake_pugh/12861562434/
+summary: Representative example of the standard British curryhouse.
+---
+name: The Tale of India
+address: 53 West India Dock Road, Poplar, London E14 8HP
+website: http://thetaleofindia.com/
+phone: 020 7537 2546
+lat: 51.509739
+long: -0.025150672
+station: Westferry
+type: restaurant
+cuisine: Indian
+licensed: yes
+takeaway: yes
+hours: "Mon-Wed: noon-2:30pm, 5:30pm-11:30pm; Thu-Sat: noon-2:30pm, 5:30pm-midnight; Sun: noon-2:30pm, 5:30pm-11:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12861555104/
+  - http://www.flickr.com/photos/kake_pugh/12861258393/
+  - http://www.flickr.com/photos/kake_pugh/12861588654/
+  - http://www.flickr.com/photos/kake_pugh/12861166705/
+summary: Standard British curryhouse fare, plus a few regional Indian specialties.
