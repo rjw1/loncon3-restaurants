@@ -54,6 +54,18 @@ function add_marker( i, thing ) {
   map.addLayer( marker );
 
   content = '<b>' + thing.name + '</b><br>' + thing.address;
+  if ( thing.type ) {
+    content = content + '<br><b>Type:</b> ' + thing.type;
+  }
+  if ( thing.cuisine ) {
+    content = content + '<br><b>Cuisine:</b> ' + thing.cuisine;
+  }
+  if ( thing.summary ) {
+    content = content + '<br><b>Summary:</b> ' + thing.summary;
+  }
+  if ( thing.access ) {
+    content = content + '<br><b>Access:</b> ' + thing.access;
+  }
   marker.bindPopup( content );
 
   markers[ i ] = marker;
