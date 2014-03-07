@@ -1878,3 +1878,149 @@ takeaway: yes
 photo: http://www.flickr.com/photos/kake_pugh/12987957285/
 summary: Small restaurant very close to Shadwell Station. All halal.
 access: A step to get in.
+---
+name: Dar Marrakech
+address: 403 Stratford High Street, E15 4QZ
+website: http://www.darmarrakech.co.uk/
+phone: 020 8221 0113
+lat: 51.539574
+long: 0.00010500847
+station:
+  - Stratford
+  - Stratford High Street
+type: restaurant
+cuisine:
+  - Moroccan
+  - Lebanese
+bookings: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12992256233/
+  - http://www.flickr.com/photos/kake_pugh/12992487844/
+  - http://www.flickr.com/photos/kake_pugh/12992200813/
+  - http://www.flickr.com/photos/kake_pugh/12992063115/
+summary: Has a shisha menu and a heated garden terrace.
+---
+name: LA Bar
+address: 405 Stratford High Street, E15 4QZ
+phone: 07455 939137
+lat: 51.539622
+long: 0.00015060602
+station: Stratford
+type: takeaway
+cuisine: Caribbean
+takeaway: yes
+delivery: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12992120205/
+  - http://www.flickr.com/photos/kake_pugh/12992426624/
+  - http://www.flickr.com/photos/kake_pugh/12992048185/
+  - http://www.flickr.com/photos/kake_pugh/12992048185/
+summary: Despite the name, as of March 2014 this is only open for takeaway/delivery.
+---
+name: Ye Olde Black Bull
+address: 13 Broadway, Stratford, E15 4BQ
+lat: 51.540238
+long: 0.00086675583
+station: Stratford
+type: pub
+cuisine: British
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/12992394424/
+---
+name: Stratford Best Cafe/Best Kebab House
+address: 21-23 Broadway, Stratford, E15 4BQ
+lat: 51.540383
+long: 0.0011081546
+station: Stratford
+type: restaurant
+cuisine:
+  - British
+  - Turkish
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12991985275/
+  - http://www.flickr.com/photos/kake_pugh/12992366964/
+summary: Traditional British “greasy spoon” cafe food, plus lahmacun (“Turkish pizza”) and kebabs.
+---
+name: The Langthorne
+address: 14 Broadway, Stratford, E15 4QS
+website: http://www.thelangthornestratford.co.uk/
+phone: 020 8534 7840
+lat: 51.540230
+long: 0.00024984775
+station: Stratford
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Thu: 10am-11pm; Fri-Sat: 10am-1am; Sun: noon-11pm.  Food served until 10pm daily."
+photo: http://www.flickr.com/photos/kake_pugh/12992350994/
+summary: Pub food and real ale.
+---
+name: Cafe In The Courtyard
+address: Old Town Hall, 29 Broadway, Stratford, E15 4BQ
+lat: 51.540528
+long: 0.0015453547
+station: Stratford
+type: restaurant
+cuisine:
+  - African
+  - British
+  - Mexican
+  - Spanish
+hours: "Mon-Fri: from 11am; Sat-Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12992068543/
+  - http://www.flickr.com/photos/kake_pugh/12991933405/
+---
+name: Cafe Mondo
+address: 3 West Ham Lane, Stratford, E15 4PH
+website: http://cafemondo.co.uk/
+twitter: cafemondo1
+phone: 020 8519 4013
+lat: 51.540647
+long: 0.0020952076
+station: Stratford
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+takeaway: yes
+hours: "Mon-Tue: noon-3pm; Wed: noon-3pm, 5pm-10pm; Thu: noon-10pm; Fri-Sat: noon-late; Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/12991918515/
+summary: Pizza, pasta, and fish. Gluten-free pasta available.
+---
+name: Queens Head
+address: 5-7 West Ham Lane, Stratford, E15 4PH
+lat: 51.540580
+long: 0.0022480935
+station: Stratford
+type: pub
+cuisine: British
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12992296714/
+  - http://www.flickr.com/photos/kake_pugh/12991893385/
+---
+name: Princess Of Wales
+address: 25 West Ham Lane, Stratford, E15 4PH
+lat: 51.540068
+long: 0.0030017942
+station: Stratford
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: 11am-11pm; Sun: noon-3pm, 7pm-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12991880805/
+  - http://www.flickr.com/photos/kake_pugh/12991867645/
+  - http://www.flickr.com/photos/kake_pugh/12992246594/
+---
+name: Manus Palm Grove
+address: 45 West Ham Lane, Stratford, E15 4PH
+phone: 020 8555 5560
+lat: 51.539576
+long: 0.0038735121
+station: Stratford
+type: restaurant
+cuisine: Indian
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/6865139978/
