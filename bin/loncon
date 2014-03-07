@@ -6,10 +6,18 @@ use File::Glob qw( :glob );
 use Template;
 use YAML::Any qw( LoadFile );
 
-my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
-my $webdir = "/Users/kake/Sites/loncon";
+my $laptop = 0;
 
+my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
 my $filename = $ARGV[0] || "$datadir/food-guide.yaml";
+my ( $webdir, $base_url );
+if ( $laptop ) {
+  $webdir = "/Users/kake/Sites/loncon";
+  $base_url = "http://127.0.0.1/~kake/loncon/";
+} else {
+  $webdir = "/Users/kake/tmp/loncon/";
+  $base_url = "http://the.earth.li/~kake/tmp/loncon/";
+}
 
 my @venues = LoadFile( $filename );
 @venues = sort { $a->{name} cmp $b->{name} } @venues;
@@ -55,7 +63,7 @@ my $tt_config = {
 my $tt = Template->new( $tt_config ) or die Template->error;
 
 my $tt_vars = {
-  base_url => "http://127.0.0.1/~kake/loncon/",
+  base_url => $base_url,
   min_lat => $min_lat,
   max_lat => $max_lat,
   centre_lat => ( ( $min_lat + $max_lat ) / 2 ),
