@@ -2024,3 +2024,40 @@ type: restaurant
 cuisine: Indian
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/6865139978/
+---
+name: Sawmill
+address: 51 West Ham Lane, Stratford, E15 4PH
+twitter: CafeSawmill
+lat: 51.539457
+long: 0.0040639490
+station: Stratford
+type: restaurant
+cuisine: British
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12992687405/
+  - http://www.flickr.com/photos/kake_pugh/12992716575/
+  - http://www.flickr.com/photos/kake_pugh/12993101154/
+summary: Cakes and coffee, including gluten-free options.
+---
+name: Asmara Cafe
+address: 53 West Ham Lane, Stratford, E15 4PH
+phone: 07984 932068
+lat: 51.539426
+long: 0.0041122287
+station: Stratford
+type: restaurant
+cuisine: Eritrean
+hours: "Mon-Thu: 8am-10:30pm; Fri-Sat: 8am-11pm; Sun: 8am-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12993093804/
+  - http://www.flickr.com/photos/kake_pugh/12993117214/
+  - http://www.flickr.com/photos/kake_pugh/12993115564/
+  - http://www.flickr.com/photos/kake_pugh/12993130374/
+---
+name: Café Lympic
+address: 61 West Ham Lane, Stratford, E15 4PH
+lat: 51.539207
+long: 0.0044045895
+station: Stratford
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/12992762645/
