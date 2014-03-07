@@ -1739,3 +1739,142 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12861588654/
   - http://www.flickr.com/photos/kake_pugh/12861166705/
 summary: Standard British curryhouse fare, plus a few regional Indian specialties.
+---
+name: Westferry Arms
+address: 43 West India Dock Road, Poplar, E14 8EZ
+website: http://westferryarms.com/
+phone: 020 7987 1530
+lat: 51.510025
+long: -0.025560647
+station: Westferry
+type: pub
+licensed: yes
+hours: "Mon-Thu: 11am-11pm; Fri-Sat: 11am-midnight; Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12988279493/
+  - http://www.flickr.com/photos/kake_pugh/12988268153/
+  - http://www.flickr.com/photos/kake_pugh/12988530634/
+---
+name: Spice Merchants
+address: 38 Salter Street, Poplar, E14 8AA
+website: http://www.spicemerchants.com/
+phone: 020 7987 8779
+lat: 51.509213
+long: -0.026976854
+station: Westferry
+type: restaurant
+cuisine: Indian
+licensed: yes
+bookings: yes
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12988521404/
+  - http://www.flickr.com/photos/kake_pugh/12988240363/
+  - http://www.flickr.com/photos/kake_pugh/12988504424/
+---
+name: MK Cafe
+address: 819 Commercial Road, Limehouse, E14 7HG
+lat: 51.512061
+long: -0.028183848
+station: Westferry
+type: restaurant
+cuisine: British
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12988223083/
+  - http://www.flickr.com/photos/kake_pugh/12988202203/
+summary: Traditional British “greasy spoon” cafe.
+---
+name: Royal Spice
+address: 815 Commercial Road, Limehouse, E14 7HG
+website: http://www.royalspice.uk.com/
+phone: 020 7536 9902
+lat: 51.512088
+long: -0.028371602
+station: Westferry
+type: restaurant
+cuisine: Indian
+licensed: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: noon-2:15pm, 5pm-midnight"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12988087555/
+  - http://www.flickr.com/photos/kake_pugh/12988462924/
+  - http://www.flickr.com/photos/kake_pugh/12988452754/
+summary: Standard British curryhouse fare with a few specialities including grilled items.
+---
+name: Basiliano
+address: 795 Commercial Road, Limehouse, E14 7HG
+phone: 020 7987 7799
+lat: 51.512330
+long: -0.029257134
+station: Westferry
+type: takeaway
+cuisine: Italian
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/12988046195/
+summary: Takeaway pizzas from a wood-fired oven. Pasta dishes too.
+---
+name: Indiana
+address: 129 Salmon Lane, Limehouse, E14 7PG
+website: http://indiana.uk.com/
+phone: 020 7987 0343
+lat: 51.513538
+long: -0.033055142
+station:
+  - Limehouse
+  - Westferry
+type: restaurant
+cuisine: Indian
+photo: http://www.flickr.com/photos/kake_pugh/12988434904/
+---
+name: Sapore Italiano
+address: 106 Salmon Lane, Limehouse, E14 7PQ
+website: http://www.saporeitaliano.co.uk/
+twitter: sapore_italiano
+phone: 020 7531 7492
+lat: 51.513974
+long: -0.033859804
+station:
+  - Limehouse
+  - Westferry
+type: takeaway
+cuisine: Italian
+takeaway: yes
+delivery: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12988406924/
+  - http://www.flickr.com/photos/kake_pugh/12988143653/
+---
+name: Departure
+address: 649-651 Commercial Road, Limehouse, E14 7LW
+website: http://www.departure.org.uk/
+phone: 020 7702 8802
+lat: 51.512814
+long: -0.038364574
+station: Limehouse
+type: restaurant
+cuisine:
+  - British
+  - Indian
+  - West Indian
+hours: "Mon: closed; Tue: 11am-5pm; Wed-Fri: 11am-9pm; Sat: 10am-5pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12988365314/
+  - http://www.flickr.com/photos/kake_pugh/12988388354/
+  - http://www.flickr.com/photos/kake_pugh/12988102743/
+  - http://www.flickr.com/photos/kake_pugh/12988380804/
+summary: Community arts cafe with events and classes. Regularly changing hot specials including vegetarian options. All halal.
+---
+name: The Fish And Chicken Shop
+address: 139 Watney Street, Shadwell, E1 2QE
+lat: 51.511590
+long: -0.056655899
+station: Shadwell
+type: restaurant
+cuisine: British
+takeaway: yes
+photo: http://www.flickr.com/photos/kake_pugh/12987957285/
+summary: Small restaurant very close to Shadwell Station. All halal.
+access: A step to get in.
