@@ -3,6 +3,7 @@
 use strict;
 use File::Copy;
 use File::Glob qw( :glob );
+use File::Slurp qw( :edit );
 use Template;
 use YAML::Any qw( LoadFile );
 
@@ -79,6 +80,10 @@ close $output_fh;
 
 copy( "$datadir/stylesheets/loncon.css", "$webdir/stylesheets" ) || die $!;
 copy( "$datadir/js/map.js", "$webdir/js" ) || die $!;
+if ( !$laptop ) {
+  edit_file { s'http://127.0.0.1/~kake/loncon/'http://the.earth.li/~kake/tmp/loncon/'g } "$webdir/js/map.js";
+}
+
 my @icons = bsd_glob( "$datadir/icons/*.png" );
 foreach my $icon ( @icons ) {
   my ( $vol, $dir, $file) = File::Spec->splitpath( $icon );
