@@ -2061,3 +2061,65 @@ long: 0.0044045895
 station: Stratford
 type: restaurant
 photo: http://www.flickr.com/photos/kake_pugh/12992762645/
+---
+name: Tiffin Grill
+address: 38 West Ham Lane, Stratford, E15 4PT
+lat: 51.538570
+long: 0.0048605650
+station: Stratford
+type: takeaway
+cuisine: Indian
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/13005636364/
+---
+name: VIP Cafe
+address: 75 Vicarage Lane, Stratford, E15 4HG
+lat: 51.540050
+long: 0.010930404
+station: Stratford
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/13005619674/
+summary: Seems to be Bulgarian-run - haven't seen the menu though.
+---
+name: Valbona Coffee
+address: 85 Vicarage Lane, Stratford, E15 4HG
+lat: 51.539878
+long: 0.010989413
+station: Stratford
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/13005365473/
+---
+name: Patisserie And Venoiserie
+address: 24 Vicarage Lane, Stratford, E15 4ES
+lat: 51.541474
+long: 0.010147199
+station: Stratford
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/13005358013/
+---
+name: Calabash
+address: 22 Vicarage Lane, Stratford, E15 4ES
+website: http://www.calabashcuisine.com/
+phone: 020 8503 1664
+lat: 51.541534
+long: 0.010101601
+station: Stratford
+type: restaurant
+cuisine: Caribbean
+takeaway: yes
+delivery: yes
+hours: "Mon-Fri: 10am-10pm; Sat-Sun: 10am-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/13005207045/
+---
+name: Cafe Now
+address: 35 Leytonstone Road, Stratford, E15 1JA
+phone: 020 8555 7775
+lat: 51.546332
+long: 0.0057430118
+station:
+  - Maryland
+  - Stratford
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/13005323453/
+summary: Coffee and pastry shop opposite Maryland Station.
