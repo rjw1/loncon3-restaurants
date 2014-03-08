@@ -2123,3 +2123,103 @@ station:
 type: restaurant
 photo: http://www.flickr.com/photos/kake_pugh/13005323453/
 summary: Coffee and pastry shop opposite Maryland Station.
+---
+name: Tasty
+address: 51a Leytonstone Road, Stratford, E15 1JA
+website: http://www.tastyafricanfood.com/
+twitter: TastysUK
+phone: 020 8522 4705
+lat: 51.546685
+long: 0.0061077922
+station:
+  - Maryland
+  - Stratford
+type: takeaway
+cuisine: Nigerian
+takeaway: yes
+delivery: yes
+hours: "Mon-Sat: noon-10pm; Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/13006787823/
+summary: Part of a small chain.
+---
+name: Nooks
+address: 55 Leytonstone Road, Stratford, E15 1JA
+phone: 020 3581 6364
+lat: 51.546767
+long: 0.0061185211
+station:
+ - Maryland
+  - Stratford
+type: restaurant
+cuisine: British
+hours: "Mon-Fri: 7am-7pm; Sat: 10am-7pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13006601285/
+  - http://www.flickr.com/photos/kake_pugh/13007027184/
+  - http://www.flickr.com/photos/kake_pugh/13006771343/
+  - http://www.flickr.com/photos/kake_pugh/13006626535/
+summary: Cafe and coffee shop near Maryland Station, serving toast and granola for breakfast, sandwiches on breads such as black rye and chollah, and cakes.
+---
+name: Stoney Hill
+address: 57-59 Leytonstone Road, Stratford, E15 1JA
+phone: 020 3583 2246
+lat: 51.546869
+long: 0.0061185211
+station:
+  - Maryland
+  - Stratford
+type: restaurant
+cuisine: Caribbean
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13006607965/
+  - http://www.flickr.com/photos/kake_pugh/13006754043/
+summary: Caribbean food including stew chicken, jerk pork, curry goat, and mannish water; also fresh juices.
+---
+name: D'Gaf
+address: 11 Leytonstone Road, Stratford, E15 1JA
+website: http://www.d-gaf.com/
+twitter: dgafuk
+phone: 020 7366 3666
+lat: 51.546100
+long: 0.0047800988
+station:
+  - Maryland
+  - Stratford
+type:
+  - restaurant
+  - pub
+cuisine:
+  - British
+  - Indian
+photo: http://www.flickr.com/photos/kake_pugh/13006729443/
+summary: Halal hookah cafe with food and mocktails. Possibly alcohol-free?
+---
+name: Railway Tavern
+address: 131 Angel Lane, Stratford, E15 1DB
+website: http://www.railwaytavernhotel.co.uk/
+phone: 020 8534 3123
+lat: 51.545102
+long: -0.000018373148
+station: Stratford
+type: pub
+cuisine: British
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/13006719293/
+summary: Traditional British pub food. Breakfast too though possibly only for guests in the hotel upstairs?
+---
+name: Pizza Express
+address: Theatre Square, Stratford, E15 1BX
+website: http://www.pizzaexpress.com/
+twitter: PizzaExpress
+phone: 020 8534 1700
+lat: 51.542847
+long: 0.0010759681
+station: Stratford
+type: restaurant
+cuisine: Italian
+licensed: yes
+takeaway: yes
+hours: "Mon: 11:30am-10pm; Tue-Wed: 11:30am-10:30pm; Thu: 11:30am-11:30pm; Fri-Sat: 11:30am-11pm; Sun: 11:30am-10pm"
+photo: http://www.flickr.com/photos/kake_pugh/13006958034/
+summary: Chain pizzeria in the same building as the Picturehouse cinema. Separate gluten-free menu including pizzas.
