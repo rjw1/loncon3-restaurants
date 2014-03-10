@@ -1875,7 +1875,9 @@ station: Shadwell
 type: restaurant
 cuisine: British
 takeaway: yes
-photo: http://www.flickr.com/photos/kake_pugh/12987957285/
+photo:
+  - http://www.flickr.com/photos/kake_pugh/12987957285/
+  - http://www.flickr.com/photos/kake_pugh/13028569874/
 summary: Small restaurant very close to Shadwell Station. All halal.
 access: A step to get in.
 ---
@@ -2223,3 +2225,181 @@ takeaway: yes
 hours: "Mon: 11:30am-10pm; Tue-Wed: 11:30am-10:30pm; Thu: 11:30am-11:30pm; Fri-Sat: 11:30am-11pm; Sun: 11:30am-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/13006958034/
 summary: Chain pizzeria in the same building as the Picturehouse cinema. Separate gluten-free menu including pizzas.
+---
+name: De Lites
+address: 81 Watney Street, Shadwell, E1 2QE
+phone: 020 7790 7100
+lat: 51.511585
+long: -0.056484237
+station: Shadwell
+type: restaurant
+cuisine:
+  - British
+  - Indian
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13028569874/
+  - http://www.flickr.com/photos/kake_pugh/13028331283/
+  - http://www.flickr.com/photos/kake_pugh/13028549124/
+  - http://www.flickr.com/photos/kake_pugh/13028300243/
+  - http://www.flickr.com/photos/kake_pugh/13028310633/
+  - http://www.flickr.com/photos/kake_pugh/13028290563/
+  - http://www.flickr.com/photos/kake_pugh/13028290563/
+  - http://www.flickr.com/photos/kake_pugh/13028290563/
+summary: Small cafe very near Shadwell Station. Halal. Toast-based breakfasts, sandwiches, British cafe lunches such as shepherd's pie, and South Asian dishes including chat pati, samosas, and kebab rolls. Soya milk available for coffees.
+---
+name: Frank's Cafe
+address: 641 Commercial Road, Limehouse, E14 7NT
+phone: 020 7790 9009
+lat: 51.512854
+long: -0.039441481
+station: Limehouse
+type: restaurant
+cuisine: British
+photo: http://www.flickr.com/photos/kake_pugh/13028102025/
+summary: Traditional British “greasy spoon” cafe just across the road from Limehouse Station.
+---
+name: Rajboy
+address: 564 Commercial Road, Limehouse, E14 7JD
+website: http://www.rajboy.com/
+phone: 020 7791 3535
+lat: 51.512674
+long: -0.040624335
+station: Limehouse
+type: restaurant
+cuisine: Indian
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/13028081735/
+summary: British curryhouse staples with a couple of more unusual dishes.
+---
+name: New Thai Garden
+address: 562 Commercial Road, Limehouse, E14 7JD
+phone: 020 7790 3427
+lat: 51.512677
+long: -0.040702119
+station: Limehouse
+type: restaurant
+cuisine: Thai
+photo: http://www.flickr.com/photos/kake_pugh/13028072055/
+---
+name: Limehouse Fried Chicken And Spice
+address: 540 Commercial Road, Shadwell, E1 0HY
+phone: 020 7265 9444
+lat: 51.512847
+long: -0.041911796
+station: Limehouse
+type: restaurant
+cuisine: Indian
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/13028062855/
+summary: Cafe/takeaway with a small eat-in space. Curries, kebabs, and fried chicken. The menu goes beyond the usual British curryhouse favourites.
+---
+name: Hung Tou
+address: 538 Commercial Road, Shadwell, E1 0HY
+phone: 020 7790 7487
+lat: 51.512859
+long: -0.041986898
+station: Limehouse
+type: takeaway
+cuisine: Chinese
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/13030810795/
+summary: Fairly standard Anglicised Chinese food.
+---
+name: Popular Cafe
+address: 536 Commercial Road, Shadwell, E1 0HY
+phone: 020 7265 9133
+lat: 51.512877
+long: -0.042091504
+station: Limehouse
+type: restaurant
+cuisine: British
+hours: "Mon-Sat; closed Sun"
+photo: http://www.flickr.com/photos/kake_pugh/13030945843/
+---
+name: Sainsbury's Local
+address: 516-520 Commercial Road, Shadwell, E1 0HY
+website: http://www.sainsburys.co.uk/
+twitter: sainsburys
+phone: 020 7423 9176
+lat: 51.512956
+long: -0.042780831
+station: Limehouse
+type: grocery shop
+hours: "Mon-Sun: 7am-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/13031169504/
+summary: Branch of one of the UK's big supermarket chains.
+---
+name: Sylvia's Corner
+address: 583 Commercial Road, Shadwell, E1 0HJ
+website: http://www.sylviascorner.co.uk/
+phone: 020 3509 8295
+lat: 51.513253
+long: -0.042963222
+station: Limehouse
+type: restaurant
+cuisine:
+  - British
+  - Italian
+hours: "Mon-Fri: 8am-7pm; Sat: 9am-6pm; Sun: 9:30am-4pm"
+photo: http://www.flickr.com/photos/kake_pugh/13030775905/
+summary: Breakfasts, sandwiches, burgers, salads, and hot pasta dishes.
+---
+name: The Maroons
+address: 514 Commercial Road, Shadwell, London E1 0HY
+website: http://www.themaroonsrestaurant.co.uk/
+phone: 020 7790 5132
+lat: 51.513014
+long: -0.043102697
+station: Limehouse
+type: restaurant
+cuisine: Caribbean
+licensed: yes
+hours: "Mon-Sat: 11:30am-11pm; Sun: noon-8pm"
+photo: http://www.flickr.com/photos/kake_pugh/13030764795/
+---
+name: Perfect Fried Chicken / Taj Mahal Tandoori
+address: 512 Commercial Road, Shadwell, E1 0HY
+phone: 020 7780 9147
+lat: 51.513044
+long: -0.043263629
+station: Limehouse
+type: takeaway
+cuisine: Indian
+takeaway: yes
+hours: "Mon-Sun: noon-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/13031124624/
+summary: Halal.
+---
+name: Sid Cafe
+address: 510 Commercial Road, Shadwell, E1 0HY
+lat: 51.513054
+long: -0.043328002
+station: Limehouse
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/13031124624/
+---
+name: Docklands Fish Bar
+address: 506 Commercial Road, Shadwell, E1 0HY
+phone: 020 7790 1122
+lat: 51.513066
+long: -0.043454066
+station: Limehouse
+type: takeaway
+takeaway: yes
+photo: http://www.flickr.com/photos/kake_pugh/13030732535/
+---
+name: Chung's
+address: 504 Commercial Road, Limehouse, E1 0HY
+phone: 020 7790 7678
+lat: 51.513073
+long: -0.043513075
+station: Limehouse
+type: takeaway
+cuisine: Chinese
+takeaway: yes
+photo: http://www.flickr.com/photos/kake_pugh/13031102944/
