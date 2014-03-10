@@ -2150,7 +2150,7 @@ phone: 020 3581 6364
 lat: 51.546767
 long: 0.0061185211
 station:
- - Maryland
+  - Maryland
   - Stratford
 type: restaurant
 cuisine: British
@@ -2394,7 +2394,7 @@ takeaway: yes
 photo: http://www.flickr.com/photos/kake_pugh/13030732535/
 ---
 name: Chung's
-address: 504 Commercial Road, Limehouse, E1 0HY
+address: 504 Commercial Road, Shadwell, E1 0HY
 phone: 020 7790 7678
 lat: 51.513073
 long: -0.043513075
@@ -2402,4 +2402,203 @@ station: Limehouse
 type: takeaway
 cuisine: Chinese
 takeaway: yes
-photo: http://www.flickr.com/photos/kake_pugh/13031102944/
+hours: "Mon: 5pm-11pm; Tue: closed; Wed: 5pm-11pm; Thu-Sat: noon-2pm, 5pm-11pm; Sun: 5pm-11pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13031102944/
+  - http://www.flickr.com/photos/kake_pugh/13055258615/
+  - http://www.flickr.com/photos/kake_pugh/13055258615/
+summary: Fairly standard Anglicised Chinese food.
+---
+name: Bismillah Cash And Carry
+address: 3-5 Westport Street, Shadwell, E1 0RA
+phone: 020 7791 5050
+lat: 51.513797
+long: -0.043724567
+station: Limehouse
+type: grocery shop
+photo: http://www.flickr.com/photos/kake_pugh/13055600004/
+summary: Asian groceries and fresh vegetables.
+---
+name: Michael's Chinese Restaurant
+address: 378 Commercial Road, Shadwell, E1 0LB
+phone: 020 7791 2828
+lat: 51.513632
+long: -0.050170317
+station:
+  - Shadwell
+  - Limehouse
+type: takeaway
+cuisine: Chinese
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/13055225995/
+summary: Fairly standard Anglicised Chinese food. Halal.
+---
+name: Lahore Two
+address: 367 Commercial Road, Shadwell, E1 2PS
+website: http://www.lahore-two.co.uk/
+phone: 020 7791 2376
+lat: 51.514351
+long: -0.053413108
+station: Shadwell
+type: restaurant
+cuisine: Punjabi
+licensed: yes
+hours: "Mon-Sun: 6pm-midnight"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13055225995/
+  - http://www.flickr.com/photos/kake_pugh/13055337963/
+---
+name: Spice King
+address: 363 Commercial Road, Shadwell, E1 2PS
+phone: 020 7790 8856
+lat: 51.514376
+long: -0.053525761
+station: Shadwell
+type: restaurant
+cuisine: Indian
+licensed: no
+takeaway: yes
+photo: http://www.flickr.com/photos/kake_pugh/13055328153/
+summary: Small halal cafe and takeaway serving fried chicken, kebabs, and biryani.
+---
+name: Angora
+address: 337 Commercial Road, Shadwell, E1 2PS
+phone: 020 7790 3312
+lat: 51.514371
+long: -0.054354563
+station: Shadwell
+type: restaurant
+takeaway: yes
+cuisine: Turkish
+photo: http://www.flickr.com/photos/kake_pugh/13055187205/
+---
+name: Efes
+address: 230 Commercial Road, Whitechapel, E1 2NB
+website: http://efeslondon.co.uk/
+twitter: EfesLondon
+phone: 020 7790 3299
+lat: 51.514508
+long: -0.058458343
+station:
+  - Shadwell
+  - Whitechapel
+type: restaurant
+cuisine: Turkish
+bookings: yes
+takeaway: yes
+hours: "Mon-Sun: 10am-midnight"
+photo: http://www.flickr.com/photos/kake_pugh/13055176905/
+summary: Charcoal-grilled kebabs including İskender, yoğurtlu, and vegetable varieties; pide and lahmacun (“Turkish pizzas”); and daily hot specials.
+---
+name: Lahore One
+address: 218 Commercial Road, Whitechapel, E1 2JT
+website: http://lahoreone.co.uk/
+phone: 020 7791 0112
+lat: 51.514580
+long: -0.059761897
+station:
+  - Shadwell
+  - Whitechapel
+type: restaurant
+cuisine: Punjabi
+bookings: yes
+hours: "Mon-Sun: noon-midnight"
+photo: http://www.flickr.com/photos/kake_pugh/13057216903/
+summary: A short menu focusing on home-style curries and kebabs, with plenty of vegetarian options.
+---
+name: Sahara Grill
+address: 49-53 New Road, Whitechapel, E1 1HH
+website: http://www.saharagrill.co.uk/
+phone: 020 7247 7803
+lat: 51.516102
+long: -0.062371686
+station: Whitechapel
+type: restaurant
+cuisine: global
+licensed: no
+byob: no
+hours: "Mon-Thu: noon-11:30pm; Fri-Sun: noon-midnight"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13057391394/
+  - http://www.flickr.com/photos/kake_pugh/13057067895/
+summary: Halal, alcohol-free restaurant in The Whitechapel hotel. Part of a small chain. Burgers, fajitas, steaks.
+---
+name: Needoo Grill
+address: 85-87 New Road, Whitechapel, E1 1HH
+website: http://www.needoogrill.co.uk/
+phone: 020 7247 0648
+lat: 51.516995
+long: -0.062551394
+station: Whitechapel
+type: restaurant
+cuisine: Punjabi
+photo: http://www.flickr.com/photos/kake_pugh/13057186703/
+summary: Curries and grilled meats with daily specials including haleem and nihari.
+---
+name: Maza
+address: 97 New Road, Whitechapel, E1 1HJ
+website: http://mazaeatery.co.uk/
+phone: 020 7539 3433
+lat: 51.517329
+long: -0.062596992
+station: Whitechapel
+type: restaurant
+cuisine:
+  - Indian
+  - Pakistani
+licensed: no
+byob: yes
+bookings: yes
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13057047455/
+  - http://www.flickr.com/photos/kake_pugh/13057040345/
+summary: A small and focused menu of curries and grilled meats; plenty of vegetarian options. Halal.
+---
+name: The Crêpe Shop
+address: 103 Fieldgate Street, Whitechapel, E1 1JU
+website: http://www.crepeshop.co.uk/
+twitter: TheCrepeShop
+lat: 51.517272
+long: -0.062969819
+station: Whitechapel
+type: restaurant
+cuisine: British
+hours: "Mon-Fri: 10:30am-9pm; Sat: 11:30am-10pm; Sun: open for events only"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13057118523/
+  - http://www.flickr.com/photos/kake_pugh/13057159063/
+  - http://www.flickr.com/photos/kake_pugh/13057316514/
+  - http://www.flickr.com/photos/kake_pugh/13057337554/
+  - http://www.flickr.com/photos/kake_pugh/13057337554/
+summary: Crêpes, coffee, and cakes in an “art café” with a basement gallery and monthly-changing exhibitions.
+---
+name: Tayyabs
+address: 81-83 Fieldgate Street, Whitechapel, E1 1JU
+website: http://www.tayyabs.co.uk/
+twitter: 1tayyabs
+phone: 020 7247 9543
+lat: 51.517212
+long: -0.063530400
+station: Whitechapel
+type: restaurant
+cuisine: Punjabi
+bookings: yes
+hours: "Mon-Sun: noon-11:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/13057295074/
+summary: Extremely popular — expect long queues and don't expect to linger over your meal. Booking strongly recommended.
+---
+name: Lahore Kebab House
+address: 2-10 Umberston Street, Whitechapel, E1 1PY
+website: http://www.lahore-kebabhouse.com/
+phone: 020 7481 9737
+lat: 51.514683
+long: -0.063052967
+station:
+  - Aldgate East
+  - Whitechapel
+type: restaurant
+cuisine: Punjabi
+photo: http://www.flickr.com/photos/kake_pugh/13056970345/
+summary: Curries and grilled meats. Very large but also very popular — expect queues.
