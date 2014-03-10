@@ -2602,3 +2602,263 @@ type: restaurant
 cuisine: Punjabi
 photo: http://www.flickr.com/photos/kake_pugh/13056970345/
 summary: Curries and grilled meats. Very large but also very popular — expect queues.
+---
+name: misschu
+address: 91 Whitechapel High Street, E1 7RA
+website: http://www.misschu.co.uk/
+twitter: misschutuckshop
+phone: 020 7650 0001
+lat: 51.515710
+long: -0.070868924
+station:
+  - Aldgate
+  - Aldgate East
+type: restaurant
+cuisine: Vietnamese
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: 11am-10:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/13062473194/
+summary: Vietnamese food with a pan-Asian twist. Vegan and gluten-free options. Small eat-in area.
+---
+name: Qasida
+address: 96 Whitechapel High Street, E1 7RA
+website: http://qasida.co.uk/
+twitter: QasidaLondon
+phone: 020 7247 7086
+lat: 51.515608
+long: -0.071155921
+station:
+  - Aldgate
+  - Aldgate East
+type: restaurant
+cuisine: Turkish
+licensed: no
+byob: no
+bookings: yes
+takeaway: yes
+hours: "Mon-Sun: 9am-11-pm"
+photo: http://www.flickr.com/photos/kake_pugh/13062266643/
+summary: Alcohol-free halal Turkish restaurant.
+---
+name: Kasturi
+address: 57 Aldgate High Street, EC3N 1AL
+website: http://kasturi-restaurant.co.uk/
+phone: 020 7480 7402
+lat: 51.514148
+long: -0.074605241
+station:
+  - Aldgate
+  - Aldgate East
+type: restaurant
+cuisine: Indian
+bookings: yes
+hours: "Mon-Sat: noon-3pm, 6pm-11pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13062254303/
+  - http://www.flickr.com/photos/kake_pugh/13062238883/
+  - http://www.flickr.com/photos/kake_pugh/13062425854/
+---
+name: Still And Star
+address: 1 Little Somerset Street, Whitechapel, E1 8AH
+phone: 020 7488 3761
+lat: 51.513886
+long: -0.074658886
+station:
+  - Aldgate
+  - Aldgate East
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/13062411344/
+summary: Small, traditional British pub serving real ale, sandwiches, and jacket potatoes.
+access: Step-free to get in, to get to the bar, to get to the seating, and to get to the toilets. However it's quite narrow by the bar, and the toilets aren't huge either.
+---
+name: White Swan
+address: 21 Alie Street, Whitechapel, E1 8DA
+website: http://www.shepherdneame.co.uk/pubs/aldgate-east/white-swan
+phone:  020 7702 0448
+lat: 51.513592
+long: -0.071681634
+station:
+  - Aldgate
+  - Aldgate East
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/13062394374/
+summary: Shepherd Neame pub serving real ales, sandwiches, and traditional hot pub food.
+access: Level entrance, step-free access to bar and ladies' (gents' not checked).
+---
+name: Dispensary
+address: 19a Leman Street, Whitechapel, E1 8EN
+website: http://www.thedispensarylondon.co.uk/
+twitter: DispensaryPub
+phone: 020 7977 0486
+lat: 51.514051
+long: -0.070681170
+station:
+  - Aldgate
+  - Aldgate East
+type:
+  - pub
+  - restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 11:30am-11pm; Sat-Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/13062174103/
+summary: Grade II* listed building housing a pub with a mezzanine restaurant. Children under 14 allowed in the restaurant (when accompanied by an adult) but not in the bar.
+---
+name: Oliver Conquest
+address: 70 Leman Street, Whitechapel, E1 8EU
+twitter: OliverConquest
+phone: 07725 647082
+lat: 51.513023
+long: -0.070066944
+station:
+  - Aldgate
+  - Aldgate East
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Wed: noon-11pm; Thu-Fri: noon-11:30pm; Sat: 6pm-11:30pm; Sun: closed. Food served Mon-Fri: noon-3pm, 5:30pm-9pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13062005755/
+  - http://www.flickr.com/photos/kake_pugh/13062343894/
+  - http://www.flickr.com/photos/kake_pugh/13062034935/
+summary: Self-proclaimed “pub and gin house”. Over 150 gins, plus Meantime beer on draught. Sandwiches, nachos, and a small selection of hot meals.
+---
+name: Cafe Spice Namaste
+address: 16 Prescot Street, Whitechapel, E1 8AZ
+website: http://www.cafespice.co.uk/
+twitter: CafeSpiceNamast
+phone: 020 7488 9242
+lat: 51.511619
+long: -0.070659712
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: restaurant
+cuisine: Indian
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: no
+hours: "Mon-Fri: noon-3pm, 6:15pm-10:30pm; Sat: 6:30pm-10:30pm; Sun (and Bank Hol): closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13062313014/
+  - http://www.flickr.com/photos/kake_pugh/13062298514/
+  - http://www.flickr.com/photos/kake_pugh/13061956125/
+  - http://www.flickr.com/photos/kake_pugh/13062263014/
+  - http://www.flickr.com/photos/kake_pugh/13062042703/
+  - http://www.flickr.com/photos/kake_pugh/13062027423/
+summary: Modern Indian food using seasonal British produce. Tasting menu available. More expensive than average for an Indian restaurant in London. Grade II listed building.
+access: Half a dozen steps to get in; no lift. Bell at bottom of steps to ring for staff who will carry or assist mobility-impaired people into the building. Accessible toilet available. Interior steps not yet checked.
+---
+name: Princess Of Prussia
+address: 15 Prescot Street, Whitechapel, E1 8AZ
+website: http://www.shepherdneame.co.uk/pubs/london/princess-prussia
+phone: 020 7702 0723
+lat: 51.511637
+long: -0.070490733
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: pub
+cuisine: British
+licensed: yes
+takeaway: yes
+hours: "Mon-Sat: 11am-midnight; Sun: 11am-10:30pm. Food served Mon-Fri: noon-3pm, 6pm-10pm; Sat: noon-5pm, 6pm-10pm; Sun: noon-5pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13061858155/
+  - http://www.flickr.com/photos/kake_pugh/13062212084/
+  - http://www.flickr.com/photos/kake_pugh/13062197084/
+summary: Real ale, sandwiches, bar snacks, and traditional British pub food including roast lunches on Sundays.
+---
+name: Red Chilli
+address: 137 Leman Street, Whitechapel, E1 8EY
+website: http://www.redchillicurryclub.co.uk/
+phone: 020 7481 3300
+lat: 51.511470
+long: -0.068669513
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: restaurant
+cuisine: Indian
+licensed: yes
+takeaway: yes
+delivery: yes
+photo: http://www.flickr.com/photos/kake_pugh/13064073993/
+---
+name: Brown Bear
+address: 139 Leman Street, Whitechapel, E1 8EY
+phone: 020 7481 3792
+lat: 51.511385
+long: -0.068594411
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: pub
+licensed: yes
+photo: http://www.flickr.com/photos/kake_pugh/13063937675/
+---
+name: The Empress
+address: 141 Leman Street, Whitechapel, E1 8EY
+website: http://theempress.co.uk/
+phone: 020 7265 0745
+lat: 51.511310
+long: -0.068511263
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: restaurant
+cuisine: Indian
+bookings: yes
+hours: "Mon-Fri: noon-2:30pm, 6pm-midnight; Sat-Sun: 6pm-midnight"
+photo: http://www.flickr.com/photos/kake_pugh/13063921185/
+---
+name: Poppies Diner
+address: 8 Cable Street, Whitechapel, E1 8JG
+phone: 020 7488 4841
+lat: 51.510814
+long: -0.067988232
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: restaurant
+hours: "Mon-Fri: 6:30am-5pm; Sat: 6:30am-3pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13064030363/
+  - http://www.flickr.com/photos/kake_pugh/13063879495/
+summary: American diner theme.
+---
+name: Cirilo
+address: 4 Cable Street, Whitechapel, E1 8JG
+website: http://cirilonoodlebar.co.uk/
+phone: 020 7702 2299
+lat: 51.510804
+long: -0.068143800
+station:
+  - Aldgate
+  - Aldgate East
+  - Tower Gateway
+type: restaurant
+cuisine: Filipino
+licensed: yes
+takeaway: yes
+hours: "Mon-Tue: 5pm-11pm; Wed-Fri: 11:30am-2:30pm, 5pm-11pm; Sat-Sun: 3pm-11pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13063894635/
+  - http://www.flickr.com/photos/kake_pugh/13064190104/
+  - http://www.flickr.com/photos/kake_pugh/13063970723/
+summary: Filipino dishes plus pan-Asian extras. Halal. Vegetarian options are sparse.
