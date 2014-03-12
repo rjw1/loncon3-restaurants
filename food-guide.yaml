@@ -1,11 +1,17 @@
 name: Gillani's Restaurant
 address: 59-61 Barking Road, Canning Town, E16 4HB
+phone: 020 7511 9017
 lat: 51.516247
 long: 0.0088360011
 station: Canning Town
 type: restaurant
-cuisine: Turkish
+cuisine:
+  - British
+  - Indian
+  - Italian
+  - Spanish
 photo: http://www.flickr.com/photos/kake_pugh/12256496106/
+links: http://hungryhouse.co.uk/gillani-s-restaurant-canning-town
 ---
 name: Alenka
 address: 63 Barking Road, Canning Town, E16 4HB
@@ -16,9 +22,11 @@ type: grocery shop
 cuisine: Eastern European
 photo: http://www.flickr.com/photos/kake_pugh/12256080613/
 summary: Eastern European grocery shop advertising Moldovian wine and brandy.
+links: http://magazineromanesti.co.uk/est/alenka/
 ---
 name: Torto
 address: 137 Barking Road, Canning Town, E16 4HQ
+phone: 020 7474 2233
 lat: 51.517683
 long: 0.012099847
 station: Canning Town
@@ -27,14 +35,17 @@ cuisine:
   - Brazilian
   - Portuguese
 photo: http://www.flickr.com/photos/kake_pugh/12256335144/
+links: http://www.theguardian.com/travel/2012/apr/18/top-10-budget-restaurants-excel-east-london
 ---
 name: Kings Continental Cuisine
 address: 147 Barking Road, Canning Town, E16 4HQ
+phone: 020 3556 2751
 lat: 51.517835
 long: 0.012439147
 station: Canning Town
 type: restaurant
 photo: http://www.flickr.com/photos/kake_pugh/12256476926/
+links: http://www.zomato.com/london/kings-continental-cuisine-plaistow/menu#tabtop
 ---
 name: Albina
 address: 239 Barking Road, Canning Town, E13 8EQ
@@ -47,6 +58,7 @@ type: restaurant
 cuisine: Ukrainian
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/12255891665/
+links: http://london.randomness.org.uk/wiki.cgi?Albina,_E13_8EQ
 ---
 name: Albena Russian Delicatessen
 address: 253 Barking Road, Canning Town, E13 8EQ
@@ -82,6 +94,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12256439696/
 ---
 name: Pie Crust Cafe
 address: 273 Stratford High Street, E15 2TF
+phone: 020 8534 2873
 lat: 51.536318
 long: -0.0038566142
 station: Stratford High Street
@@ -93,9 +106,12 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12265435416/
   - http://www.flickr.com/photos/kake_pugh/12265299514/
 summary: A dual menu offers British “greasy spoon” cafe food as well as Thai food, in a traditional British cafe setting.
+links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2405494-Reviews-Pie_Crust-London_England.html
 ---
 name: King Edward VII
 address: 47 Broadway, Stratford, E15 4BQ
+website: http://kingeddie.co.uk/
+phone: 020 8534 2313
 lat: 51.541144
 long: 0.0029159635
 station: Stratford
@@ -103,6 +119,7 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
+hours: "Mon-Wed: noon-11pm; Thu-Sat: noon-midnight; Sun: noon-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/2743681267/
   - http://www.flickr.com/photos/kake_pugh/12265853593/
@@ -111,6 +128,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12265673285/
 summary: Real ale and pub food; the menu is perhaps a little over-ambitious, so stick with the basics.  Sandwiches at lunchtime are good value.
 access: One step down to get in. Half a dozen steps up to the back room, from which the toilets are also accessed.
+links: http://london.randomness.org.uk/wiki.cgi?King_Edward_VII,_E15_4BQ
 ---
 name: Indisca
 address: 150 The Grove, Stratford, E15 1NS
@@ -170,6 +188,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12267439603/
 ---
 name: Brazil Express
 address: Unit 10, Market Village
+phone: 020 8221 2524
 lat: 51.541643
 long: 0.0019584149
 station: Stratford
@@ -192,12 +211,16 @@ summary: All-you-can-eat Chinese buffet restaurant.
 ---
 name: Theatre Royal Bar
 address: Theatre Royal, Gerry Raffles Square, Stratford, E15 1BN
+website: http://stratfordeast.com/theatre-royal-bar
+phone: 020 8279 1161
 lat: 51.542545
 long: 0.00066599247
 station: Stratford
 type: restaurant
 cuisine: Caribbean
 licensed: yes
+takeaway: yes
+hours: "Mon-Thu: 10am-11pm; Fri: 10am-midnight; Sat: 11am-midnight; Sun: noon-11pm. Food served Mon-Sat: noon-9pm; Sun: noon-8:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12269274376/
   - http://www.flickr.com/photos/kake_pugh/12269286316/
@@ -206,12 +229,14 @@ photo:
 name: Stratford Circus Cafe (Northern Imagination?)
 address: Stratford Circus, Theatre Square, Stratford, E15 1BX
 website: https://www.stratford-circus.com/
+phone: 020 8279 1022
 lat: 51.542835
 long: 0.0017120540
 station: Stratford
 type: restaurant
 cuisine: Italian
 licensed: yes
+hours: "Mon-Sat: 10am-6pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12268692495/
   - http://www.flickr.com/photos/kake_pugh/12269123924/
@@ -244,6 +269,7 @@ access: Supermarket on ground floor. Restaurant up a flight of stairs with a stu
 ---
 name: Asian Mega Mart
 address: Beckton Retail Park, Alpine Way, E6 6LA
+phone: 020 7476 0733
 lat: 51.517349
 long: 0.061965197
 station: Beckton
@@ -255,6 +281,7 @@ cuisine:
   - Sri Lankan
 photo: http://www.flickr.com/photos/kake_pugh/12440228835/
 summary: Huge South Asian supermarket.
+links: http://www.theguardian.com/lifeandstyle/2011/sep/05/londons-asian-supermarkets
 ---
 name: Yi-Ban
 address: London Regatta Centre, Dockside Road, Royal Docks, E16 2QT
@@ -335,15 +362,20 @@ photo: http://www.flickr.com/photos/kake_pugh/12518133033/
 ---
 name: Le Royal
 address: 13 Freemasons Road, Custom House, E16 3AR
+phone: 020 7474 9694
 lat: 51.510646
 long: 0.025760338
 station: Custom House
 type: takeaway
 cuisine: Indian
+takeaway: yes
+delivery: no
 photo: http://www.flickr.com/photos/kake_pugh/12518482764/
+links: http://www.just-eat.co.uk/restaurants-leroyal-e16/menu
 ---
 name: Pacific Fish Bar
 address: 17-19 Freemasons Road, Custom House, E16 3AR
+phone: 020 7476 6903
 lat: 51.510839
 long: 0.025653049
 station: Custom House
@@ -378,6 +410,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12518105803/
 ---
 name: Customs Bakery and Sandwich Bar
 address: 49 Freemasons Road, Custom House, E16 3PJ
+phone: 020 7511 6614
 lat: 51.511580
 long: 0.024951652
 station: Custom House
@@ -631,7 +664,7 @@ name: Oiler Bar
 address: Royal Victoria Dock
 website: http://www.wakeupdocklands.com/the-oiler-bar
 twitter: oilerbar
-phone: 07599 905 526
+phone: 07599 905526
 lat: 51.506492
 long: 0.017378837
 station: Royal Victoria
@@ -1411,6 +1444,7 @@ summary: Also has a free 24-hour cashpoint.
 ---
 name: Bene Bene
 address: 3 Westferry Circus, Canary Wharf, E14 4HD
+phone: 020 7519 6792
 lat: 51.506178
 long: -0.026274115
 station: Canary Wharf
@@ -1736,6 +1770,7 @@ photo:
 ---
 name: MK Cafe
 address: 819 Commercial Road, Limehouse, E14 7HG
+phone: 07960 530714
 lat: 51.512061
 long: -0.028183848
 station: Westferry
@@ -1831,6 +1866,7 @@ summary: Community arts cafe with events and classes. Regularly changing hot spe
 ---
 name: The Fish And Chicken Shop
 address: 139 Watney Street, Shadwell, E1 2QE
+phone: 020 7791 1984
 lat: 51.511590
 long: -0.056655899
 station: Shadwell
@@ -1883,6 +1919,7 @@ summary: Despite the name, as of March 2014 this is only open for takeaway/deliv
 ---
 name: Ye Olde Black Bull
 address: 13 Broadway, Stratford, E15 4BQ
+phone: 020 8519 6720
 lat: 51.540238
 long: 0.00086675583
 station: Stratford
@@ -1954,6 +1991,7 @@ summary: Pizza, pasta, and fish. Gluten-free pasta available.
 ---
 name: Queens Head
 address: 5-7 West Ham Lane, Stratford, E15 4PH
+phone: 020 8522 7111
 lat: 51.540580
 long: 0.0022480935
 station: Stratford
@@ -1963,9 +2001,13 @@ licensed: yes
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992296714/
   - http://www.flickr.com/photos/kake_pugh/12991893385/
+links:
+  - http://www.fancyapint.com/pub/1403
+  - http://www.yelp.co.uk/biz/queens-head-london-8
 ---
 name: Princess Of Wales
 address: 25 West Ham Lane, Stratford, E15 4PH
+phone: 020 8519 2930
 lat: 51.540068
 long: 0.0030017942
 station: Stratford
@@ -1977,6 +2019,10 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12991880805/
   - http://www.flickr.com/photos/kake_pugh/12991867645/
   - http://www.flickr.com/photos/kake_pugh/12992246594/
+links:
+  - http://www.fancyapint.com/pub/1406
+  - http://www.beerintheevening.com/pubs/comments.shtml/2025/
+  - http://www.yelp.co.uk/biz/the-princess-of-wales-london
 ---
 name: Manus Palm Grove
 address: 45 West Ham Lane, Stratford, E15 4PH
@@ -2002,6 +2048,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12992716575/
   - http://www.flickr.com/photos/kake_pugh/12993101154/
 summary: Cakes and coffee, including gluten-free options.
+links: http://gastrogays.wordpress.com/2014/01/22/guide-stratford-london/
 ---
 name: Asmara Cafe
 address: 53 West Ham Lane, Stratford, E15 4PH
@@ -2020,6 +2067,7 @@ photo:
 ---
 name: Café Lympic
 address: 61 West Ham Lane, Stratford, E15 4PH
+phone: 020 8555 3477
 lat: 51.539207
 long: 0.0044045895
 station: Stratford
@@ -2028,6 +2076,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12992762645/
 ---
 name: Tiffin Grill
 address: 38 West Ham Lane, Stratford, E15 4PT
+phone: 020 8555 8000
 lat: 51.538570
 long: 0.0048605650
 station: Stratford
@@ -2036,6 +2085,7 @@ cuisine: Indian
 takeaway: yes
 delivery: yes
 photo: http://www.flickr.com/photos/kake_pugh/13005636364/
+links: http://www.just-eat.co.uk/restaurants-tiffingrill-e15/menu
 ---
 name: VIP Cafe
 address: 75 Vicarage Lane, Stratford, E15 4HG
