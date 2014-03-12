@@ -6,7 +6,6 @@ station: Canning Town
 type: restaurant
 cuisine: Turkish
 photo: http://www.flickr.com/photos/kake_pugh/12256496106/
-checked: no
 ---
 name: Alenka
 address: 63 Barking Road, Canning Town, E16 4HB
@@ -15,10 +14,8 @@ long: 0.0089111030
 station: Canning Town
 type: grocery shop
 cuisine: Eastern European
-checked: no
 photo: http://www.flickr.com/photos/kake_pugh/12256080613/
 summary: Eastern European grocery shop advertising Moldovian wine and brandy.
-checked: no
 ---
 name: Torto
 address: 137 Barking Road, Canning Town, E16 4HQ
@@ -30,7 +27,6 @@ cuisine:
   - Brazilian
   - Portuguese
 photo: http://www.flickr.com/photos/kake_pugh/12256335144/
-checked: no
 ---
 name: Kings Continental Cuisine
 address: 147 Barking Road, Canning Town, E16 4HQ
@@ -39,7 +35,6 @@ long: 0.012439147
 station: Canning Town
 type: restaurant
 photo: http://www.flickr.com/photos/kake_pugh/12256476926/
-checked: no
 ---
 name: Albina
 address: 239 Barking Road, Canning Town, E13 8EQ
@@ -52,7 +47,6 @@ type: restaurant
 cuisine: Ukrainian
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/12255891665/
-checked: no
 ---
 name: Albena Russian Delicatessen
 address: 253 Barking Road, Canning Town, E13 8EQ
@@ -63,7 +57,6 @@ station: Canning Town
 type: grocery shop
 cuisine: Russian
 photo: http://www.flickr.com/photos/kake_pugh/12256317624/
-checked: no
 ---
 name: Nikki's Place
 address: 282 Barking Road, Canning Town, E13 8HR
@@ -74,7 +67,6 @@ station: Canning Town
 type: restaurant
 cuisine: African
 photo: http://www.flickr.com/photos/kake_pugh/12256043303/
-checked: no
 ---
 name: Bronze
 address: 291-293 Barking Road, Canning Town, E13 8EQ
@@ -87,7 +79,6 @@ cuisine:
   - African
   - Caribbean
 photo: http://www.flickr.com/photos/kake_pugh/12256439696/
-checked: no
 ---
 name: Pie Crust Cafe
 address: 273 Stratford High Street, E15 2TF
@@ -102,7 +93,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12265435416/
   - http://www.flickr.com/photos/kake_pugh/12265299514/
 summary: A dual menu offers British “greasy spoon” cafe food as well as Thai food, in a traditional British cafe setting.
-checked: no
 ---
 name: King Edward VII
 address: 47 Broadway, Stratford, E15 4BQ
@@ -121,7 +111,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12265673285/
 summary: Real ale and pub food; the menu is perhaps a little over-ambitious, so stick with the basics.  Sandwiches at lunchtime are good value.
 access: One step down to get in. Half a dozen steps up to the back room, from which the toilets are also accessed.
-checked: Feb 2014
 ---
 name: Indisca
 address: 150 The Grove, Stratford, E15 1NS
@@ -138,7 +127,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12266729935/
   - http://www.flickr.com/photos/kake_pugh/12266880523/
   - http://www.flickr.com/photos/kake_pugh/12266870893/
-checked: no
 ---
 name: Hua Run
 address: 125 The Grove, Stratford, E15 1EN
@@ -153,7 +141,6 @@ cuisine: Chinese
 photo: http://www.flickr.com/photos/kake_pugh/12267140824/
 summary: Small but well-stocked Chinese supermarket.
 access: Only a very small step to get in, manageable on wheels, but there isn't much space to manoeuvre inside and it would be very tricky to get a wheelchair or pram in.
-checked: Feb 2014
 ---
 name: Londek
 address: 198 The Grove, Stratford, E15 1NS
@@ -170,7 +157,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12266693015/
   - http://www.flickr.com/photos/kake_pugh/12267835576/
   - http://www.flickr.com/photos/kake_pugh/12267701804/
-checked: Feb 2014
 ---
 name: Zirnis
 address: 168 The Grove, Stratford, E15 1NS
@@ -181,7 +167,6 @@ station:
   - Maryland
 type: grocery shop
 photo: http://www.flickr.com/photos/kake_pugh/12267439603/
-checked: no
 ---
 name: Brazil Express
 address: Unit 10, Market Village
@@ -192,7 +177,6 @@ type: restaurant
 cuisine: Brazilian
 photo: http://www.flickr.com/photos/kake_pugh/12269368506/
 summary: Tiny Brazilian cafe in a shopping centre.  Pop in for a snack and a drink.
-checked: Feb 2014
 ---
 name: Yoe Bo
 address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
@@ -205,7 +189,6 @@ type: restaurant
 cuisine: Chinese
 photo: http://www.flickr.com/photos/kake_pugh/3737080596/
 summary: All-you-can-eat Chinese buffet restaurant.
-checked: Feb 2014
 ---
 name: Theatre Royal Bar
 address: Theatre Royal, Gerry Raffles Square, Stratford, E15 1BN
@@ -219,7 +202,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12269274376/
   - http://www.flickr.com/photos/kake_pugh/12269286316/
   - http://www.flickr.com/photos/kake_pugh/12268726215/
-checked: no
 ---
 name: Stratford Circus Cafe (Northern Imagination?)
 address: Stratford Circus, Theatre Square, Stratford, E15 1BX
@@ -236,7 +218,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12268674515/
   - http://www.flickr.com/photos/kake_pugh/12269110404/
 summary: Soup, sandwiches, serious coffee, and craft beer from local breweries.
-checked: Feb 2014
 ---
 name: Lituanica
 address: Unit 4, Beckton Retail Park, Alpine Way, E6 6LA
@@ -260,7 +241,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12485428565/
 summary: Lithuanian supermarket, restaurant, and bookshop.
 access: Supermarket on ground floor. Restaurant up a flight of stairs with a sturdy handrail; no lift.
-checked: Feb 2014
 ---
 name: Asian Mega Mart
 address: Beckton Retail Park, Alpine Way, E6 6LA
@@ -275,7 +255,6 @@ cuisine:
   - Sri Lankan
 photo: http://www.flickr.com/photos/kake_pugh/12440228835/
 summary: Huge South Asian supermarket.
-checked: no
 ---
 name: Yi-Ban
 address: London Regatta Centre, Dockside Road, Royal Docks, E16 2QT
@@ -291,7 +270,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/4873560820/
 summary: Cantonese restaurant with a view over the Royal Docks and London City Airport; good for dim sum in large groups, particularly with children who enjoy the views of the planes.
 access: Step-free to the building from Royal Albert DLR (via a lift at the DLR station), though there are a few rough cobbled patches along the way. Also step-free from the (large, free) car park. Restaurant is on an upper floor but there's a lift. Toilets on same level as restaurant, with no intervening steps (including an accessible one that doubles as a baby-change room).
-checked: Jul 2013
 ---
 name: Fox Connaught
 address: Lynx Way, Royal Docks, E16 1JR
@@ -311,7 +289,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/9189045589/
 summary: Real ale and an extensive pub food/bistro menu, including traditional British Sunday lunches. Also open for breakfast. Hotel rooms upstairs.
 access: Step-free to bar, seating area, and RADAR-locked accessible toilet.
-checked: Jun 2013
 ---
 name: Garden Community Cafe
 address: 7 Cundy Road, Custom House, E16 3DJ
@@ -335,7 +312,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12483066923/
 summary: Small and colourful cafe offering fried breakfasts, jacket potatoes, sandwiches, salads, granola, and cakes.  Traditional London pie/mash/liquor meals on Fridays.
 access: A step to get in, a little cluttered inside. Accessible toilet.
-checked: Feb 2014
 ---
 name: Custom House Pub and Kitchen
 address: Custom House Hotel, 272-283 Victoria Dock Road, Custom House, E16 3BY
@@ -346,7 +322,6 @@ long: 0.026779979
 station: Custom House
 type: pub
 photo: http://www.flickr.com/photos/kake_pugh/12518133855/
-checked: no
 ---
 name: Golden Sands
 address: 1 Freemasons Road, Custom House, E16 3AR
@@ -357,7 +332,6 @@ station: Custom House
 type: takeaway
 cuisine: Chinese
 photo: http://www.flickr.com/photos/kake_pugh/12518133033/
-checked: no
 ---
 name: Le Royal
 address: 13 Freemasons Road, Custom House, E16 3AR
@@ -367,7 +341,6 @@ station: Custom House
 type: takeaway
 cuisine: Indian
 photo: http://www.flickr.com/photos/kake_pugh/12518482764/
-checked: no
 ---
 name: Pacific Fish Bar
 address: 17-19 Freemasons Road, Custom House, E16 3AR
@@ -377,7 +350,6 @@ station: Custom House
 type: takeaway
 cuisine: fish and chips
 photo: http://www.flickr.com/photos/kake_pugh/12518475004/
-checked: no
 ---
 name: ExCEL Cafe and Restaurant / Freemasons Cafe
 address: 27 Freemasons Road, Custom House, E16 3AR
@@ -392,7 +364,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12518469424/
   - http://www.flickr.com/photos/kake_pugh/12518436284/
 summary: Traditional British cafe serving fried breakfasts, sandwiches, jacket potatoes, grills, omelettes, and roast lunches.
-checked: no
 ---
 name: Nisa Local
 address: 53 Freemasons Road, Custom House, E16 3PJ
@@ -404,7 +375,6 @@ long: 0.025065646
 station: Custom House
 type: grocery shop
 photo: http://www.flickr.com/photos/kake_pugh/12518105803/
-checked: no
 ---
 name: Customs Bakery and Sandwich Bar
 address: 49 Freemasons Road, Custom House, E16 3PJ
@@ -416,7 +386,6 @@ type:
   - grocery shop
 photo: http://www.flickr.com/photos/kake_pugh/12518105803/
 summary: Fresh bread, cakes, sandwiches, and hot savoury pastries.
-checked: no
 ---
 name: La Barrique
 address: Unit R5, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -432,7 +401,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12560527075/
   - http://www.flickr.com/photos/kake_pugh/12560527075/
 summary: Pizza, sandwiches, sharing platters, wine, and coffee.
-checked: no
 ---
 name: Fox ExCeL
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -449,7 +417,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12560978644/
   - http://www.flickr.com/photos/kake_pugh/12560602033/
   - http://www.flickr.com/photos/kake_pugh/12560952814/
-checked: no
 ---
 name: 07 Zero Sette
 address: Unit R3, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -464,7 +431,6 @@ licensed: yes
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560577363/
   - http://www.flickr.com/photos/kake_pugh/12560577363/
-checked: no
 ---
 name: Bollywood Grill
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -480,7 +446,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12560916804/
   - http://www.flickr.com/photos/kake_pugh/12560423855/
 summary: Try the gol gappa for an interesting snack not found on all Indian menus in the UK.
-checked: no
 ---
 name: China Palace
 address: Unit R1 Warehouse, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -494,7 +459,6 @@ cuisine: Chinese
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/12560423855/
 summary: Large Chinese restaurant right next to ExCeL, serving dim sum in the day and a long menu of Cantonese food in the evening.
-checked: no
 ---
 name: Elite Dining
 address: 3 Western Gateway, Royal Victoria Dock, E16 1BD
@@ -513,7 +477,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12569295774/
   - http://www.flickr.com/photos/kake_pugh/12569292894/
 summary: 700-seater Indian restaurant in a converted warehouse, just opposite the western entrance to ExCeL.
-checked: no
 ---
 name: Airline Cafe and Diner
 address: 14 Western Gateway, Royal Victoria Dock, E16 1FD
@@ -536,7 +499,6 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12569362654/
   - http://www.flickr.com/photos/kake_pugh/12568999113/
 summary: Burgers, traditional British fried breakfasts, hot meals, sandwiches, salads, and pizzas.
-checked: no
 ---
 name: Nisa Local
 address: 14 Western Gateway, Royal Victoria Dock, E16 1BJ
