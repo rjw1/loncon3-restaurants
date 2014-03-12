@@ -1,0 +1,37 @@
+#!/usr/bin/perl -w
+
+use strict;
+use YAML::Any qw( LoadFile );
+
+my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
+my $filename = "$datadir/food-guide.yaml";
+
+my @venues = LoadFile( $filename );
+@venues = sort { $a->{name} cmp $b->{name} } @venues;
+
+my ( @nonum, @nohours, @hashours );
+
+foreach my $venue ( @venues ) {
+  if ( !$venue->{phone} ) {
+    push @nonum, $venue;
+  } elsif ( !$venue->{hours} ) {
+    push @nohours, $venue;
+  } else {
+    push @hashours, $venue;
+  }
+}
+
+print scalar @nonum . " venue" . ( scalar @nonum == 1 ? "" : "s" ) . " without a phone number.\n\n";
+
+foreach my $venue ( @nonum ) {
+  my $type = $venue->{type};
+  if ( ref $type ) {
+    $type = join ", ", @$type;
+  }
+  $type = ucfirst( $type );
+  print <<EOF;
+$venue->{name}, $venue->{address}.
+  $type.
+  $venue->{phone}
+EOF
+}
