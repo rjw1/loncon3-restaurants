@@ -2236,7 +2236,7 @@ licensed: yes
 takeaway: yes
 hours: "Mon: 11:30am-10pm; Tue-Wed: 11:30am-10:30pm; Thu: 11:30am-11:30pm; Fri-Sat: 11:30am-11pm; Sun: 11:30am-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/13006958034/
-summary: Chain pizzeria in the same building as the Picturehouse cinema. Separate gluten-free menu including pizzas.
+summary: Reliable chain pizzeria in the same building as the Picturehouse cinema. Separate gluten-free menu including pizzas.
 ---
 name: De Lites
 address: 81 Watney Street, Shadwell, E1 2QE
@@ -2874,3 +2874,301 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/13064190104/
   - http://www.flickr.com/photos/kake_pugh/13063970723/
 summary: Filipino dishes plus pan-Asian extras. Halal. Vegetarian options are sparse.
+---
+name: The Yellow House
+address: 126 Lower Road, Rotherhithe, SE16 2UE
+website: http://www.theyellowhouse.eu/
+twitter: TheYellowHouse_
+phone: 020 7231 8777
+lat: 51.493665
+long: -0.048499301
+station: Surrey Quays
+type:
+  - pub
+  - restaurant
+cuisine:
+  - Italian
+  - British
+licensed: yes
+bookings: yes
+hours: "Mon: closed; Tue-Sat: from 5:30pm; Sun: from 11:30am"
+photo: http://www.flickr.com/photos/kake_pugh/13112589744/
+summary: Independent bar and restaurant with a wood-fired pizza oven. Breads, patisserie, and savouries also baked in-house. Lagers and ciders on tap, and it's fine to visit for just a drink.
+access: Step-free to get in, no internal steps, accessible toilet. Noise levels can get high at peak times.
+links: http://london.randomness.org.uk/wiki.cgi?Yellow_House_Bar,_SE16_2UE
+---
+name: Royal Palace
+address: 1b Rotherhithe Old Road, SE16 2PP
+phone: 020 7232 1323
+lat: 51.493079
+long: -0.047828749
+station: Surrey Quays
+type: restaurant
+cuisine: Chinese
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Sun: noon-3pm, 5pm-11pm"
+photo: http://www.flickr.com/photos/kake_pugh/13112396703/
+summary: A dual menu offers Northern Chinese specialities as well as the usual standard Anglicised Chinese food. Much of the specialities menu is written in Chinese-only, but a fair selection of it is translated and illustrated, and staff are happy to help with recommendations from the rest. Hotpot (steamboat) is also available, with a wide range of ingredients. Decor and furnishings are fairly basic, but not uncomfortable.
+access: A rudimentary ramp (really just a smoothed-over step) from the pavement to the area directly outside the door, and another shallow step to get in. It's all essentially on one level once you're in, though there is a slight change in level (not really enough to call it a step) on the way to the loos.
+links: http://london.randomness.org.uk/wiki.cgi?Royal_Palace,_SE16_2PP
+---
+name: Ma Po
+address: 176-178 Lower Road, Rotherhithe, SE16 2UN
+website: http://www.mapolondon.com/
+phone: 020 7231 0623
+lat: 51.492241
+long: -0.045653477
+station: Surrey Quays
+type: restaurant
+cuisine: Chinese
+takeaway: yes
+delivery: yes
+hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-11:30pm; Sun: noon-11pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13112396703/
+  - http://www.flickr.com/photos/kake_pugh/13112329713/
+  - http://www.flickr.com/photos/kake_pugh/13112498484/
+  - http://www.flickr.com/photos/kake_pugh/13112294403/
+  - http://www.flickr.com/photos/kake_pugh/13112173735/
+  - http://www.flickr.com/photos/kake_pugh/13112265883/
+  - http://www.flickr.com/photos/kake_pugh/13112248303/
+  - http://www.flickr.com/photos/kake_pugh/13112234333/
+  - http://www.flickr.com/photos/kake_pugh/13112219023/
+  - http://www.flickr.com/photos/kake_pugh/13112203043/
+  - http://www.flickr.com/photos/kake_pugh/13112302823/
+summary: Sichuan specialities from a fully bilingual menu (English/Chinese). Hotpot (steamboat) too. Standard Anglicised Cantonese food also available.
+links: http://www.yelp.co.uk/biz/ma-po-london
+---
+name: Oi, Why Not
+address: 158 Lower Road, Rotherhithe, SE16 2UG
+twitter: OiWhyNot
+phone: 020 3417 7043
+lat: 51.492595
+long: -0.046294525
+station: Surrey Quays
+type: restaurant
+hours: "Mon-Sat: noon-4pm, 5pm-10:30pm; Sun and Bank Hol: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13112067255/
+  - http://www.flickr.com/photos/kake_pugh/13112058745/
+  - http://www.flickr.com/photos/kake_pugh/13112152683/
+summary: Small cafe serving Chinese, Japanese, and Korean food.
+links:
+  - https://www.facebook.com/OiWhyNot
+  - https://foursquare.com/v/oi-why-not-tea-house/51521395e4b0e80395cf1e87
+  - http://www.tripadvisor.co.uk/ShowUserReviews-g186338-d5433023-r187055302-Oi_Why_Not-London_England.html
+---
+name: The Yacht
+address: 5-7 Crane Street, Greenwich, SE10 9NP
+website: http://www.taylor-walker.co.uk/pub/yacht-greenwich/c7591/
+twitter: TheYachtTW
+phone: 020 8858 0175
+lat: 51.484680
+long: -0.0037251860
+station: Cutty Sark
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Sun: noon-9pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13131562164/
+  - http://www.flickr.com/photos/kake_pugh/13131401313/
+  - http://www.flickr.com/photos/kake_pugh/13131297385/
+summary: Taylor Walker pub offering real ale and more-interesting-than-average pub food (albeit from a chain-wide menu).
+links: http://london.randomness.org.uk/wiki.cgi?Yacht,_SE10_9NP
+---
+name: Trafalgar Tavern
+address: 6 Park Row, Greenwich, SE10 9NW
+website: http://www.trafalgartavern.co.uk/
+phone: 020 8858 2909
+lat: 51.484552
+long: -0.0044332892
+station: Cutty Sark
+type: pub
+cuisine: British
+licensed: yes
+hours: "Food served noon-4pm and 6pm-10pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13131207825/
+  - http://www.flickr.com/photos/kake_pugh/13131373853/
+  - http://www.flickr.com/photos/kake_pugh/13131244115/
+  - http://www.flickr.com/photos/kake_pugh/13131524914/
+  - http://www.flickr.com/photos/kake_pugh/13131513404/
+summary: Pub with a large amount of outdoor riverside seating. Roast lunches on Sundays including a nut roast option (though vegetarian options in general are quite scarce). Children's menu based on a subset of the regular menu. Unusually for a pub, an (optional) 12.5% service charge is added to the bill.
+links: http://london.randomness.org.uk/wiki.cgi?Trafalgar_Tavern,_SE10_9NW
+---
+name: The Old Brewery
+address: Pepys Building, Old Royal Naval College, Greenwich, SE10 9LW
+website: http://www.oldbrewerygreenwich.com/
+twitter: OldBrewery
+phone: 020 3327 1280
+lat: 51.482940
+long: -0.0081722886
+station: Cutty Sark
+type:
+  - pub
+  - restaurant
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: 10am-11pm; Sun: 10am-10:30pm. Food served in the bar and cafe during the day, and the bar and restaurant in the evening."
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13131195315/
+  - http://www.flickr.com/photos/kake_pugh/13131499554/
+summary: Restaurant, bar, and cafe owned by the local Meantime brewery. Modern British food served in the main restaurant, simpler food in the pub and cafe. Meantime's own beer is served at the bar and used in the cooking.
+links: http://london.randomness.org.uk/wiki.cgi?Old_Brewery,_SE10_9LW
+---
+name: Black Vanilla
+address:  5 College Approach, Greenwich, SE10 9HY
+website: http://www.black-vanilla.com/
+twitter: _BlackVanilla_
+phone: 020 8858 3283
+lat: 51.481807
+long: -0.0096448213
+station: Cutty Sark
+type: restaurant
+cuisine: Italian
+licensed: yes
+hours: "Mon: closed; Tue-Fri: noon-6pm; Sat-Sun: noon-7pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13131192995/
+  - http://www.flickr.com/photos/kake_pugh/13131179705/
+  - http://www.flickr.com/photos/kake_pugh/13131169435/
+  - http://www.flickr.com/photos/kake_pugh/13131308433/
+summary: Gelato, gelato milkshakes and cocktails, affogato, and champagne cocktails.
+---
+name: Papa Charlie
+address: 29-31 Greenwich Church Street, Greenwich, SE10 9BJ
+lat: 51.481226
+long: -0.010068610
+station: Cutty Sark
+type: restaurant
+cuisine: Mediterranean
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13145849515/
+  - http://www.flickr.com/photos/kake_pugh/13146055785/
+summary: Turkish, Greek, Italian, and more.
+links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d6407163-Reviews-Papa_Charlie-London_England.html
+---
+name: Peter De Wit's Cafe
+address: 21 Greenwich Church Street, Greenwich, SE10 9BJ
+website: http://www.peterdewitscafe.co.uk/
+phone: 020 8305 0048
+lat: 51.481087
+long: -0.0099555552
+station: Cutty Sark
+type: restaurant
+cuisine: British
+licensed: yes
+hours: "Mon-Wed: closed; Thu-Fri: 11am-6pm; Sat-Sun: 9am-6pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13145842265/
+  - http://www.flickr.com/photos/kake_pugh/13146032235/
+  - http://www.flickr.com/photos/kake_pugh/13146331654/
+summary: All-day cooked breakfasts (including vegetarian option with vegetarian sausages), sandwiches, cakes and scones, hot and cold drinks and bottled beers. Pricier than your average British cafe. Courtyard garden. Cash only.
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2082851-Reviews-Peter_de_Wit_s_Cafe-London_England.html
+  - http://www.yelp.co.uk/biz/peter-de-wits-cafe-london
+---
+name: Mevali
+address: 17 Greenwich Church Street, Greenwich, SE10 9BJ
+phone: 020 3490 4342
+lat: 51.481039
+long: -0.0098938644
+station: Cutty Sark
+type: restaurant
+cuisine: Lebanese
+takeaway: yes
+delivery: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13146120094/
+  - http://www.flickr.com/photos/kake_pugh/13146313314/
+  - http://www.flickr.com/photos/kake_pugh/13146136273/
+  - http://www.flickr.com/photos/kake_pugh/13146126323/
+summary: Lebanese cafe and shisha bar. Cold and hot meze are mainly vegetarian; meat comes in the form of charcoal-grilled kebabs.
+links:
+  - http://www.just-eat.co.uk/restaurants-mevali-se10/menu
+  - http://www.yelp.co.uk/biz/mevali-shisha-bar-london-2
+  - http://www.winkball.com/entries/2lHTZ-k2DwXd/mevali-shisha-bar
+---
+name: The Pier
+address: 19 Greenwich Church Street, Greenwich, SE10 9BJ
+phone: 020 8858 3668
+lat: 51.481064
+long: -0.0099394620
+station: Cutty Sark
+type: restaurant
+cuisine: British
+licensed: yes
+takeaway: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13145836625/
+  - http://www.flickr.com/photos/kake_pugh/13146115003/
+  - http://www.flickr.com/photos/kake_pugh/13146274714/
+  - http://www.flickr.com/photos/kake_pugh/13146101093/
+summary: Traditional British fish and chip shop with several different types of fish, plus pies, sausages, fried chicken, burgers, and a couple of vegetarian options. Separate children's menu for under-12s only.
+links:
+  - http://www.yelp.co.uk/biz/pier-fish-restaurant-london
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2293213-Reviews-Pier_Fish_Bar-London_England.htm
+---
+name: San Miguel
+address: 18 Greenwich Church Street, Greenwich, SE10 9BJ
+website: http://sanmiguelgreenwich.co.uk/
+twitter: SanMiguelTapas
+phone: 020 8305 1720
+lat: 51.481079
+long: -0.0096015036
+station: Cutty Sark
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13146052903/
+  - http://www.flickr.com/photos/kake_pugh/13145860165/
+  - http://www.flickr.com/photos/kake_pugh/13146181414/
+  - http://www.flickr.com/photos/kake_pugh/13145872275/
+  - http://www.flickr.com/photos/kake_pugh/13146170764/
+summary: Tapas bar and restaurant. Separate children's menu based on things-with-chips British food for under-11s only. Free tapas with drinks 5-7pm weekdays.
+---
+name: Mogul
+address: 10 Greenwich Church Street, Greenwich, SE10 9BJ
+website: http://mogulindian.co.uk/
+phone: 020 8858 6790
+lat: 51.480925
+long: -0.0093359650
+station: Cutty Sark
+type: restaurant
+cuisine: Indian
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Fri: noon-3pm, 6pm-11:30pm; Sat-Sun: noon-11:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13146216024/
+  - http://www.flickr.com/photos/kake_pugh/13146034763/
+  - http://www.flickr.com/photos/kake_pugh/13145900255/
+  - http://www.flickr.com/photos/kake_pugh/13146211594/
+summary: Fairly standard British curryhouse menu plus a few more interesting dishes. Plenty of vegetarian options.
+---
+name: Pizza Express
+address: 4 Greenwich Church Street, Greenwich, SE10 9BG
+website: http://www.pizzaexpress.com/
+twitter: PizzaExpress
+phone: 020 8853 2770
+lat: 51.480573
+long: -0.0091486126
+station: Cutty Sark
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+takeaway: yes
+delivery: no
+hours: "Mon-Thu: 11am-11pm; Fri-Sat: 11:30am-11:30pm; Sun: 11am-10pm"
+photo: http://www.flickr.com/photos/kake_pugh/13146048283/
+summary: Reliable chain pizzeria. Separate gluten-free menu including pizzas.
