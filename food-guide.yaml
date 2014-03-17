@@ -3172,3 +3172,327 @@ delivery: no
 hours: "Mon-Thu: 11am-11pm; Fri-Sat: 11:30am-11:30pm; Sun: 11am-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/13146048283/
 summary: Reliable chain pizzeria. Separate gluten-free menu including pizzas.
+---
+name: Aji Ichiban
+address: 8 Nelson Road, Greenwich, SE10 9JB
+website: http://www.aji-ichiban.co.uk/
+phone: 020 8858 7808
+lat: 51.480984
+long: -0.0089229048
+station: Cutty Sark
+type: restaurant
+cuisine: Japanese
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: noon-4pm, 5:30pm-11pm; Sat: noon-11pm; Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13191485054/
+  - http://www.flickr.com/photos/kake_pugh/13191473854/
+  - http://www.flickr.com/photos/kake_pugh/13191175285/
+  - http://www.flickr.com/photos/kake_pugh/13191446914/
+  - http://www.flickr.com/photos/kake_pugh/13191146405/
+  - http://www.flickr.com/photos/kake_pugh/13191238483/
+summary: Sushi, sashimi, and noodles including ramen.
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d3519999-Reviews-Aji_Ichiban-London_England.html
+  - http://www.yelp.co.uk/biz/ajiichiban-london
+---
+name: Goddards
+address: 22 King William Walk, Greenwich, SE10 9HU
+website: http://www.goddardsatgreenwich.co.uk/
+phone: 020 8305 9612
+lat: 51.481391
+long: -0.0083680898
+station: Cutty Sark
+type: restaurant
+cuisine: British
+licensed: yes
+takeaway: yes
+hours: "Mon-Thu: 10am-6:30pm; Fri-Sun: 10am-7:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13191190563/
+  - http://www.flickr.com/photos/kake_pugh/13191207803/
+  - http://www.flickr.com/photos/kake_pugh/13191223833/
+summary: Traditional London “pie and mash shop”, serving pies, mashed potato, stewed and jellied eels, and “liquor” (a thin parsley sauce, non-alcoholic despite the name). Vegetarian (soya-based) pies available. Bookable upstairs room seating up to 75.
+---
+name: Vietnam Oriental
+address: 17-18 King William Walk, Greenwich, SE10 9JH
+website: http://www.vietnamoriental.co.uk/
+phone: 020 8858 5888
+lat: 51.480932
+long: -0.0080301315
+station: Cutty Sark
+type: restaurant
+cuisine: Chinese
+photo: http://www.flickr.com/photos/kake_pugh/13191070535/
+summary: Despite the name, this is a Chinese restaurant serving Cantonese food including dim sum. Not worth a special trip, but a good enough option if you're in Greenwich already.
+access: A small step to get in, but step-free once you're in.
+links: http://london.randomness.org.uk/wiki.cgi?Vietnam_Oriental_Cuisine,_SE10_9JH
+---
+name: Jamie's Italian
+address: 17-19 Nelson Road, Greenwich, SE10 9JB
+website: https://www.jamieoliver.com/italian/
+twitter: JamiesItalianUK
+phone: 020 3667 7087
+lat: 51.480914
+long: -0.0086443573
+station: Cutty Sark
+type:
+  - grocery shop
+  - restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Restaurant: Mon-Sat: noon-11pm; Sun: noon-10:30pm. Deli: Mon-Fri: 7:30am-10pm; Sat: 8am-10pm; Sun: 9am-9pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13191127263/
+  - http://www.flickr.com/photos/kake_pugh/13191159983/
+  - http://www.flickr.com/photos/kake_pugh/13191038405/
+summary: Chain Italian restaurant with a separate (but small) gluten-free menu. Also has a deli attached.
+---
+name: The Mitre
+address: 291 Greenwich High Road, Greenwich, SE10 8NA
+website: http://www.themitregreenwich.co.uk/
+twitter: MitreGreenwich
+phone: 020 8293 0037
+lat: 51.480083
+long: -0.0096407980
+station: Cutty Sark
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-midnight; Sun: noon-11pm. Food served Mon-Sun: noon-9pm"
+photo: http://www.flickr.com/photos/kake_pugh/13191006715/
+links:
+  - http://www.fancyapint.com/pub/217
+  - http://www.beerintheevening.com/pubs/comments.shtml/5076/
+  - http://www.pubsgalore.co.uk/pubreviews/24051/
+---
+name: The Green Cafe
+address: 285 Greenwich High Road, Greenwich, SE10 8NB
+twitter: TheGreenCafee
+phone: 020 8293 5577
+lat: 51.479657
+long: -0.0099425465
+station: Greenwich
+type: restaurant
+cuisine: British
+photo: http://www.flickr.com/photos/kake_pugh/13190989015/
+links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2479995-Reviews-The_Green_Cafe-London_England.html
+---
+name: Taperia
+address: 180 Greenwich High Road, Greenwich, SE10 8NN
+website: http://www.taperia.co.uk/
+phone: 020 8269 0003
+lat: 51.479637
+long: -0.0096823722
+station: Greenwich
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+hours: "Mon-Wed: 5pm-11pm; Thu-Sat: noon-11pm; Sun: noon-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13191218654/
+  - http://www.flickr.com/photos/kake_pugh/13191068643/
+  - http://www.flickr.com/photos/kake_pugh/13191053053/
+  - http://www.flickr.com/photos/kake_pugh/13191265094/
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1989646-Reviews-Taperia_Greenwich-London_England.html
+  - http://www.yelp.co.uk/biz/taperia-london
+---
+name: Plumtree Café
+address: 241 Greenwich High Road, Greenwich, SE10 8NB
+twitter: theplumtreecafe
+lat: 51.479019
+long: -0.011063710
+station: Greenwich
+type: restaurant
+cuisine: British
+licensed: yes
+takeaway: yes
+hours: "Mon-Sun: 7:30am-4:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13190913625/
+  - http://www.flickr.com/photos/kake_pugh/13191175234/
+  - http://www.flickr.com/photos/kake_pugh/13190873955/
+  - http://www.flickr.com/photos/kake_pugh/13191188484/
+summary: Self-described “family friendly” cafe with a small children's play area. Cooked breakfasts, porridge, sandwiches, soup, jacket potatoes, salads, smoothies, wine, beer, and hot drinks including “fresh hand roasted Redchurch blend coffee from Allpress Espresso”. Children's menu includes pasta, things on toast, and a “nibble plate” of items such as cheese, olives, apple, bread, ham, and fruit. Vegetarian options including a cooked breakfast with vegetarian sausages. A couple of vegan options, both avocado-based.
+links:
+  - http://uberfoods.wordpress.com/2013/06/04/restaurant-review-the-plumtree-cafe/
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d4358224-Reviews-Plumtree_Cafe-London_England.html
+---
+name: The Cheeseboard
+address: 26 Royal Hill, Greenwich, SE10 8RT
+website: http://www.cheese-board.co.uk/
+twitter: CheeseboardUK
+phone: 020 8305 0401
+lat: 51.477342
+long: -0.0098030716
+station: Greenwich
+type: grocery shop
+cuisine: British
+hours: "Mon-Wed: 9am-5pm; Thu: 9am-1pm; Fri: 9am-5pm; Sat: 8:30am-4:30pm; Sun and Bank Hol: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13190857835/
+  - http://www.flickr.com/photos/kake_pugh/13195487275/
+  - http://www.flickr.com/photos/kake_pugh/13195763094/
+summary: Bread, cheese, beer, and wine from local and international sources. Cheese suppliers include London-based Kappacasein; beer suppliers include London breweries such as Meantime, Kernel, and the Brockley Brewery.
+---
+name: Richard I
+address: 52-54 Royal Hill, Greenwich, SE10 8RT
+website: http://www.richardthefirst.co.uk/
+twitter: RichardFirstPub
+phone: 020 8692 2996
+lat: 51.476574
+long: -0.0095911771
+station: Greenwich
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Sat: noon-9pm; Sun: noon-8pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13195418985/
+  - http://www.flickr.com/photos/kake_pugh/13195696364/
+summary: Cosy locals' pub serving Young's ales, guest ales from London breweries, and American craft beers. A short and focused menu offers traditional pub food such as fish and chips, sausage and mash, and home-made pheasant pie. Vegetarian options are scarce. Large beer garden at the back.
+access: No steps at entrances, but steps down to the toilets from both bars. I think there was at least one step to the beer garden.
+links: http://london.randomness.org.uk/wiki.cgi?Richard_I,_SE10_8RT
+---
+name: Greenwich Union
+address: 56 Royal Hill, Greenwich, SE10 8RT
+website: http://greenwichunion.com/
+twitter: GreenwichUnion
+phone: 020 8692 6258
+lat: 51.476518
+long: -0.0096314103
+station: Greenwich
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Fri: noon-11pm; Sat: 11am-11pm; Sun: 11:30am-10:30pm. Food served Mon-Fri: noon-4pm, 5:30pm-10pm; Sat: 11am-10pm; Sun: noon-9pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13195359625/
+  - http://www.flickr.com/photos/kake_pugh/13195390975/
+  - http://www.flickr.com/photos/kake_pugh/13195374595/
+summary: The brewery tap for Greenwich's Meantime Brewery, offering the full range of their beers. Beer garden at the back. Full a la carte menu plus sandwiches, more interesting than your average pub menu. Bar snacks might include calamari with wild garlic and squid ink alioli, or “pigs in blankets” (sausages wrapped in bacon),
+access: No steps to enter, and the bar and garden are on the same level, but the toilets are down a flight of stairs.
+links: http://london.randomness.org.uk/wiki.cgi?Greenwich_Union,_SE10_8RT
+---
+name: The Prince Of Greenwich
+address: 72 Royal Hill, Greenwich, SE10 8RT
+website: http://www.theprinceofgreenwich.com/
+phone: 020 8691 5369
+lat: 51.476181
+long: -0.0098593980
+station: Greenwich
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Thu: 4pm-11pm; Fri-Sat: noon-11:30pm; Sun: noon-10:30pm. Food served Mon-Fri: 6pm-10pm; Sat: 1pm-5pm, 6pm-10pm; Sun: 1pm-5pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13195438693/
+  - http://www.flickr.com/photos/kake_pugh/13195454983/
+links: http://www.thegreenwichphantom.co.uk/2011/01/the-prince-of-greenwich/
+---
+name: Royal Teas
+address: 76 Royal Hill, Greenwich, SE10 8RT
+website: http://www.royalteascafe.co.uk/
+phone: 020 8691 7240
+lat: 51.476106
+long: -0.0099693686
+station: Greenwich
+type: restaurant
+cuisine: British
+hours: "Mon-Sat: 9:30am-5:30pm; Sun: 10:30am-5:30pm"
+photo: http://www.flickr.com/photos/kake_pugh/13195419743/
+---
+name: Buenos Aires
+address: 86 Royal Hill, Greenwich, SE10 8RT
+website: http://www.buenosairesltd.com/
+phone: 020 8488 6764
+lat: 51.475940
+long: -0.010265753
+station: Greenwich
+type: restaurant
+photo: http://www.flickr.com/photos/kake_pugh/13195598374/
+---
+name: The Hill
+address: 89 Royal Hill, Greenwich, SE10 8SE
+website: http://www.thehillgreenwich.com/
+phone: 020 8691 3626
+lat: 51.475611
+long: -0.010473624
+station: Greenwich
+type: restaurant
+cuisine: Mediterranean
+licensed: yes
+bookings: yes
+takeaway: yes
+hours: "Mon-Fri: noon-2:30pm, 6pm-10:30pm; Sat: noon-10:30pm; Sun: noon-9:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13195362563/
+  - http://www.flickr.com/photos/kake_pugh/13195396903/
+  - http://www.flickr.com/photos/kake_pugh/13195560044/
+  - http://www.flickr.com/photos/kake_pugh/13195300095/
+summary: French, Italian, and the occasional Spanish dish. Several pasta and pizza dishes. Patio garden at the back.
+links:
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1749471-Reviews-The_Hill-London_England.html
+  - http://seeningreenwich.betonylloyd.com/post/50096914851/wed-heard-good-things-about-the-hill-restaurant
+---
+name: Ashburnham Arms
+address: 25 Ashburnham Grove, Greenwich, SE10 8UH
+website: http://ashburnhamarms.com/
+phone: 020 8692 2007
+lat: 51.475648
+long: -0.015282825
+station: Greenwich
+type: pub
+cuisine:
+  - British
+  - Sri Lankan
+licensed: yes
+hours: "Mon-Sat: noon-midnight; Sun: noon-11pm.  Food served Tue-Sat: noon-2pm, 6pm-9pm; Sun: noon-4pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13197799025/
+  - http://www.flickr.com/photos/kake_pugh/13197924733/
+  - http://www.flickr.com/photos/kake_pugh/13198125694/
+summary: Locals' pub serving Shepherd Neame beer and a short food menu including pizzas and Sri Lankan curries.
+access: Steep ramp up from the pavement, and then a high step to get in. All on one level once you're in. The cubicles in the ladies' are a bit of a squeeze.
+links: http://london.randomness.org.uk/wiki.cgi?Ashburnham_Arms,_SE10_8UH
+---
+name: Baba's Cafe
+address: 13-15 Greenwich South Street, Greenwich, SE10 8NW
+phone: 020 8305 9955
+lat: 51.477544
+long: -0.012088314
+station: Greenwich
+type: restaurant
+cuisine: British
+hours: "Mon-Fri: 7am-4pm; Sat: 8am-4pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13215576415/
+  - http://www.flickr.com/photos/kake_pugh/13215709403/
+  - http://www.flickr.com/photos/kake_pugh/13215697803/
+summary: Cooked breakfasts served all day.  Hot and cold sandwiches, omelettes, burgers, jacket potatoes, salads.
+links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2390100-Reviews-Baba_s_Cafe-London_England.html
+---
+name: The Lost Hour
+address: 217-219 Greenwich High Road, Greenwich, SE10 8NB
+website: http://www.thelosthourgreenwich.co.uk/
+twitter: TheLostHourPub
+phone: 020 8269 1411
+lat: 51.478403
+long: -0.011474088
+station: Greenwich
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: 11am-11:30pm; Sun: 11am-11pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13215676663/
+  - http://www.flickr.com/photos/kake_pugh/13215522235/
+  - http://www.flickr.com/photos/kake_pugh/13215511755/
+summary: Part of the Stonegate Pub Company, serving food and real ale at relatively cheap prices. Cooked breakfasts served until noon.
+links:
+  - http://www.yelp.co.uk/biz/the-lost-hour-london
+  - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d3807627-Reviews-The_Lost_Hour-London_England.html
