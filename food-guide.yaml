@@ -3496,3 +3496,54 @@ summary: Part of the Stonegate Pub Company, serving food and real ale at relativ
 links:
   - http://www.yelp.co.uk/biz/the-lost-hour-london
   - http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d3807627-Reviews-The_Lost_Hour-London_England.html
+---
+name: Café Marrone
+address: Shadwell Station, Watney Street, Shadwell, E1 2QD
+website: http://cafemarrone.blogspot.co.uk/
+phone: 020 7791 5356
+lat: 51.511674
+long: -0.056406453
+station: Shadwell
+type: restaurant
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13270511173/
+  - http://www.flickr.com/photos/kake_pugh/13270365855/
+summary: Halal cafe just inside Shadwell DLR Station, also offering internet terminals.
+access: No steps to get in.
+links: http://www.yelp.co.uk/biz/cafe-marrone-london
+---
+name: Sichuan Kitchen
+address: 213 East India Dock Road, Poplar, E14 0ED
+website: http://www.sichuankitchen.co.uk/
+phone: 020 7515 8866
+lat: 51.511383
+long: -0.011774495
+station: All Saints
+type: restaurant
+cuisine: Chinese
+takeaway: yes
+hours: "Mon-Thu: noon-3pm, 5pm-10:30pm; Fri-Sat: noon-3pm, 5pm-11pm; Sun: noon-3pm, 5pm-10:30pm"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13270606243/
+  - http://www.flickr.com/photos/kake_pugh/13270591263/
+  - http://www.flickr.com/photos/kake_pugh/13270578373/
+  - http://www.flickr.com/photos/kake_pugh/13270749604/
+  - http://www.flickr.com/photos/kake_pugh/13270546063/
+  - http://www.flickr.com/photos/kake_pugh/13270717404/
+  - http://www.flickr.com/photos/kake_pugh/13270522713/
+summary: Sichuan specialities from a fully bilingual menu (English/Chinese). Hotpot (steamboat) also available.
+links: http://chowhound.chow.com/topics/865723
+---
+name: Super Three
+address: 207 East India Dock Road, Poplar, E14 0ED
+phone: 020 7515 8700
+lat: 51.511383
+long: -0.011975661
+station: All Saints
+type: restaurant
+cuisine: Chinese
+photo: http://www.flickr.com/photos/kake_pugh/13270621443/
+summary: Sichuan specialities from a Chinese-only menu, though it's fully illustrated so non-Chinese-readers may be able to order from the pictures. Standard Anglicised Cantonese food also available.
+links:
+  - http://foodcontinent.blogspot.co.uk/2013/06/super-three-restaurant-all-saints.html
+  - http://www.yelp.co.uk/biz/super-three-chinese-restaurant-london
