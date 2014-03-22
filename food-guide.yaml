@@ -3548,3 +3548,223 @@ summary: Sichuan specialities from a Chinese-only menu, though it's fully illust
 links:
   - http://foodcontinent.blogspot.co.uk/2013/06/super-three-restaurant-all-saints.html
   - http://www.yelp.co.uk/biz/super-three-chinese-restaurant-london
+---
+name: Paul A Young
+address: 20 Royal Exchange, Threadneedle Street, City, EC3V 3LP
+website: http://www.paulayoung.co.uk/
+twitter: paul_a_young
+phone: 020 7929 7007
+lat: 51.513861
+long: -0.086704284
+station:
+  - Bank
+  - Monument
+type: grocery shop
+cuisine: chocolate
+hours: "Mon-Wed: 9am-6:30pm; Thu: 9am-7pm; Fri: 9am-6:30pm; Sat-Sun: closed"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13324295905/
+  - https://www.flickr.com/photos/kake_pugh/13324305415/
+summary: Hand-made chocolates with interesting flavours including port and stilton, sea salted caramel, and Sichuan pepper.
+access: A step to get in, and it's quite small inside.
+links: http://london.randomness.org.uk/wiki.cgi?Paul_A_Young,_EC3V_3LP
+---
+name: Simpson's Tavern
+address: Ball Court, 38½ Cornhill, City, EC3V 9DR
+website: http://www.simpsonstavern.co.uk/
+phone: 020 7626 9985
+lat: 51.513109
+long: -0.085916117
+station:
+  - Bank
+  - Monument
+type:
+  - pub
+  - restaurant
+cuisine: British
+licensed: yes
+photo:
+  - http://www.flickr.com/photos/kake_pugh/5573026058/
+  - https://www.flickr.com/photos/kake_pugh/13324466713/
+  - https://www.flickr.com/photos/kake_pugh/13324270095/
+  - https://www.flickr.com/photos/kake_pugh/13324276795/
+  - https://www.flickr.com/photos/kake_pugh/13324442263/
+summary: Hidden away down a narrow pedestrian alleyway, this pub and restaurant consists of a pair of late 17th century houses, converted to a chop-house and coffee shop in the 18th century.
+access: At least one step to get into the ground-floor dining room and bar. The restaurant and wine bar involve steep staircases. The ground floor passages are narrow and twisty, and the interior is very cramped.
+links: http://london.randomness.org.uk/wiki.cgi?Simpson%27s_Tavern,_EC3V_9DR
+---
+name: Jamaica Wine House
+address: St Michael's Alley, off Cornhill, City, EC3V 9DS
+website: http://www.shepherdneame.co.uk/pubs/london/jamaica-wine-house
+phone: 020 7929 6972
+lat: 51.512919
+long: -0.085622415
+station:
+  - Bank
+  - Monument
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Fri: 11am-11pm; Sat-Sun: closed"
+photo: https://www.flickr.com/photos/kake_pugh/13325297894/
+access: A step to get in at at least one of the entrances, and the toilets are down a flight of stairs.
+links: http://london.randomness.org.uk/wiki.cgi?Jamaica_Wine_House,_EC3V_9DS
+---
+name: The Wurst Club
+address: 56-57 Cornhill, City, EC3V 3PD
+website: http://www.the-wurst-club.co.uk/
+phone: 020 7283 8008
+lat: 51.513373
+long: -0.084513322
+station:
+  - Bank
+  - Monument
+type: takeaway
+cuisine: German
+licensed: yes
+takeaway: yes
+hours: "Mon-Fri: 11am-8pm; Sat-Sun: closed"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13324873785/
+  - https://www.flickr.com/photos/kake_pugh/13325289084/
+  - https://www.flickr.com/photos/kake_pugh/13324882065/
+  - https://www.flickr.com/photos/kake_pugh/13325282674/
+summary: German sausages, beer, sauerkraut, and potato-based side dishes to take away. No seats for eat-in, though there is a small counter if you fancy eating standing up.
+links:
+  - http://www.timeout.com/london/restaurants/wurst-club
+  - http://www.yelp.co.uk/biz/the-wurst-club-london
+---
+name: The Ship
+address: 11 Talbot Court, EC3V 0BP
+website: http://www.nicholsonspubs.co.uk/theshiptalbotcourtlondon/
+phone: 020 7929 3903
+lat: 51.512286
+long: -0.084545508
+station: Monument
+type: pub
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 10am-11pm; Sat-Sun: closed"
+photo: https://www.flickr.com/photos/kake_pugh/13325042373/
+links: http://london.randomness.org.uk/wiki.cgi?Ship,_EC3V_0BP
+---
+name: The Walrus and the Carpenter
+address: 45 Monument Street, City, EC3R 8BU
+website: http://www.nicholsonspubs.co.uk/thewalrusandthecarpentermonumentlondon/
+twitter: The_Walrus45
+phone: 020 7621 1647
+lat: 51.509509
+long: -0.084210232
+station: Monument
+type: pub
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 11am-11pm; Sat: noon-8pm; Sun: closed"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13325040903/
+  - https://www.flickr.com/photos/kake_pugh/13324860255/
+---
+name: Wagamama
+address: 2B Tower Place, Tower of London, EC3N 4EE
+website: http://www.wagamama.com/
+twitter: Wagamama_UK
+phone: 020 7283 5897
+lat: 51.508871
+long: -0.078802899
+station:
+  - Tower Gateway
+  - Tower Hill
+type: restaurant
+cuisine: pan-Asian
+licensed: yes
+bookings: yes
+takeaway: yes
+hours: "Mon-Sun: 11:30am-9pm"
+photo: http://flickr.com/photos/kake_pugh/2864033556/
+summary: Informal chain restaurant offering Japanese-inspired pan-Asian food. Separate children's menu with similar choices to main menu.
+access: Braille menus, magnifying sheets, and induction loops.
+links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1019713-Reviews-Wagamama_Tower_Hill-London_England.html
+---
+name: Brasserie Blanc
+address: 14 Trinity Square, Tower of London, EC3N 4AA
+website: http://www.brasserieblanc.com/
+phone: 020 7480 5500
+lat: 51.509752
+long: -0.078395203
+station:
+  - Tower Gateway
+  - Tower Hill
+type: restaurant
+cuisine: French
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: 8:30am-10pm; Sat-Sun: closed. Breakfast served 8:30am-11am. Coffee and pastries available all day. Bar open from noon."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13324850695/
+  - https://www.flickr.com/photos/kake_pugh/13325018813/
+  - https://www.flickr.com/photos/kake_pugh/13324830675/
+  - https://www.flickr.com/photos/kake_pugh/13325211444/
+summary: Part of a small chain with half a dozen other London locations. Some dishes available in half-sized portions “suitable for 8-12 year old children”, separate menu for younger children, free vegetable puree for babies. A small sprinkling of vegetarian options on the main menu. Separate gluten free and dairy free menu available, though this also includes meat and fish.
+links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1385617-Reviews-Brasserie_Blanc_Tower_Hill-London_England.html
+---
+name: Hung, Drawn and Quartered
+address: 26-27 Great Tower Street, EC3R 5AQ
+website: http://hung-drawn-and-quartered.co.uk/
+phone: 020 7626 6123
+lat: 51.509616
+long: -0.080642894
+station:
+  - Tower Gateway
+  - Tower Hill
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: 11am-11pm; Sun: noon-6pm. Food served Mon-Sat: noon-pm; Sun: noon-5pm"
+photo: http://www.flickr.com/photos/55935853@N00/2818765205/
+access: No steps to get in, and it's step-free to the bar, seating, and accessible toilet (which has a sign on it stating that the key is behind the bar — it's an ordinary lock, not a RADAR one). Other toilets are down a spiral staircase with a handrail on one side. About half of the seating is at high chairs and tables, but the rest is normal-height.
+links: http://london.randomness.org.uk/wiki.cgi?Hung_Drawn_And_Quartered,_EC3R_5AQ
+---
+name: Bavarian Beerhouse
+address:  The Arches, 9 Crutched Friars, City, EC3N 2AU
+website: http://www.bavarian-beerhouse.co.uk/
+twitter: BavarianBeerUK
+phone: 0844 330 2005
+lat: 51.511323
+long: -0.077730015
+station:
+  - Tower Gateway
+  - Tower Hill
+type: restaurant
+cuisine: German
+licensed: yes
+bookings: yes
+hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-1am; Sun: noon-11pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13327602194/
+  - https://www.flickr.com/photos/kake_pugh/13327409593/
+  - https://www.flickr.com/photos/kake_pugh/13327614584/
+  - https://www.flickr.com/photos/kake_pugh/13327254755/
+summary: German beer, schnapps, sausages, schnitzels, noodles, and other German food. Occasional vegetarian options.
+links: http://london.randomness.org.uk/wiki.cgi?Bavarian_Beerhouse,_EC3N_2AU
+---
+name: The Chamberlain
+address: 130-135 Minories, City, EC3N 1NU
+website: http://www.thechamberlainhotel.co.uk/
+phone: 020 7680 1500
+lat: 51.512241
+long: -0.075535968
+station:
+  - Tower Gateway
+  - Tower Hill
+type:
+  - pub
+  - restaurant
+cuisine: British
+licensed: yes
+hours: "Bar open Mon-Wed: 11am-11pm; Thu-Fri: 11am-midnight; Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Fri: 10am-10pm; Sat-Sun: noon-10pm."
+photo: https://www.flickr.com/photos/kake_pugh/13327365003/
+summary: Pub, restaurant and hotel owned by well-known London brewery Fullers. Nine handpumps for real ale, and food a little pricier but also more elaborate than usual for a pub. Separate children's menu.
+access: Two or three steps to get in, depending on which entrance you use. Once you're in, it's step-free to the bar, the restaurant area, and some of the seating in the bar area. Much of the bar-area seating is on high tables with high benches. About half of the normal-height seating is up one step on a dais. The toilets (including an accessible one) are in the basement, down a flight of stairs with three bends and a sturdy rail on one side; there is a lift that goes down here too.
+links: http://london.randomness.org.uk/wiki.cgi?Chamberlain,_EC3N_1NU
