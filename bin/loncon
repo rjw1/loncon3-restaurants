@@ -23,6 +23,9 @@ if ( $laptop ) {
 my @venues = LoadFile( $filename );
 @venues = sort { $a->{name} cmp $b->{name} } @venues;
 
+print "Found " . ( scalar @venues ) . " venue" . ( scalar @venues == 1 ? "" : "s" ) . ".\n";
+
+
 my ( $min_lat, $max_lat, $centre_lat, $min_long, $max_long, $centre_long );
 $min_lat = $max_lat = $venues[0]{lat};
 $min_long = $max_long = $venues[0]{long};
