@@ -2249,7 +2249,7 @@ cuisine:
   - British
   - Indian
 photo:
-  - http://www.flickr.com/photos/kake_pugh/13028569874/
+  - http://www.flickr.com/photos/kake_pugh/13028578214/
   - http://www.flickr.com/photos/kake_pugh/13028331283/
   - http://www.flickr.com/photos/kake_pugh/13028549124/
   - http://www.flickr.com/photos/kake_pugh/13028300243/
@@ -3766,6 +3766,522 @@ cuisine: British
 licensed: yes
 hours: "Bar open Mon-Wed: 11am-11pm; Thu-Fri: 11am-midnight; Sat: noon-11pm; Sun: noon-10:30pm. Food served Mon-Fri: 10am-10pm; Sat-Sun: noon-10pm."
 photo: https://www.flickr.com/photos/kake_pugh/13327365003/
-summary: Pub, restaurant and hotel owned by well-known London brewery Fullers. Nine handpumps for real ale, and food a little pricier but also more elaborate than usual for a pub. Separate children's menu.
+summary: Pub, restaurant and hotel owned by well-known London brewery Fuller's. Nine handpumps for real ale, and food a little pricier but also more elaborate than usual for a pub. Separate children's menu.
 access: Two or three steps to get in, depending on which entrance you use. Once you're in, it's step-free to the bar, the restaurant area, and some of the seating in the bar area. Much of the bar-area seating is on high tables with high benches. About half of the normal-height seating is up one step on a dais. The toilets (including an accessible one) are in the basement, down a flight of stairs with three bends and a sturdy rail on one side; there is a lift that goes down here too.
 links: http://london.randomness.org.uk/wiki.cgi?Chamberlain,_EC3N_1NU
+---
+name: Velo
+address: 104 Tooley Street, London Bridge, SE1 2TH
+website: http://www.velorestaurant.com/
+twitter: velorestaurant
+phone: 020 7407 9310
+lat: 51.504297
+long: -0.082472160
+station: London Bridge
+type: restaurant
+cuisine: Vietnamese
+licensed: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Fri: 11am-10:30pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13329193665/
+  - https://www.flickr.com/photos/kake_pugh/13329180195/
+  - https://www.flickr.com/photos/kake_pugh/13329318283/
+summary: Hot food including pho and Vietnamese curries; cold food including summer rolls and banh mi. Plenty of vegan, vegetarian, halal, and gluten free options, all clearly marked on menu. Delivery within 10 minutes' walk (which includes the Tower Bridge Hilton).
+links: http://www.thegoodwebguide.co.uk/food-wine/table-talk/interviews/Nghi-Nguyen-Velo-Vietnamese-restaurant-interview/15526
+---
+name: Suchard
+address: 102 Tooley Street, London Bridge, SE1 2JP
+website: http://suchardthai.co.uk/
+phone: 020 7357 6381
+lat: 51.504320
+long: -0.082552627
+station: London Bridge
+type: restaurant
+cuisine: Thai
+licensed: yes
+hours: "Mon-Sat: noon-3pm, 5:30pm-11pm; Sun: closed; Bank Hol: 5pm-10:30pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13329075125/
+  - https://www.flickr.com/photos/kake_pugh/13329140965/
+  - https://www.flickr.com/photos/kake_pugh/13329140965/
+  - https://www.flickr.com/photos/kake_pugh/13329140965/
+  - https://www.flickr.com/photos/kake_pugh/13329153205/
+summary: Cheap and cheerful.
+links: http://london.randomness.org.uk/wiki.cgi?Suchard_Thai,_SE1_2JP
+---
+name: Magdalen
+address: 152 Tooley Street, London Bridge, SE1 2TU
+website: http://www.magdalenrestaurant.co.uk/
+phone: 020 7403 1342
+lat: 51.503661
+long: -0.080911115
+station: London Bridge
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: noon-2:30pm, 6:30pm-10pm; Sat: 6:30pm-10pm; Sun: closed"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13329087355/
+  - https://www.flickr.com/photos/kake_pugh/13329101295/
+  - https://www.flickr.com/photos/kake_pugh/13329091265/
+summary: Vegetarian options are sparse.
+access: A step to get in. Accessible toilet on the ground floor.
+links: http://london.randomness.org.uk/wiki.cgi?Magdalen,_SE1_2TU
+---
+name: Vivat Bacchus
+address: 4 Hays Lane, London Bridge, SE1 2HB
+website: http://www.vivatbacchus.co.uk/
+twitter: Vivat_Bacchus
+phone: 020 7234 0891
+lat: 51.505711
+long: -0.084856644
+station: London Bridge
+type: restaurant
+cuisine:
+  - European
+  - South African
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: noon-late; Sat: 5pm-late; Sun: closed. Food served until 10:30pm, drinks until 11:30pm."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13330357375/
+  - https://www.flickr.com/photos/kake_pugh/13330533303/
+  - https://www.flickr.com/photos/kake_pugh/13330759464/
+  - https://www.flickr.com/photos/kake_pugh/13330788814/
+links: http://london.randomness.org.uk/wiki.cgi?Vivat_Bacchus,_SE1_2HB
+---
+name: Barrowboy and Banker
+address: 6-8 Borough High Street, London Bridge, SE1 9QQ
+website: http://barrowboy-and-banker.co.uk/
+twitter: BarrowBoyB
+phone: 020 7403 5415
+lat: 51.506210
+long: -0.088584915
+station: London Bridge
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: 11am-11pm; Sun: noon-7pm. Food served Mon: noon-9pm; Tue-Sat: noon-10pm; Sun: noon-5:30pm."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13330499943/
+  - https://www.flickr.com/photos/kake_pugh/13330336275/
+summary: Housed in a grand building originally constructed to serve as the first branch of the National Westminster Bank, with interior feaures including a curved central staircase, mezzanine floor, frosted-glass privacy screens, and murals. Owned by Fuller's, a well-known London brewery, and serving several of their real ales as well as competent pub food.
+access: Several steps at the entrance. The toilets are down a flight of stairs.
+links: http://london.randomness.org.uk/wiki.cgi?Barrowboy_And_Banker,_SE1_9QQ
+---
+name: Tito's
+address: 4-6 London Bridge Street, London Bridge, SE1 9SG
+website: http://www.titosperuvianrestaurant.com/
+phone: 020 7407 7787
+lat: 51.505435
+long: -0.088544682
+station: London Brige
+type: restaurant
+cuisine: Peruvian
+licensed: yes
+bookings: yes
+takeaway: yes
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13330713514/
+  - https://www.flickr.com/photos/kake_pugh/13330657874/
+  - https://www.flickr.com/photos/kake_pugh/13330643684/
+  - https://www.flickr.com/photos/kake_pugh/13330390813/
+  - https://www.flickr.com/photos/kake_pugh/13330390813/
+  - https://www.flickr.com/photos/kake_pugh/13330431233/
+  - https://www.flickr.com/photos/kake_pugh/13330459363/
+  - https://www.flickr.com/photos/kake_pugh/13330442903/
+summary: Breakfast and lunch menu served from 7am. Rudimentary children's menu.
+links: http://london.randomness.org.uk/wiki.cgi?Tito%27s,_SE1_9SG
+---
+name: Tapas Brindisa
+address: 18-20 Southwark Street, London Bridge, SE1 1TJ
+website: http://www.brindisatapaskitchens.com/
+twitter: Brindisa
+phone: 020 7357 8880
+lat: 51.504939
+long: -0.090508059
+station: London Bridge
+type: restaurant
+cuisine: Spanish
+licensed: yes
+hours: "Mon-Fri: 10am-11:30pm; Sat: 9am-11:30pm; Sun: 11am-10pm. Breakfast served Mon-Fri: 10am-11am; Sat: 9am-11am. Hot food served Mon-Sat: noon-4pm, 5:30pm-11:30pm; Sun: noon-10pm."
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13334413353/
+  - http://www.flickr.com/photos/kake_pugh/13334278295/
+summary: Tapas bar right on the edge of Borough Market, part of a small chain.
+links: http://london.randomness.org.uk/wiki.cgi?Tapas_Brindisa,_SE1_1TJ
+---
+name: Monmouth Coffee Company
+address: 2 Park Street, London Bridge, SE1 9AB
+website: http://www.monmouthcoffee.co.uk/
+phone: 020 7232 3010
+lat: 51.505490
+long: -0.091371730
+station: London Bridge
+type:
+  - grocery shop
+  - restaurant
+hours: "Mon-Sat: 7:30am-6pm; Sun: closed"
+photo: http://www.flickr.com/photos/kake_pugh/13334655474/
+summary: Focused on their own-roasted coffee, but also serving pastries, bread-and-jam, and things. Beans sold to take away. Expect queues.
+links:
+  - http://www.timeout.com/london/restaurants/monmouth-coffee-company
+  - http://www.yelp.co.uk/biz/monmouth-coffee-london
+---
+name: Wright Brothers
+address: 11 Stoney Street, London Bridge, SE1 9AD
+website: http://www.thewrightbrothers.co.uk/
+twitter: WrightBrosLDN
+phone: 020 7403 9554
+lat: 51.505626
+long: -0.091503158
+station: London Bridge
+type: restaurant
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10pm. Hot food served Mon-Fri: noon-3pm, 6pm-11pm; Sat: noon-4pm, 6pm-11; Sun: noon-4pm, 6pm-10pm; Bank Hol: closed."
+photo: http://www.flickr.com/photos/kake_pugh/13334410903/
+summary: Self-described “oyster & porter house” serving fish and seafood including around a dozen varieties of oyster. Vegetarian options unlikely. A good selection of bottled stouts and porters as well as wine and cocktails.
+links:
+  - http://chowhound.chow.com/topics/757244
+  - http://theskinnybib.com/2011/04/27/oysters-indeed/
+---
+name: Konditor And Cook
+address: 10 Stoney Street, Bermondsey, SE1 9AD
+website: http://konditorandcook.com/
+twitter: konditorandcook
+phone: 020 7633 3333
+lat: 51.505576
+long: -0.091446832
+station: London Bridge
+type: restaurant
+hours: "Mon-Thu: 7:30am-6pm; Fri: 7:30am-7pm; Sat: 8:30am-5pm; Sun: 11am-5pm"
+photo: http://www.flickr.com/photos/kake_pugh/13334640034/
+summary: Cakes, tarts, biscuits, savouries, salads, sandwiches, soups, and hot dishes.
+---
+name: The Market Porter
+address: 9 Stoney Street, Bermondsey, SE1 9AA
+website: http://www.markettaverns.co.uk/
+phone: 020 7407 2495
+lat: 51.505397
+long: -0.091277853
+station: London Bridge
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Fri: 6am-8:30am, 11am-11pm; Sat: noon-11pm; Sun: noon-10:30pm. Bar food served Mon-Fri: noon-3pm; Sat: closed; Sun: noon-5pm. Restaurant food served Mon-Thu: noon-3pm; Fri-Sun: noon-5pm."
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13334638744/
+  - http://www.flickr.com/photos/kake_pugh/13334392853/
+  - http://www.flickr.com/photos/kake_pugh/13334376023/
+summary: Early-opening pub on the edge of Borough Market. Fast turnover keeps the real ale fresh but also means that rarer ales run out quickly.  Food served lunchtimes only from separate menus in the bar and upstairs dining room, with ingredients sourced from the market.
+links: http://london.randomness.org.uk/wiki.cgi?Market_Porter,_SE1_9AA
+---
+name: Champor-Champor
+address: 62-64 Weston Street, London Bridge, SE1 3QJ
+website: http://www.champor-champor.com/
+twitter: ChamporChampor
+phone: 020 7403 4600
+lat: 51.502450
+long: -0.085481599
+station: London Bridge
+type: restaurant
+cuisine:
+  - Malaysian
+  - Thai
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: noon-3pm (last orders 2pm), 6pm-10:30pm; Sat: 6pm-10:30pm; Sun: 6pm-9:30pm."
+photo:
+  - http://www.flickr.com/photos/kake_pugh/13334604744/
+  - http://www.flickr.com/photos/kake_pugh/13334560214/
+  - http://www.flickr.com/photos/kake_pugh/13334179545/
+summary: Thai-Malaysian fusion. One or two vegetarian plus one or two vegan options per course.
+---
+name: Suchard Freehouse
+address: 2 Crucifix Lane, Bermondsey, SE1 3JW
+website: http://suchardthai.co.uk/
+phone: 020 7357 7995
+lat: 51.502296
+long: -0.082021549
+station: London Bridge
+type: pub
+cuisine: Thai
+licensed: yes
+takeaway: yes
+hours: "Mon-Fri: noon-3pm, 5pm-late; Sat: 5pm-late; Sun: closed"
+photo: https://www.flickr.com/photos/kake_pugh/13347498974/
+summary: Cheap and cheerful Thai food in a pub setting. Other (non-pub) branch on Tooley Street.
+links: http://london.randomness.org.uk/wiki.cgi?Suchard_Freehouse,_SE1_3JW
+---
+name: Casse-Croûte
+address: 109 Bermondsey Street, Bermondsey, SE1 3XB
+website: http://www.cassecroute.co.uk/
+twitter: CasseCroute109
+phone: 020 7407 2140
+lat: 51.500507
+long: -0.081635311
+station: London Bridge
+type: restaurant
+cuisine: French
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: 9am-10pm; Sun: 9am-5pm"
+photo: https://www.flickr.com/photos/kake_pugh/13347103075/
+summary: Tiny French bistro.
+links:
+  - http://www.theguardian.com/lifeandstyle/2013/aug/31/restaurants-casse-croute-london
+  - http://www.timeout.com/london/restaurants/casse-croute
+---
+name: José
+address: 104 Bermondsey Street, Bermondsey, SE1 3UB
+website: http://www.josetapasbar.com/
+twitter: Jose_Pizarro
+lat: 51.500577
+long: -0.081855252
+station: London Bridge
+type: pub
+cuisine: Spanish
+licensed: yes
+bookings: no
+hours: "Mon-Fri: noon-10:30pm; Sat: 10am-10:30pm; Sun: noon-5:30pm"
+photo: https://www.flickr.com/photos/kake_pugh/13347234153/
+links:
+  - http://www.timeout.com/london/restaurants/jose
+  - http://www.standard.co.uk/goingout/restaurants/in-the-queue-for-top-tapas-at-jos-7425259.html
+  - http://www.doshermanos.co.uk/2011/06/jose-una-esquina-espanola.html
+---
+name: Caphe House
+address: 114 Bermondsey Street, Bermondsey, SE1 3TX
+website: http://www.caphehouse.com/
+phone: 020 7403 3574
+lat: 51.500338
+long: -0.081737235
+station: London Bridge
+type: restaurant
+cuisine: Vietnamese
+hours: "Mon-Fri: 8am-5pm; Sat: 9am-5pm; Sun: closed"
+photo: https://www.flickr.com/photos/kake_pugh/13347101535/
+summary: Small cafe with a covered outdoor terrace just across the street. Pho, banh mi, bagels, salads, summer rolls, steamed buns.
+links: http://chowhound.chow.com/topics/638398
+---
+name: Zucca
+address: 184 Bermondsey Street, Bermondsey, SE1 3TQ
+website: http://www.zuccalondon.com/
+twitter: ZuccaBermondsey
+phone: 020 7378 6809
+lat: 51.498687
+long: -0.081096187
+station: London Bridge
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Mon: closed; Tue-Fri: noon-3pm, 6pm-10pm; Sat: noon-3:30pm, 6pm-10pm; Sun: noon-4pm"
+photo: https://www.flickr.com/photos/kake_pugh/13347091225/
+links:
+  - http://www.timeout.com/london/restaurants/zucca
+  - http://metro.co.uk/2010/04/27/zucca-restaurant-review-268072/
+  - http://bellaphon.blogspot.co.uk/2012/05/zucca.html
+---
+name: Pizarro
+address: 194 Bermondsey Street, Bermondsey, SE1 3TQ
+website: http://www.pizarrorestaurant.com/
+twitter: Jose_Pizarro
+phone: 020 7378 9455
+lat: 51.498433
+long: -0.081195429
+station: London Bridge
+type: restaurant
+cuisine: Spanish
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10pm. Main menu served Mon-Fri: noon-3pm, 6pm-11pm; Sat: noon-11pm; Sun: noon-10pm."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13347073455/
+  - https://www.flickr.com/photos/kake_pugh/13347214113/
+summary: Under the same ownership as José up the road, but after an initial period of no-booking policy, this one now takes bookings.
+links:
+  - http://www.timeout.com/london/restaurants/pizarro
+---
+name: Crystal China
+address: 78-80 Tower Bridge Road, Bermondsey, SE1 4TP
+phone: 020 7231 8866
+lat: 51.496197
+long: -0.082461432
+station:
+  - Bermondsey
+  - London Bridge
+type: restaurant
+cuisine: Chinese
+licensed: yes
+takeaway: yes
+delivery: yes
+hours: "Mon-Sat: noon-2:30pm, 5:30pm-11:30pm; Sun: noon-3pm; 5:30pm-11pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13348984964/
+  - https://www.flickr.com/photos/kake_pugh/13348665463/
+  - https://www.flickr.com/photos/kake_pugh/13348653093/
+  - http://www.flickr.com/photos/rjw1/8344956217/
+summary: Regional Chinese food from Sichuan, Dongbei (North-East China), and Shanghai. They also do the usual generic Anglicised dishes. A small selection of the interesting stuff is available for online ordering and delivery.
+links: http://london.randomness.org.uk/wiki.cgi?Crystal_China,_SE1_4TP
+---
+name: M Manze
+address: 87 Tower Bridge Road, Bermondsey, SE1 4TW
+website: http://manze.co.uk/
+twitter: Manzes_SE1
+phone: 020 7407 2985
+lat: 51.496314
+long: -0.082724288
+station:
+  - Bermondsey
+  - London Bridge
+type: restaurant
+cuisine: British
+takeaway: yes
+hours: "Mon: 11am-2pm; Tue-Thur: 10.30am-2pm; Fri: 10am-2.30pm; Sat: 10am-2.45pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/kake_pugh/2446494236/
+  - http://www.flickr.com/photos/kake_pugh/2446404662/
+summary: The oldest continuously open “pie and mash shop” in London, on Tower Bridge Road since 1902 and now housed in a Grade II listed building with original Victorian tiling. Open lunchtimes only, serving pies, mashed potato, stewed and jellied eels, and “liquor” (a thin parsley sauce, non-alcoholic despite the name). Vegan (soya-based) pies available.
+links: http://london.randomness.org.uk/wiki.cgi?M_Manze,_SE1_4TW
+---
+name: Constancia
+address: 52 Tanner Street, Bermondsey, SE1 3PH
+website: http://www.constancia.co.uk/
+twitter: ConstanciaGrill
+phone: 020 7234 0676
+lat: 51.500052
+long: -0.078478351
+station:
+  - Bermondsey
+  - London Bridge
+  - Tower Gateway
+  - Tower Hill
+type: restaurant
+cuisine:
+  - Argentine
+  - steak
+licensed: yes
+hours: "Mon-Sun: 6pm-10:30pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13351091904/
+  - https://www.flickr.com/photos/kake_pugh/13350866253/
+summary: A couple of vegetarian options.
+access: No step to get in (just a small ridge), and the ladies' doubles as an accessible toilet.
+links: http://london.randomness.org.uk/wiki.cgi?Constancia,_SE1_3PH
+---
+name: The Draft House
+address: 206-208 Tower Bridge Road, Bermondsey, SE1 2UP
+website: http://www.drafthouse.co.uk/
+twitter: DraftHouseTB
+phone: 020 7378 9995
+lat: 51.502842
+long: -0.076957539
+station:
+  - London Bridge
+  - Tower Gateway
+  - Tower Hill
+type: pub
+cuisine: British
+licensed: yes
+bookings: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13351080574/
+  - https://www.flickr.com/photos/kake_pugh/13350827053/
+  - https://www.flickr.com/photos/kake_pugh/13350692155/
+summary: Interesting draught and bottled beers from London and beyond. Food is mainly meat-based, heavy on the hotdogs and burgers, and includes foot-long pork scratchings. Vegetarian options are sparse.
+links: http://london.randomness.org.uk/wiki.cgi?Draft_House,_SE1_2UP
+---
+name: Tentazioni Fine Food
+address: 19 The Circle, Queen Elizabeth Street, Bermondsey, SE1 2JE
+website: http://www.tentazioni.co.uk/delicatessen/
+twitter: TentazioniWorld
+phone: 020 7407 7529
+lat: 51.501370
+long: -0.073754981
+station:
+  - Bermondsey
+  - London Bridge
+  - Tower Gateway
+  - Tower Hill
+type:
+  - grocery shop
+  - restaurant
+cuisine: Italian
+licensed: yes
+hours: "Mon-Fri: 8am-8pm; Sat: 9am-8pm; Sun: closed"
+photo:
+  - http://www.flickr.com/photos/foodstories/3958601756/
+  - http://www.flickr.com/photos/foodstories/3958267695/
+  - http://www.flickr.com/photos/foodstories/3959048712/
+summary: Italian delicatessen and cafe under the same ownership as nearby Tentazioni Restaurant. Sandwiches, pasta, and coffee as well as deli items such as cheese, bread, cooked meat, and storecupboard groceries.
+links: http://www.yelp.co.uk/biz/tentazioni-fine-food-london
+---
+name: Tentazioni Restaurant
+address: Lloyds Wharf, 2 Mill Street, Bermondsey, SE1 2BD
+website: http://www.tentazioni.co.uk/restaurant/
+twitter: TentazioniWorld
+phone: 020 7237 1100
+lat: 51.500807
+long: -0.071818426
+station: Bermondsey
+type: restaurant
+cuisine: Italian
+licensed: yes
+bookings: yes
+hours: "Mon-Fri: noon-2:45pm, 6pm-10:45pm; Sat: 6pm-10:45pm; Sun: noon-9pm"
+photo: http://flickr.com/photos/kake_pugh/2908524670/
+summary: Space to suit large groups if booked in advance.
+links: http://london.randomness.org.uk/wiki.cgi?Tentazioni,_SE1_2BD
+---
+name: The Dean Swift
+address: 10 Gainsford Street, Bermondsey, SE1 2NE
+website: http://thedeanswift.com/
+twitter: DeanSwiftSE1
+phone: 020 7357 0748
+lat: 51.502878
+long: -0.075090721
+station:
+  - London Bridge
+  - Tower Gateway
+  - Tower Hill
+type: pub
+cuisine: British
+licensed: yes
+hours: "Mon-Sat: noon-midnight; Sun: noon-11pm. Food served Mon-Sun: noon-9pm."
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13350999714/
+  - https://www.flickr.com/photos/kake_pugh/13350984724/
+  - https://www.flickr.com/photos/kake_pugh/13350970654/
+  - https://www.flickr.com/photos/kake_pugh/13350719983/
+summary: Interesting draught and bottled beers from London and beyond. Bar snacks might include a half-pint of brown shrimp, chorizo scotch egg, or baba ganoush with bread. A small main menu in addition, with a reasonable proportion of vegetarian options.
+access: A step to get in, and it's quite small inside.
+links: http://london.randomness.org.uk/wiki.cgi?Dean_Swift,_SE1_2LX
+---
+name: Teapod
+address: Cardamom Building, 31 Shad Thames, Bermondsey, SE1 2YR
+website: http://www.teapodtea.co.uk/
+twitter: TeapodLondon
+phone: 020 7407 0000
+lat: 51.503490
+long: -0.073706701
+station:
+  - London Bridge
+  - Tower Gateway
+  - Tower Hill
+type: restaurant
+cuisine: British
+hours: "Mon-Fri: 8am-6pm; Sat-Sun: 9:30am-6:30pm"
+photo:
+  - https://www.flickr.com/photos/kake_pugh/13350528765/
+  - https://www.flickr.com/photos/kake_pugh/13350704753/
+  - https://www.flickr.com/photos/kake_pugh/13350545545/
+summary: Modern-style teashop offering a full range of loose-leaf teas, espresso-based coffees, handmade cakes including wheat-free options, sandwiches, and daily hot options.
+access: No step to get in (just a small ridge), and it's step-free through to the toilet too. The interior is quite well-filled with chairs and tables, and it might be hard to get a wheelchair to a table if the place was full. The toilet is a single cubicle and isn't overly large, but the door opens outwards.
+links: http://london.randomness.org.uk/wiki.cgi?Teapod,_SE1_2YR
