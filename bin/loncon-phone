@@ -4,7 +4,12 @@ use strict;
 use YAML::Any qw( LoadFile );
 
 my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
-my $filename = "$datadir/food-guide.yaml";
+#my $filename = "$datadir/food-guide.yaml";
+my $filename = "$datadir/tmp.yaml";
+
+#my $outfile = "loncon-no-phone.txt";
+#my $outfile = "loncon-phone-no-hours.txt";
+my $outfile = "loncon-have-hours.txt";
 
 my @venues = LoadFile( $filename );
 @venues = sort { $a->{name} cmp $b->{name} } @venues;
@@ -21,17 +26,31 @@ foreach my $venue ( @venues ) {
   }
 }
 
-print scalar @nonum . " venue" . ( scalar @nonum == 1 ? "" : "s" ) . " without a phone number.\n\n";
+my @data;
 
-foreach my $venue ( @nonum ) {
+if ( $outfile eq "loncon-no-phone.txt" ) {
+  @data = @nonum;
+  print scalar @data . " venue" . ( scalar @data == 1 ? "" : "s" ) . " without a phone number.\n\n";
+} elsif ( $outfile eq "loncon-phone-no-hours.txt" ) {
+  @data = @nohours;
+  print scalar @data . " venue" . ( scalar @data == 1 ? "" : "s" ) . " with a phone number but no opening hours.\n\n";
+} else {
+  @data = @hashours;
+  print scalar @data . " venue" . ( scalar @data == 1 ? "" : "s" ) . " with phone number and opening hours.\n\n";
+}
+
+foreach my $venue ( @data ) {
   my $type = $venue->{type};
   if ( ref $type ) {
     $type = join ", ", @$type;
   }
   $type = ucfirst( $type );
-  print <<EOF;
-$venue->{name}, $venue->{address}.
-  $type.
-  $venue->{phone}
-EOF
+  print $venue->{name} . ", " . $venue->{address} . ".\n  $type.\n";
+  if ( $venue->{phone} ) {
+    print "  " . $venue->{phone} . "\n";
+  }
+  if ( $venue->{hours} ) {
+    print "  " . $venue->{hours} . "\n";
+  }
+  print "\n";
 }
