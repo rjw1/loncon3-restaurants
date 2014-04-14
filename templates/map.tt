@@ -5,6 +5,8 @@
 [% subtitle = 'map' %]
 [% INCLUDE header.tt %]
 
+<p>Note: inclusion on this map does not imply inclusion in the final guide.  This is just a shortlist.</p>
+
 <div id="map_canvas"></div>
 
 <div id="list">
