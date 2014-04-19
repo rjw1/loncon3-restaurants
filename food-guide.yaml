@@ -10,6 +10,7 @@ cuisine:
   - Indian
   - Italian
   - Spanish
+hours: "Mon-Sun: 7am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12256496106/
 links: http://hungryhouse.co.uk/gillani-s-restaurant-canning-town
 ---
@@ -34,6 +35,7 @@ type: restaurant
 cuisine:
   - Brazilian
   - Portuguese
+hours: "Mon-Sun: 9am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12256335144/
 links: http://www.theguardian.com/travel/2012/apr/18/top-10-budget-restaurants-excel-east-london
 ---
@@ -44,6 +46,7 @@ lat: 51.517835
 long: 0.012439147
 station: Canning Town
 type: restaurant
+hours: "Mon: closed; Tue-Sun: noon-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12256476926/
 links: http://www.zomato.com/london/kings-continental-cuisine-plaistow/menu#tabtop
 ---
@@ -57,6 +60,7 @@ station: Canning Town
 type: restaurant
 cuisine: Ukrainian
 licensed: yes
+hours: "Mon: closed; Tue-Sun: 3pm-1:30am"
 photo: http://www.flickr.com/photos/kake_pugh/12255891665/
 links: http://london.randomness.org.uk/wiki.cgi?Albina,_E13_8EQ
 ---
@@ -68,6 +72,7 @@ long: 0.017260820
 station: Canning Town
 type: grocery shop
 cuisine: Russian
+hours: "Mon-Sun: 11am-9pm"
 photo: http://www.flickr.com/photos/kake_pugh/12256317624/
 ---
 name: Nikki's Place
@@ -78,6 +83,7 @@ long: 0.018786594
 station: Canning Town
 type: restaurant
 cuisine: African
+hours: "Mon-Sun: noon-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/12256043303/
 ---
 name: Bronze
@@ -91,6 +97,7 @@ cuisine:
   - African
   - Caribbean
 photo: http://www.flickr.com/photos/kake_pugh/12256439696/
+summary: "From Petra's phone call: 'No fixed opening times, going through a change, call again'"
 ---
 name: Pie Crust Cafe
 address: 273 Stratford High Street, E15 2TF
@@ -102,6 +109,7 @@ type: restaurant
 cuisine:
   - British
   - Thai
+hours: "Mon-Sat: 11am-3pm (small menu and breakfast), 6pm-11pm (full menu); Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12265435416/
   - http://www.flickr.com/photos/kake_pugh/12265299514/
@@ -139,6 +147,7 @@ station: Stratford
 type: restaurant
 cuisine: Indian
 licensed: yes
+hours: "Mon-Thu: 11:30am-2:30pm, 5:30pm-11:30pm; Fri-Sat: 11:30am-2:30pm, 5:30pm-midnight; Sun: 11:30am-2:30pm, 5:30pm-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12267333816/
   - http://www.flickr.com/photos/kake_pugh/12267318456/
@@ -156,6 +165,7 @@ station:
   - Maryland
 type: grocery shop
 cuisine: Chinese
+hours: "Mon-Sun: 10am-9pm"
 photo: http://www.flickr.com/photos/kake_pugh/12267140824/
 summary: Small but well-stocked Chinese supermarket.
 access: Only a very small step to get in, manageable on wheels, but there isn't much space to manoeuvre inside and it would be very tricky to get a wheelchair or pram in.
@@ -171,6 +181,7 @@ station:
   - Maryland
 type: restaurant
 cuisine: Polish
+hours: "Mon-Sun: 10am-10pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12266693015/
   - http://www.flickr.com/photos/kake_pugh/12267835576/
@@ -194,8 +205,9 @@ long: 0.0019584149
 station: Stratford
 type: restaurant
 cuisine: Brazilian
+hours: "Possibly Mon-Wed: 9am-5:30pm; Thu-Fri: 9am-6:30pm; Sat: 9am-6pm"
 photo: http://www.flickr.com/photos/kake_pugh/12269368506/
-summary: Tiny Brazilian cafe in a shopping centre.  Pop in for a snack and a drink.
+summary: "Tiny Brazilian cafe in a shopping centre.  Pop in for a snack and a drink.  NB: Phone number not working."
 ---
 name: Yoe Bo
 address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
@@ -206,6 +218,7 @@ long: 0.00038167831
 station: Stratford
 type: restaurant
 cuisine: Chinese
+hours: "Mon-Thu: noon-10:30pm; Fri-Sat: noon-11pm; Sun: 11am-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/3737080596/
 summary: All-you-can-eat Chinese buffet restaurant.
 ---
@@ -255,6 +268,7 @@ type:
   - grocery shop
   - restaurant
 cuisine: Lithuanian
+hours: "Mon-Thu: 9am-9pm; Fri-Sat: 9am-10pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12440257875/
   - http://www.flickr.com/photos/kake_pugh/12440377823/
@@ -268,6 +282,7 @@ summary: Lithuanian supermarket, restaurant, and bookshop.
 access: Supermarket on ground floor. Restaurant up a flight of stairs with a sturdy handrail; no lift.
 ---
 name: Asian Mega Mart
+exclude: Seems to have closed down.
 address: Beckton Retail Park, Alpine Way, E6 6LA
 phone: 020 7476 0733
 lat: 51.517349
@@ -280,7 +295,7 @@ cuisine:
   - Pakistani
   - Sri Lankan
 photo: http://www.flickr.com/photos/kake_pugh/12440228835/
-summary: Huge South Asian supermarket.
+summary: "Huge South Asian supermarket.  Now closed.  NB: Phone number not working."
 links: http://www.theguardian.com/lifeandstyle/2011/sep/05/londons-asian-supermarkets
 ---
 name: Yi-Ban
@@ -292,6 +307,7 @@ long: 0.041821808
 station: Royal Albert
 type: restaurant
 cuisine: Chinese
+hours: "Mon: noon-10pm; Tue-Sat: noon-10:30, Sundays in August already fully booked"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12440348573/
   - http://www.flickr.com/photos/kake_pugh/4873560820/
@@ -307,6 +323,7 @@ long: 0.039488286
 station: Prince Regent
 type: pub
 cuisine: British
+hours: "Food served Mon-Thu: 6am-11pm; Fri-Sat: 6am-midnight; Sun: 6am-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12440200325/
   - http://www.flickr.com/photos/kake_pugh/12440661734/
@@ -318,6 +335,7 @@ summary: Real ale and an extensive pub food/bistro menu, including traditional B
 access: Step-free to bar, seating area, and RADAR-locked accessible toilet.
 ---
 name: Garden Community Cafe
+exclude: Not open during school holidays.
 address: 7 Cundy Road, Custom House, E16 3DJ
 phone: 020 7474 5257
 website: http://www.gardencommunitycafe.org/
@@ -348,6 +366,7 @@ lat: 51.510028
 long: 0.026779979
 station: Custom House
 type: pub
+hours: "Mon-Sun: 4pm-11pm, steakhouse 5:30pm-10pm. Open if the hotel is booked - as expected during convention."
 photo: http://www.flickr.com/photos/kake_pugh/12518133855/
 ---
 name: Golden Sands
@@ -358,6 +377,7 @@ long: 0.025969550
 station: Custom House
 type: takeaway
 cuisine: Chinese
+hours: "Mon-Sat: 4:30pm-11pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12518133033/
 ---
 name: Le Royal
@@ -370,6 +390,7 @@ type: takeaway
 cuisine: Indian
 takeaway: yes
 delivery: no
+hours: "Mon-Sun: 11am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12518482764/
 links: http://www.just-eat.co.uk/restaurants-leroyal-e16/menu
 ---
@@ -381,6 +402,7 @@ long: 0.025653049
 station: Custom House
 type: takeaway
 cuisine: fish and chips
+hours: "Possibly Mon-Sun: 11:30am-7:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12518475004/
 ---
 name: ExCEL Cafe and Restaurant / Freemasons Cafe
@@ -395,7 +417,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12518469424/
   - http://www.flickr.com/photos/kake_pugh/12518469424/
   - http://www.flickr.com/photos/kake_pugh/12518436284/
-summary: Traditional British cafe serving fried breakfasts, sandwiches, jacket potatoes, grills, omelettes, and roast lunches.
+summary: "Traditional British cafe serving fried breakfasts, sandwiches, jacket potatoes, grills, omelettes, and roast lunches.  NB: Phone number not working."
 ---
 name: Nisa Local
 address: 53 Freemasons Road, Custom House, E16 3PJ
@@ -406,6 +428,7 @@ lat: 51.511699
 long: 0.025065646
 station: Custom House
 type: grocery shop
+hours: "Mon-Sat: 8:30am-6pm, Sun: 9am-1pm"
 photo: http://www.flickr.com/photos/kake_pugh/12518105803/
 ---
 name: Customs Bakery and Sandwich Bar
@@ -417,8 +440,9 @@ station: Custom House
 type:
   - takeaway
   - grocery shop
+hours: "Possibly Mon-Fri: 7am-4:30pm; Sat: 7am-2:30pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12518105803/
-summary: Fresh bread, cakes, sandwiches, and hot savoury pastries.
+summary: "Fresh bread, cakes, sandwiches, and hot savoury pastries.  NB: Phone number possibly wrong (no answer on several occasions)."
 ---
 name: La Barrique
 address: Unit R5, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
@@ -430,6 +454,7 @@ station: Custom House
 type: restaurant
 cuisine: Italian
 licensed: yes
+hours: "Mon-Thu: 7am-10pm; Fri-Sun: 7am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560527075/
   - http://www.flickr.com/photos/kake_pugh/12560527075/
@@ -446,6 +471,7 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
+hours: "Mon-Sun: noon-11pm (also possibility of opening for breakfast)"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560978644/
   - http://www.flickr.com/photos/kake_pugh/12560602033/
@@ -461,6 +487,7 @@ station: Custom House
 type: restaurant
 cuisine: Italian
 licensed: yes
+hours: "Mon-Sun: noon-3pm, 6pm-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560577363/
   - http://www.flickr.com/photos/kake_pugh/12560577363/
@@ -475,6 +502,7 @@ station: Custom House
 type: restaurant
 cuisine: Indian
 licensed: yes
+hours: "Mon-Sun: 11am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12560916804/
   - http://www.flickr.com/photos/kake_pugh/12560423855/
@@ -490,6 +518,7 @@ station: Custom House
 type: restaurant
 cuisine: Chinese
 licensed: yes
+hours: "Mon-Thu: noon-11pm; Fri-Sat: noon-11:30pm; Sun: 11am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12560423855/
 summary: Large Chinese restaurant right next to ExCeL, serving dim sum in the day and a long menu of Cantonese food in the evening.
 ---
@@ -504,6 +533,7 @@ type: restaurant
 cuisine: Indian
 licensed: yes
 takeaway: yes
+hours: "Mon-Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12569004245/
   - http://www.flickr.com/photos/kake_pugh/12569446804/
@@ -544,6 +574,7 @@ station:
   - Custom House
   - Royal Victoria
 type: grocery shop
+hours: "Mon-Sun: 7am-1am"
 photo: http://www.flickr.com/photos/kake_pugh/12596839875/
 ---
 name: Royal Docks Pizza
@@ -572,6 +603,7 @@ type: restaurant
 cuisine: Lebanese
 takeaway: yes
 delivery: yes
+hours: "Mon-Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12597205544/
   - http://www.flickr.com/photos/kake_pugh/12596916173/
@@ -584,9 +616,11 @@ lat: 51.507828
 long: 0.020669907
 station: Royal Victoria
 type: restaurant
+hours: "Possibly 8am-5pm, not sure which days"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12596862213/
   - http://www.flickr.com/photos/kake_pugh/12596739635/
+summary: "NB: Phone number not working."
 ---
 name: Caribbean Scene
 address: Unit G7, ExCeL Marina, 17 Western Gateway, E16 1AQ
@@ -598,11 +632,13 @@ long: 0.020828158
 station: Royal Victoria
 type: restaurant
 cuisine: Caribbean
+hours: "Possibly Mon-Thu: noon-10:30pm; Fri-Sat: noon-11pm; Sun: noon-9pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12596692555/
   - http://www.flickr.com/photos/kake_pugh/12596832143/
   - http://www.flickr.com/photos/kake_pugh/12596709245/
   - http://www.flickr.com/photos/kake_pugh/12560653783/
+summary: "NB: Phone number not working."
 ---
 name: Docklands Bar And Grill
 address: Victoria Dock Road, Western Gateway, Royal Victoria Dock, E16 1AL
@@ -616,6 +652,7 @@ type:
   - pub
 cuisine: British
 licensed: yes
+hours: "Bar open Mon-Sun: 11am-11pm. Food served Mon-Fri: 6am-10:30am, noon-3pm, 6pm-10:30pm; Sat-Sun: 7am-10:30am, noon-3pm, 6pm-10:30pm."
 photo: http://www.flickr.com/photos/kake_pugh/12596786053/
 summary: Part of the Crowne Plaza hotel.
 ---
@@ -642,6 +679,7 @@ long: 0.018832594
 station: Royal Victoria
 type: restaurant
 cuisine: Italian
+hours: "Mon-Fri: 7am-7pm; Sat: 8am-6pm; Sun: 9am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12597062074/
   - http://www.flickr.com/photos/kake_pugh/12596752443/
@@ -687,6 +725,7 @@ station: Royal Victoria
 type: restaurant
 cuisine: Thai
 licensed: yes
+hours: "Mon-Fri: noon-3pm, 6pm-11:30pm; Sat: 1pm-11:30pm; Sun: 1pm-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/12596517845/
 ---
 name: Ayanna's
@@ -740,6 +779,7 @@ type: pub
 cuisine: British
 licensed: yes
 byob: no
+hours: "Food served Mon-Sat: noon-3pm, 5pm-8pm; Sun: noon-4pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12636861475/
   - http://www.flickr.com/photos/kake_pugh/12637047243/
@@ -823,6 +863,7 @@ station:
 type: restaurant
 cuisine: Lebanese
 licensed: yes
+hours: "Mon-Sun: noon-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660391605/
   - http://www.flickr.com/photos/kake_pugh/12660391605/
@@ -845,6 +886,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12660473733/
   - http://www.flickr.com/photos/kake_pugh/12660460543/
   - http://www.flickr.com/photos/kake_pugh/12660448273/
+summary: "NB: Phone number may be wrong (no answer on four occasions)."
 ---
 name: Lemongrass Kitchen
 address: Unit 5, South Quay Plaza, 185 Marsh Wall, Isle of Dogs, E14 9SH
@@ -890,6 +932,7 @@ station: South Quay
 type: restaurant
 cuisine: Turkish
 licensed: yes
+hours: "Mon-Sat: noon-11:30pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12660692154/
   - http://www.flickr.com/photos/kake_pugh/12660367203/
@@ -924,6 +967,7 @@ station: Canary Wharf
 type: pub
 cuisine: British
 licensed: yes
+hours: "Mon-Fri: 8am-midnight; Sat-Sun: 10am-midnight.  Food served Mon-Fri: 8am-10pm; Sat-Sun: 10am-10pm."
 photo: http://www.flickr.com/photos/kake_pugh/12752112063/
 summary: Chain pub serving food all day including breakfast.  No under-18s after 5pm.
 ---
@@ -1168,6 +1212,7 @@ type: restaurant
 cuisine: British
 licensed: yes
 bookings: yes
+hours: "Mon-Fri: 8am-11:30am, 11:45am-2:45pm, 5:30pm-10:30pm; Sat-Sun: 10am-noon, 12:15pm-5pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12819083595/
   - http://www.flickr.com/photos/kake_pugh/12837792974/
@@ -1186,6 +1231,7 @@ type: restaurant
 cuisine: Chinese
 licensed: yes
 bookings: yes
+hours: "Mon-Thu: noon-10:30pm; Fri-Sat: noon-11pm; Sun: 11am-9:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12832502835/in/photostream
 summary: Cantonese food including dim sum.  Part of a small chain.
 ---
@@ -1211,6 +1257,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12832914344/in/photostream
 summary: Argentine restaurant specialising in steak.  Part of a small chain.
 ---
 name: Camino
+exclude: Closed down in April 2014.
 address: 28 Westferry Circus, Canary Wharf, E14 8RR
 website: http://www.camino.uk.com/
 twitter: CaminoLondon
@@ -1242,6 +1289,7 @@ cuisine: French
 licensed: yes
 bookings: yes
 takeaway: yes
+hours: "Mon-Sat: noon-3pm, 6pm-11pm; Sat-Sun: noon-11pm (NB: we have Saturday twice here)"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12832535933/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12832527593/in/photostream
@@ -1297,6 +1345,7 @@ type: restaurant
 cuisine: Italian
 licensed: yes
 bookings: yes
+hours: "Mon-Fri: noon-3pm, 6pm-11pm; Sat-Sun: 1pm-20:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12832376475/in/photostream
 ---
 name: Veranda
@@ -1310,6 +1359,7 @@ type: restaurant
 cuisine: Indian
 takeaway: yes
 delivery: yes
+hours: "Mon-Thu: 5:30pm-10:30pm; Fri-Sat: 4pm-11:30pm; Sun: 2:30pm-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12833758804/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12833394663/in/photostream
@@ -1327,6 +1377,7 @@ station: Limehouse
 type: restaurant
 cuisine: Italian
 licensed: yes
+hours: "Mon-Sun: 8am-10pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12833242943/in/photostream
   - http://www.flickr.com/photos/kake_pugh/12833277285/in/photostream
@@ -1367,6 +1418,7 @@ station:
 type: restaurant
 cuisine: Middle Eastern
 takeaway: yes
+hours: "Mon-Fri: 8am-8pm, Sat-Sun: 11am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12836634524/
   - http://www.flickr.com/photos/kake_pugh/12836264283/
@@ -1388,7 +1440,7 @@ photo:
   - http://www.flickr.com/photos/kake_pugh/12836158395/
   - http://www.flickr.com/photos/kake_pugh/12836158395/
   - http://www.flickr.com/photos/kake_pugh/12836123475/
-summary: "Traditional British pub serving food at lunchtimes: sandwiches, jacket potatoes, sausage/burger/egg/ham with chips, omelettes."
+summary: "Traditional British pub serving food at lunchtimes: sandwiches, jacket potatoes, sausage/burger/egg/ham with chips, omelettes.  NB: Likely to be closed by August, check again."
 access: A step to get in, but it's all level once you're in.
 ---
 name: Lime
@@ -1450,8 +1502,9 @@ long: -0.026274115
 station: Canary Wharf
 type: takeaway
 takeaway: yes
+hours: "Possibly Mon-Fri: 6am-4pm"
 photo: http://www.flickr.com/photos/kake_pugh/12837780504/
-summary: Cheap sandwich shop.
+summary: "Cheap sandwich shop.  NB: Phone number not working."
 ---
 name: Quadrato
 address: Four Seasons Hotel, 46 Westferry Circus, Canary Wharf, E14 8RS
@@ -1483,8 +1536,9 @@ station:
 type: restaurant
 cuisine: British
 licensed: no
+hours: "Possibly Mon-Fri: 7am-2:30pm; Sat-Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12838590004/
-summary: Traditional British “greasy spoon” cafe — possibly the only one of its kind on the Isle of Dogs.
+summary: "Traditional British “greasy spoon” cafe — possibly the only one of its kind on the Isle of Dogs.  NB: Phone number possibly wrong (no answer on several occasions)."
 ---
 name: The Ledger Building
 address: 4 Hertsmere Road, West India Quay, E14 4AL
@@ -1574,6 +1628,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12838101433/
 summary: Halal shisha cafe with a large covered outdoor seating area.  BYOB allowed only with advance reservations.  Minimum spend of £10/head.
 ---
 name: Levante
+exclude: Closing down soon.
 address: 14 Hertsmere Road, West India Quay, E14 4AF
 website: http://www.levantebar.com/
 phone: 020 3069 8981
@@ -1601,6 +1656,7 @@ type: restaurant
 cuisine: British
 licensed: yes
 bookings: yes
+hours: "Food served Mon-Sat: 11am-10pm (bar open until 11pm); Sun: 11am-9pm (bar open until 10pm)"
 photo: http://www.flickr.com/photos/kake_pugh/12838419324/
 summary: Part of a small chain.
 ---
@@ -1615,6 +1671,7 @@ station: West India Quay
 type: restaurant
 cuisine: British
 licensed: yes
+hours: "Mon-Wed: noon-midnight; Thu-Fri: noon-1am; Sat: 10am-midnight, Sun: noon-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12860026643/
   - http://www.flickr.com/photos/kake_pugh/12859939235/
@@ -1637,6 +1694,7 @@ type: restaurant
 cuisine: British
 licensed: yes
 bookings: yes
+hours: "Mon-Thu: 8am-11pm; Fri-Sat: 8am-midnight; Sun: 9-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12860281164/
   - http://www.flickr.com/photos/kake_pugh/12859924083/
@@ -1656,6 +1714,7 @@ type: restaurant
 cuisine: steak
 licensed: yes
 bookings: yes
+hours: "Mon-Sat: 5pm-10:30pm; Sun: 5pm-10pm"
 photo: http://www.flickr.com/photos/kake_pugh/12860251594/
 ---
 name: Dockmaster's House
@@ -1763,6 +1822,7 @@ cuisine: Indian
 licensed: yes
 bookings: yes
 takeaway: yes
+hours: "Mon-Sun: noon-2:30pm, 5:30pm-11:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988521404/
   - http://www.flickr.com/photos/kake_pugh/12988240363/
@@ -1776,6 +1836,7 @@ long: -0.028183848
 station: Westferry
 type: restaurant
 cuisine: British
+hours: "Mon-Sat: 6:30am-4pm; Sun: 7am-2pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988223083/
   - http://www.flickr.com/photos/kake_pugh/12988202203/
@@ -1810,6 +1871,7 @@ type: takeaway
 cuisine: Italian
 takeaway: yes
 delivery: yes
+hours: "Mon-Thu: 11am-1:30pm; Fri-Sun: 11am-2am"
 photo: http://www.flickr.com/photos/kake_pugh/12988046195/
 summary: Takeaway pizzas from a wood-fired oven. Pasta dishes too.
 ---
@@ -1824,6 +1886,7 @@ station:
   - Westferry
 type: restaurant
 cuisine: Indian
+hours: "Mon-Sun: 5:30pm-11:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12988434904/
 ---
 name: Sapore Italiano
@@ -1840,9 +1903,11 @@ type: takeaway
 cuisine: Italian
 takeaway: yes
 delivery: yes
+hours: "Possibly Mon-Fri: 11am-11pm; Sat: 1pm-11pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12988406924/
   - http://www.flickr.com/photos/kake_pugh/12988143653/
+summary: "NB: Phone number not working."
 ---
 name: Departure
 address: 649-651 Commercial Road, Limehouse, E14 7LW
@@ -1873,10 +1938,11 @@ station: Shadwell
 type: restaurant
 cuisine: British
 takeaway: yes
+hours: "Possibly Mon-Sun: 11am-10pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12987957285/
   - http://www.flickr.com/photos/kake_pugh/13028569874/
-summary: Small restaurant very close to Shadwell Station. All halal.
+summary: "Small restaurant very close to Shadwell Station. All halal. NB: Phone number possibly wrong (no answer on four occasions)."
 access: A step to get in.
 ---
 name: Dar Marrakech
@@ -1893,6 +1959,7 @@ cuisine:
   - Moroccan
   - Lebanese
 bookings: yes
+hours: "Mon-Sun: 11:30am-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992256233/
   - http://www.flickr.com/photos/kake_pugh/12992487844/
@@ -1910,6 +1977,7 @@ type: takeaway
 cuisine: Caribbean
 takeaway: yes
 delivery: yes
+hours: "Mon-Thu: noon-9pm; Fri-Sat: noon-11pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992120205/
   - http://www.flickr.com/photos/kake_pugh/12992426624/
@@ -1926,7 +1994,9 @@ station: Stratford
 type: pub
 cuisine: British
 licensed: yes
+hours: "Possibly Mon-Sat: 11am-11pm; Sun: noon-10:30pm"
 photo: http://www.flickr.com/photos/kake_pugh/12992394424/
+summary: "NB: Phone number possibly wrong (no answer on several occasions)."
 ---
 name: Stratford Best Cafe/Best Kebab House
 address: 21-23 Broadway, Stratford, E15 4BQ
@@ -1998,12 +2068,14 @@ station: Stratford
 type: pub
 cuisine: British
 licensed: yes
+hours: "Possibly Mon-Sat: 11am-11pm; Sun: noon-10:30pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/12992296714/
   - http://www.flickr.com/photos/kake_pugh/12991893385/
 links:
   - http://www.fancyapint.com/pub/1403
   - http://www.yelp.co.uk/biz/queens-head-london-8
+summary: "NB: Phone number not working."
 ---
 name: Princess Of Wales
 address: 25 West Ham Lane, Stratford, E15 4PH
@@ -2034,6 +2106,7 @@ type: restaurant
 cuisine: Indian
 licensed: yes
 photo: http://www.flickr.com/photos/kake_pugh/6865139978/
+summary: "NB: Phone number is wrong."
 ---
 name: Sawmill
 address: 51 West Ham Lane, Stratford, E15 4PH
@@ -2072,6 +2145,7 @@ lat: 51.539207
 long: 0.0044045895
 station: Stratford
 type: restaurant
+hours: "Mon-Fri: 8am-5pm; Sat: 9am-5pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/12992762645/
 ---
 name: Tiffin Grill
@@ -2084,6 +2158,7 @@ type: takeaway
 cuisine: Indian
 takeaway: yes
 delivery: yes
+hours: "Mon-Sun: noon-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13005636364/
 links: http://www.just-eat.co.uk/restaurants-tiffingrill-e15/menu
 ---
@@ -2136,7 +2211,7 @@ station:
   - Stratford
 type: restaurant
 photo: http://www.flickr.com/photos/kake_pugh/13005323453/
-summary: Coffee and pastry shop opposite Maryland Station.
+summary: "Coffee and pastry shop opposite Maryland Station.  NB: Phone number not working."
 ---
 name: Tasty
 address: 51a Leytonstone Road, Stratford, E15 1JA
@@ -2185,6 +2260,7 @@ station:
 type: restaurant
 cuisine: Caribbean
 takeaway: yes
+hours: "Mon-Sun: 10am-11pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13006607965/
   - http://www.flickr.com/photos/kake_pugh/13006754043/
@@ -2206,6 +2282,7 @@ type:
 cuisine:
   - British
   - Indian
+hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13006729443/
 summary: Halal hookah cafe with food and mocktails. Possibly alcohol-free?
 ---
@@ -2219,6 +2296,7 @@ station: Stratford
 type: pub
 cuisine: British
 licensed: yes
+hours: "Mon-Sat: noon-11pm; Sun: noon-10:30pm.  Food served Mon-Fri: noon-3pm, 6pm-10pm; Sat-Sun: 1pm-10pm."
 photo: http://www.flickr.com/photos/kake_pugh/13006719293/
 summary: Traditional British pub food. Breakfast too though possibly only for guests in the hotel upstairs?
 ---
@@ -2248,6 +2326,7 @@ type: restaurant
 cuisine:
   - British
   - Indian
+hours: "Mon-Fri: 8am-8pm; Sat-Sun: 9am-6pm"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13028578214/
   - http://www.flickr.com/photos/kake_pugh/13028331283/
@@ -2268,6 +2347,7 @@ long: -0.039441481
 station: Limehouse
 type: restaurant
 cuisine: British
+hours: "Mon-Sat: 7am-4:30pm; Sun: closed"
 photo: http://www.flickr.com/photos/kake_pugh/13028102025/
 summary: Traditional British “greasy spoon” cafe just across the road from Limehouse Station.
 ---
@@ -2284,18 +2364,20 @@ licensed: yes
 bookings: yes
 takeaway: yes
 delivery: yes
+hours: "Mon-Sun: 11:30am-2:30pm, 5:30pm-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13028081735/
 summary: British curryhouse staples with a couple of more unusual dishes.
 ---
-name: New Thai Garden
+name: Shan Shui Jian
 address: 562 Commercial Road, Limehouse, E14 7JD
 phone: 020 7790 3427
 lat: 51.512677
 long: -0.040702119
 station: Limehouse
 type: restaurant
-cuisine: Thai
-photo: http://www.flickr.com/photos/kake_pugh/13028072055/
+cuisine: Chinese
+hours: "Mon-Sun: 11am-11pm"
+summary: Previously New Thai Garden (http://www.flickr.com/photos/kake_pugh/13028072055/)
 ---
 name: Limehouse Fried Chicken And Spice
 address: 540 Commercial Road, Shadwell, E1 0HY
@@ -2307,6 +2389,7 @@ type: restaurant
 cuisine: Indian
 takeaway: yes
 delivery: yes
+hours: "Mon-Sun: 11am-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13028062855/
 summary: Cafe/takeaway with a small eat-in space. Curries, kebabs, and fried chicken. The menu goes beyond the usual British curryhouse favourites.
 ---
@@ -2320,6 +2403,7 @@ type: takeaway
 cuisine: Chinese
 takeaway: yes
 delivery: yes
+hours: "Mon-Sun: 5pm-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13030810795/
 summary: Fairly standard Anglicised Chinese food.
 ---
@@ -2404,6 +2488,7 @@ long: -0.043454066
 station: Limehouse
 type: takeaway
 takeaway: yes
+hours: "Mon-Sun: 10am-1 or 2 (closing time changes, call again)"
 photo: http://www.flickr.com/photos/kake_pugh/13030732535/
 ---
 name: Chung's
@@ -2429,6 +2514,7 @@ lat: 51.513797
 long: -0.043724567
 station: Limehouse
 type: grocery shop
+hours: "Mon-Fri: 9am-9pm; Sat: 9:30am-9pm; Sun: 10am-9pm"
 photo: http://www.flickr.com/photos/kake_pugh/13055600004/
 summary: Asian groceries and fresh vegetables.
 ---
@@ -2444,6 +2530,7 @@ type: takeaway
 cuisine: Chinese
 takeaway: yes
 delivery: yes
+hours: "Mon-Sun: 5pm-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13055225995/
 summary: Fairly standard Anglicised Chinese food. Halal.
 ---
@@ -2472,6 +2559,7 @@ type: restaurant
 cuisine: Indian
 licensed: no
 takeaway: yes
+hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13055328153/
 summary: Small halal cafe and takeaway serving fried chicken, kebabs, and biryani.
 ---
@@ -2484,6 +2572,7 @@ station: Shadwell
 type: restaurant
 takeaway: yes
 cuisine: Turkish
+hours: "Mon-Sun: 2pm-11pm"
 photo: http://www.flickr.com/photos/kake_pugh/13055187205/
 ---
 name: Efes
@@ -2546,6 +2635,7 @@ long: -0.062551394
 station: Whitechapel
 type: restaurant
 cuisine: Punjabi
+hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13057186703/
 summary: Curries and grilled meats with daily specials including haleem and nihari.
 ---
@@ -2564,6 +2654,7 @@ licensed: no
 byob: yes
 bookings: yes
 takeaway: yes
+hours: "Mon-Sun: 11am-midnight"
 photo:
   - http://www.flickr.com/photos/kake_pugh/13057047455/
   - http://www.flickr.com/photos/kake_pugh/13057040345/
@@ -2613,6 +2704,7 @@ station:
   - Whitechapel
 type: restaurant
 cuisine: Punjabi
+hours: "Mon-Sun: noon-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13056970345/
 summary: Curries and grilled meats. Very large but also very popular — expect queues.
 ---
@@ -2808,6 +2900,7 @@ cuisine: Indian
 licensed: yes
 takeaway: yes
 delivery: yes
+hours: "Mon-Fri: noon-2pm, 5:30pm-midnight; Sat-Sun: 5:30-midnight"
 photo: http://www.flickr.com/photos/kake_pugh/13064073993/
 ---
 name: Brown Bear
@@ -2821,6 +2914,7 @@ station:
   - Tower Gateway
 type: pub
 licensed: yes
+hours: "Open Mon-Thu: 11am-11:30pm; Fri-Sat: 11am-midnight; Sun: 11am-10:30pm. Food served Mon-Fri: 11am-9pm."
 photo: http://www.flickr.com/photos/kake_pugh/13063937675/
 ---
 name: The Empress
@@ -4143,7 +4237,7 @@ station:
 type: restaurant
 cuisine: British
 takeaway: yes
-hours: "Mon: 11am-2pm; Tue-Thur: 10.30am-2pm; Fri: 10am-2.30pm; Sat: 10am-2.45pm; Sun: closed"
+hours: "Mon: 11am-2pm; Tue-Thu: 10.30am-2pm; Fri: 10am-2.30pm; Sat: 10am-2.45pm; Sun: closed"
 photo:
   - http://www.flickr.com/photos/kake_pugh/2446494236/
   - http://www.flickr.com/photos/kake_pugh/2446404662/
