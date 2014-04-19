@@ -22,9 +22,13 @@ if ( $laptop ) {
 
 my @venues = LoadFile( $filename );
 @venues = sort { $a->{name} cmp $b->{name} } @venues;
+my $total = scalar @venues;
 
-print "Found " . ( scalar @venues ) . " venue" . ( scalar @venues == 1 ? "" : "s" ) . ".\n";
+@venues = grep { !$_->{exclude} } @venues;
+my $todo = scalar @venues;
+my $exclude = $total - $todo;
 
+print "Found $total venue" . ( $total == 1 ? "" : "s" ) . ", $exclude to exclude, $todo to process.\n";
 
 my ( $min_lat, $max_lat, $centre_lat, $min_long, $max_long, $centre_long );
 $min_lat = $max_lat = $venues[0]{lat};
