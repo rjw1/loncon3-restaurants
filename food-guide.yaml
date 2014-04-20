@@ -1,5 +1,6 @@
 name: Gillani's Restaurant
 address: 59-61 Barking Road, Canning Town, E16 4HB
+area: Canning Town
 phone: 020 7511 9017
 lat: 51.516247
 long: 0.0088360011
@@ -16,6 +17,7 @@ links: http://hungryhouse.co.uk/gillani-s-restaurant-canning-town
 ---
 name: Alenka
 address: 63 Barking Road, Canning Town, E16 4HB
+area: Canning Town
 lat: 51.516282
 long: 0.0089111030
 station: Canning Town
@@ -27,6 +29,7 @@ links: http://magazineromanesti.co.uk/est/alenka/
 ---
 name: Torto
 address: 137 Barking Road, Canning Town, E16 4HQ
+area: Canning Town
 phone: 020 7474 2233
 lat: 51.517683
 long: 0.012099847
@@ -41,6 +44,7 @@ links: http://www.theguardian.com/travel/2012/apr/18/top-10-budget-restaurants-e
 ---
 name: Kings Continental Cuisine
 address: 147 Barking Road, Canning Town, E16 4HQ
+area: Canning Town
 phone: 020 3556 2751
 lat: 51.517835
 long: 0.012439147
@@ -52,6 +56,7 @@ links: http://www.zomato.com/london/kings-continental-cuisine-plaistow/menu#tabt
 ---
 name: Albina
 address: 239 Barking Road, Canning Town, E13 8EQ
+area: Canning Town
 website: http://www.albinaltd.co.uk/
 phone: 020 7474 0244
 lat: 51.519779
@@ -66,6 +71,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Albina,_E13_8EQ
 ---
 name: Albena Russian Delicatessen
 address: 253 Barking Road, Canning Town, E13 8EQ
+area: Canning Town
 phone: 020 7474 4141
 lat: 51.519969
 long: 0.017260820
@@ -77,6 +83,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12256317624/
 ---
 name: Nikki's Place
 address: 282 Barking Road, Canning Town, E13 8HR
+area: Canning Town
 phone: 020 7511 2943
 lat: 51.520362
 long: 0.018786594
@@ -88,6 +95,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12256043303/
 ---
 name: Bronze
 address: 291-293 Barking Road, Canning Town, E13 8EQ
+area: Canning Town
 phone: 020 7511 4252
 lat: 51.520822
 long: 0.019162104
@@ -101,6 +109,7 @@ summary: "From Petra's phone call: 'No fixed opening times, going through a chan
 ---
 name: Pie Crust Cafe
 address: 273 Stratford High Street, E15 2TF
+area: Stratford
 phone: 020 8534 2873
 lat: 51.536318
 long: -0.0038566142
@@ -118,6 +127,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2405494-Reviews-P
 ---
 name: King Edward VII
 address: 47 Broadway, Stratford, E15 4BQ
+area: Stratford
 website: http://kingeddie.co.uk/
 phone: 020 8534 2313
 lat: 51.541144
@@ -140,6 +150,7 @@ links: http://london.randomness.org.uk/wiki.cgi?King_Edward_VII,_E15_4BQ
 ---
 name: Indisca
 address: 150 The Grove, Stratford, E15 1NS
+area: Stratford
 phone: 020 8534 7770
 lat: 51.543863
 long: 0.0041068643
@@ -157,6 +168,7 @@ photo:
 ---
 name: Hua Run
 address: 125 The Grove, Stratford, E15 1EN
+area: Stratford
 phone: 020 8221 0498
 lat: 51.545344
 long: 0.0046889037
@@ -172,6 +184,7 @@ access: Only a very small step to get in, manageable on wheels, but there isn't 
 ---
 name: Londek
 address: 198 The Grove, Stratford, E15 1NS
+area: Stratford
 phone: 020 8270 0063
 website: http://londekrestaurant.co.uk/
 lat: 51.545343
@@ -189,6 +202,7 @@ photo:
 ---
 name: Zirnis
 address: 168 The Grove, Stratford, E15 1NS
+area: Stratford
 lat: 51.544423
 long: 0.0043536275
 station:
@@ -198,7 +212,8 @@ type: grocery shop
 photo: http://www.flickr.com/photos/kake_pugh/12267439603/
 ---
 name: Brazil Express
-address: Unit 10, Market Village
+address: Unit 10, Market Village, Stratford
+area: Stratford
 phone: 020 8221 2524
 lat: 51.541643
 long: 0.0019584149
@@ -211,6 +226,7 @@ summary: "Tiny Brazilian cafe in a shopping centre.  Pop in for a snack and a dr
 ---
 name: Yoe Bo
 address: Unit 1, Gerry Raffles Square, Stratford, E15 1BG
+area: Stratford
 phone: 020 8519 2020
 website: http://www.yoebo.co.uk/
 lat: 51.542582
@@ -224,6 +240,7 @@ summary: All-you-can-eat Chinese buffet restaurant.
 ---
 name: Theatre Royal Bar
 address: Theatre Royal, Gerry Raffles Square, Stratford, E15 1BN
+area: Stratford
 website: http://stratfordeast.com/theatre-royal-bar
 phone: 020 8279 1161
 lat: 51.542545
@@ -241,6 +258,7 @@ photo:
 ---
 name: Stratford Circus Cafe (Northern Imagination?)
 address: Stratford Circus, Theatre Square, Stratford, E15 1BX
+area: Stratford
 website: https://www.stratford-circus.com/
 phone: 020 8279 1022
 lat: 51.542835
@@ -259,6 +277,7 @@ summary: Soup, sandwiches, serious coffee, and craft beer from local breweries.
 ---
 name: Lituanica
 address: Unit 4, Beckton Retail Park, Alpine Way, E6 6LA
+area: DLR
 website: http://www.lituanica.co.uk/
 phone: 020 7473 2619 
 lat: 51.516391
@@ -284,6 +303,7 @@ access: Supermarket on ground floor. Restaurant up a flight of stairs with a stu
 name: Asian Mega Mart
 exclude: Seems to have closed down.
 address: Beckton Retail Park, Alpine Way, E6 6LA
+area: DLR
 phone: 020 7476 0733
 lat: 51.517349
 long: 0.061965197
@@ -300,6 +320,7 @@ links: http://www.theguardian.com/lifeandstyle/2011/sep/05/londons-asian-superma
 ---
 name: Yi-Ban
 address: London Regatta Centre, Dockside Road, Royal Docks, E16 2QT
+area: ExCeL
 phone: 020 7473 6699
 website: http://www.yi-ban.com/
 lat: 51.507704
@@ -316,6 +337,7 @@ access: Step-free to the building from Royal Albert DLR (via a lift at the DLR s
 ---
 name: Fox Connaught
 address: Lynx Way, Royal Docks, E16 1JR
+area: ExCeL
 phone: 020 7476 6777
 website: http://www.foxbars.com/
 lat: 51.508692
@@ -337,6 +359,7 @@ access: Step-free to bar, seating area, and RADAR-locked accessible toilet.
 name: Garden Community Cafe
 exclude: Not open during school holidays.
 address: 7 Cundy Road, Custom House, E16 3DJ
+area: ExCeL
 phone: 020 7474 5257
 website: http://www.gardencommunitycafe.org/
 lat: 51.510543
@@ -360,6 +383,7 @@ access: A step to get in, a little cluttered inside. Accessible toilet.
 ---
 name: Custom House Pub and Kitchen
 address: Custom House Hotel, 272-283 Victoria Dock Road, Custom House, E16 3BY
+area: ExCeL
 phone: 020 7474 0011
 website: http://www.customhouse-hotel.co.uk/
 lat: 51.510028
@@ -371,6 +395,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12518133855/
 ---
 name: Golden Sands
 address: 1 Freemasons Road, Custom House, E16 3AR
+area: ExCeL
 phone: 020 7476 7704
 lat: 51.510315
 long: 0.025969550
@@ -382,6 +407,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12518133033/
 ---
 name: Le Royal
 address: 13 Freemasons Road, Custom House, E16 3AR
+area: ExCeL
 phone: 020 7474 9694
 lat: 51.510646
 long: 0.025760338
@@ -396,6 +422,7 @@ links: http://www.just-eat.co.uk/restaurants-leroyal-e16/menu
 ---
 name: Pacific Fish Bar
 address: 17-19 Freemasons Road, Custom House, E16 3AR
+area: ExCeL
 phone: 020 7476 6903
 lat: 51.510839
 long: 0.025653049
@@ -407,6 +434,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12518475004/
 ---
 name: ExCEL Cafe and Restaurant / Freemasons Cafe
 address: 27 Freemasons Road, Custom House, E16 3AR
+area: ExCeL
 phone: 020 7473 7978
 lat: 51.511004
 long: 0.025588676
@@ -421,6 +449,7 @@ summary: "Traditional British cafe serving fried breakfasts, sandwiches, jacket 
 ---
 name: Nisa Local
 address: 53 Freemasons Road, Custom House, E16 3PJ
+area: ExCeL
 phone: 020 7474 2349
 website: http://www.nisalocally.co.uk/
 twitter: NisaLocally
@@ -433,6 +462,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12518105803/
 ---
 name: Customs Bakery and Sandwich Bar
 address: 49 Freemasons Road, Custom House, E16 3PJ
+area: ExCeL
 phone: 020 7511 6614
 lat: 51.511580
 long: 0.024951652
@@ -446,6 +476,7 @@ summary: "Fresh bread, cakes, sandwiches, and hot savoury pastries.  NB: Phone n
 ---
 name: La Barrique
 address: Unit R5, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
+area: ExCeL
 website: http://www.labarrique.co.uk/
 phone: 020 7474 8042
 lat: 51.508886
@@ -462,6 +493,7 @@ summary: Pizza, sandwiches, sharing platters, wine, and coffee.
 ---
 name: Fox ExCeL
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
+area: ExCeL
 website: http://www.foxbars.com/
 phone: 020 7473 2288
 lat: 51.508729
@@ -479,6 +511,7 @@ photo:
 ---
 name: 07 Zero Sette
 address: Unit R3, Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
+area: ExCeL
 website: http://www.zerosette.co.uk/
 phone: 020 7476 6564
 lat: 51.508722
@@ -494,6 +527,7 @@ photo:
 ---
 name: Bollywood Grill
 address: Warehouse K, 2 Western Gateway, Royal Victoria Dock, E16 1DR
+area: ExCeL
 website: http://www.bollywoodbrasserie.co.uk/
 phone: 020 7473 5004
 lat: 51.508719
@@ -510,6 +544,7 @@ summary: Try the gol gappa for an interesting snack not found on all Indian menu
 ---
 name: China Palace
 address: Unit R1 Warehouse, 2 Western Gateway, Royal Victoria Dock, E16 1DR
+area: ExCeL
 website: http://www.chinapalaceexcel.com/
 phone: 020 7474 0808
 lat: 51.508709
@@ -524,6 +559,7 @@ summary: Large Chinese restaurant right next to ExCeL, serving dim sum in the da
 ---
 name: Elite Dining
 address: 3 Western Gateway, Royal Victoria Dock, E16 1BD
+area: ExCeL
 website: http://www.elite-dining.co.uk/
 phone: 020 7476 2852
 lat: 51.508372
@@ -543,6 +579,7 @@ summary: 700-seater Indian restaurant in a converted warehouse, just opposite th
 ---
 name: Airline Cafe and Diner
 address: 14 Western Gateway, Royal Victoria Dock, E16 1FD
+area: ExCeL
 phone: 020 7474 4522
 lat: 51.508222
 long: 0.022182673
@@ -565,6 +602,7 @@ summary: Burgers, traditional British fried breakfasts, hot meals, sandwiches, s
 ---
 name: Nisa Local
 address: 14 Western Gateway, Royal Victoria Dock, E16 1BJ
+area: ExCeL
 website: http://www.nisalocally.co.uk/
 twitter: NisaLocally
 phone: 020 7473 7886
@@ -579,6 +617,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12596839875/
 ---
 name: Royal Docks Pizza
 address: Unit G8, ExCeL Marina, 8 Western Gateway, E16 1AT
+area: ExCeL
 website: http://www.royaldockpizza.com/
 phone: 020 7473 3620
 lat: 51.507944
@@ -594,6 +633,7 @@ summary: Free delivery, or collect from reception of Reem Al Bawadi restaurant.
 ---
 name: Reem Al Bawadi
 address: 8 ExCeL Marina, Western Gateway, E16 1DR
+area: ExCeL
 website: http://reem-albawadi.com/
 phone: 020 7511 8046
 lat: 51.507894
@@ -611,6 +651,7 @@ photo:
 ---
 name: Café Bonnane
 address: ExCeL Marina, Western Gateway, E16 1DR
+area: ExCeL
 phone: 020 7474 4975
 lat: 51.507828
 long: 0.020669907
@@ -624,6 +665,7 @@ summary: "NB: Phone number not working."
 ---
 name: Caribbean Scene
 address: Unit G7, ExCeL Marina, 17 Western Gateway, E16 1AQ
+area: ExCeL
 website: http://www.caribbeanscene.co.uk/
 twitter: CaribbeanScene
 phone: 020 7511 2023
@@ -642,6 +684,7 @@ summary: "NB: Phone number not working."
 ---
 name: Docklands Bar And Grill
 address: Victoria Dock Road, Western Gateway, Royal Victoria Dock, E16 1AL
+area: ExCeL
 website: http://www.docklandsbarandgrill.co.uk/
 phone: 020 7055 2119
 lat: 51.508195
@@ -658,6 +701,7 @@ summary: Part of the Crowne Plaza hotel.
 ---
 name: Tesco Express
 address: Unit B, The Oxygen, Royal Victoria Dock, E16 1BL
+area: ExCeL
 website: http://www.tesco.com/
 twitter: tesco
 phone: 0345 6719545
@@ -671,6 +715,7 @@ summary: Also has a free 24-hour cashpoint.
 ---
 name: Caffè Fratelli
 address: Unit 1, Western Gateway, E16 1AS
+area: ExCeL
 website: http://www.caffefratelli.co.uk/
 twitter: CaffeFratelli
 phone: 020 7476 8239
@@ -687,6 +732,7 @@ summary: Small chain.
 ---
 name: Crystal Café
 address: 1 Siemens Brothers Way, Royal Victoria Dock, E16 1GB
+area: ExCeL
 website: http://www.thecrystal.org/
 phone: 020 7055 6400
 lat: 51.507287
@@ -700,6 +746,7 @@ photo:
 ---
 name: Oiler Bar
 address: Royal Victoria Dock
+area: ExCeL
 website: http://www.wakeupdocklands.com/the-oiler-bar
 twitter: oilerbar
 phone: 07599 905526
@@ -717,6 +764,7 @@ photo:
 ---
 name: Nakhon Thai
 address: Waterfront Studios, 1 Dock Road, Royal Victoria Dock, E16 1AH
+area: ExCeL
 website: http://www.nakhonthai.co.uk/
 phone: 020 7474 5510
 lat: 51.506158
@@ -730,6 +778,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12596517845/
 ---
 name: Ayanna's
 address: 2 Yablsey Street, Blackwall, E14 9RG
+area: Canary Wharf
 website: http://www.ayannaslondon.com/
 twitter: AyannasLondon
 phone: 020 7515 8177
@@ -747,6 +796,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12637459384/
 ---
 name: The Gun
 address: 27 Coldharbour, Isle of Dogs, E14 9NS
+area: Canary Wharf
 website: http://www.thegundocklands.com/
 twitter: thegundocklands
 phone: 020 7515 5222
@@ -770,6 +820,7 @@ access: "Step-free access to the bar, a decent amount of the seating area, and t
 ---
 name: The George
 address: 114 Glengall Grove, Crossharbour, E14 3ND
+area: Canary Wharf
 website: http://thegeorge-e14.com/
 phone: 020 7987 4433
 lat: 51.496083
@@ -791,6 +842,7 @@ access: All three street entrances have low steps — approximately 1-2cm at the
 ---
 name: Firezza
 address: Unit 6b, Baltimore Wharf, Pepper Street, Isle of Dogs, E14 9RH
+area: Canary Wharf
 website: http://www.firezza.com/
 phone: 020 7987 7722
 lat: 51.496210
@@ -805,6 +857,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12660454025/
 ---
 name: Manjal
 address: 3 Turnberry Quay, Isle of Dogs, E14 9RD
+area: Canary Wharf
 website: http://www.manjalrestaurant.com/
 twitter: Manjal_London
 phone: 020 7538 1140
@@ -820,6 +873,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12660909124/
 ---
 name: Lotus
 address: 9 Oakland Quay, Isle of Dogs, E14 9EA
+area: Canary Wharf
 website: http://www.lotusfloating.co.uk/
 phone: 020 7515 6445
 lat: 51.496960
@@ -837,6 +891,7 @@ summary: "Dim sum served noon-4:30pm."
 ---
 name: Pepper Saint Ontiod
 address: 21 Pepper Street, Isle of Dogs, E14 9RP
+area: Canary Wharf
 website: http://www.peppersaintontiod.com/
 twitter: peppersaint
 phone: 020 7987 5205
@@ -853,6 +908,7 @@ access: "Step-free entrance and step-free access to the bar, much of the seating
 ---
 name: Byblos Harbour
 address: 41 Millharbour, Isle of Dogs, E14 9NB
+area: Canary Wharf
 website: http://www.byblos-harbour.com/
 phone: 020 7538 4882
 lat: 51.497483
@@ -870,6 +926,7 @@ photo:
 ---
 name: Tompkins
 address: 4 Pan Peninsula Square, Isle of Dogs, E14 9HN
+area: Canary Wharf
 website: http://www.tompkins.uk.com/
 twitter: Tomptheattic
 phone: 020 8305 3080
@@ -890,6 +947,7 @@ summary: "NB: Phone number may be wrong (no answer on four occasions)."
 ---
 name: Lemongrass Kitchen
 address: Unit 5, South Quay Plaza, 185 Marsh Wall, Isle of Dogs, E14 9SH
+area: Canary Wharf
 website: http://www.lemongrasskitchen.co.uk/
 twitter: LemongrassKtchn
 phone: 020 7537 9392
@@ -905,6 +963,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12660767214/
 ---
 name: Goodman
 address: 3 South Quay Square, Isle of Dogs, E14 9SH
+area: Canary Wharf
 website: http://www.goodmanrestaurants.com/
 twitter: Goodman_London
 phone: 020 7531 0300
@@ -924,6 +983,7 @@ photo:
 ---
 name: Hazev
 address: 2 South Quay Square, Isle of Dogs, E14 9RT
+area: Canary Wharf
 website: http://www.hazev.com/
 phone: 020 7515 9467
 lat: 51.501607
@@ -942,6 +1002,7 @@ access: "Step-free to get in, and step-free through to the ladies' toilet at lea
 ---
 name: All Bar One
 address: 42 Mackenzie Walk, Canary Wharf, E14 5EH
+area: Canary Wharf
 website: http://www.allbarone.co.uk/
 twitter: YourAllBarOne
 phone: 020 7516 0191
@@ -958,6 +1019,7 @@ summary: Chain pub serving food all day including breakfast.
 ---
 name: Slug and Lettuce
 address: 30 South Colonnade, Canary Wharf, E14 5EP
+area: Canary Wharf
 website: http://www.slugandlettuce.co.uk/
 twitter: SlugLettuce
 phone: 020 7519 1612
@@ -973,6 +1035,7 @@ summary: Chain pub serving food all day including breakfast.  No under-18s after
 ---
 name: Smollensky's
 address: 1 Reuters Plaza, Canary Wharf, E14 5AJ
+area: Canary Wharf
 website: http://smollenskys.com/
 twitter: SmollenskysInfo
 phone: 020 7719 0101
@@ -988,6 +1051,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12751904225/
 ---
 name: Carluccio's
 address: Reuters Plaza, Canary Wharf, E14 5AJ
+area: Canary Wharf
 website: http://www.carluccios.com/
 phone: 020 7719 1749
 lat: 51.504302
@@ -1002,6 +1066,7 @@ summary: Chain Italian restaurant with a separate gluten-free menu including glu
 ---
 name: Nicolas
 address: Unit 480, One Canada Square, Canary Wharf, E14 5AX
+area: Canary Wharf
 website: http://www.nicolas.com/
 phone: 020 7512 9283
 lat: 51.504682
@@ -1022,6 +1087,7 @@ access: Step-free from the plaza outside Canary Wharf Station.
 ---
 name: Birley Salt Beef
 address: Unit 23A, One Canada Square, Canary Wharf, E14 5AX
+area: Canary Wharf
 website: https://www.birleysandwiches.co.uk/
 twitter: BirleySandwich
 phone: 020 7719 1163
@@ -1039,6 +1105,7 @@ access: Step-free from the plaza outside Canary Wharf Station.
 ---
 name: Rocket
 address: 2 Churchill Place, Canary Wharf, E14 5RB
+area: Canary Wharf
 website: http://rocketrestaurants.co.uk/
 twitter: RocketFriends
 phone: 020 3200 2022
@@ -1058,6 +1125,7 @@ summary: Chain Italian restaurant.
 ---
 name: Jamie's Italian
 address: Unit 17, 2 Churchill Place, Canary Wharf, E14 5RB
+area: Canary Wharf
 website: https://www.jamieoliver.com/italian/
 twitter: JamiesItalianUK
 phone: 020 3002 5252
@@ -1077,6 +1145,7 @@ summary: Chain Italian restaurant with a separate (but small) gluten-free menu.
 ---
 name: Roka
 address: 1st Floor, 4 Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
+area: Canary Wharf
 website: http://rokarestaurant.com/
 phone: 020 7636 5228
 lat: 51.504966
@@ -1090,6 +1159,7 @@ summary: Japanese restaurant specialising in robatayaki (charcoal grill).
 ---
 name: Wahaca
 address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
+area: Canary Wharf
 website: http://www.wahaca.co.uk/
 twitter: Wahaca
 phone: 020 7516 9145
@@ -1107,6 +1177,7 @@ summary: Mexican restaurant and bar with a separate gluten-free menu.  Part of a
 ---
 name: Canteen
 address: Park Pavilion, 40 Canada Square, Canary Wharf, E14 5FW
+area: Canary Wharf
 website: http://www.canteen.co.uk/
 twitter: CanteenLondon
 phone: 08456 861122
@@ -1123,6 +1194,7 @@ summary: Seasonally-based British food and drink, including breakfast.
 ---
 name: Taylor St Baristas
 address: 8 South Colonnade, Canary Wharf, E14 4PZ
+area: Canary Wharf
 website: http://www.taylor-st.com/
 twitter: Taylor_St
 phone: 020 7519 6536
@@ -1139,6 +1211,7 @@ summary: Coffee specialists also serving breakfast, soups, sandwiches, and cakes
 ---
 name: Boisdale
 address: Cabot Place, Canary Wharf, E14 4QT
+area: Canary Wharf
 website: http://www.boisdale.co.uk/
 twitter: BoisdaleCW
 phone: 020 7715 5818
@@ -1155,6 +1228,7 @@ summary: Oysters, caviar, steaks, whisky, cigars, and live jazz.
 ---
 name: Brera
 address: Unit 12, Cabot Place West, Canary Wharf, E14 4QT
+area: Canary Wharf
 website: http://www.cafebrera.com/
 phone: 0207 512 9191
 lat: 51.505120
@@ -1171,6 +1245,7 @@ summary: Milanese-style cafe with bread baked on the premises.  Three locations 
 ---
 name: Iberica
 address: 12 Cabot Square, Canary Wharf, E14 4QQ
+area: Canary Wharf
 website: http://www.ibericalondon.co.uk/
 twitter: IbericaLondon
 phone: 020 7636 8650
@@ -1188,6 +1263,7 @@ summary: Modern Spanish cuisine including tapas.
 ---
 name: Sri Nam
 address: 10 Cabot Square, Canary Wharf, E14 4EY
+area: Canary Wharf
 website: http://www.orientalrestaurantgroup.co.uk/
 phone: 020 7715 9515
 lat: 51.505589
@@ -1202,6 +1278,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12819177273/in/photostream
 ---
 name: Tom's Kitchen
 address: 1 Westferry Circus, Canary Wharf, E14 4HD
+area: Canary Wharf
 website: http://www.tomskitchen.co.uk/
 twitter: TomsKitchens
 phone: 020 3011 1555
@@ -1220,6 +1297,7 @@ summary: Modern British restaurant, bar, and deli.  Part of a small chain.
 ---
 name: Royal China
 address: 30 Westferry Circus, Canary Wharf, E14 8RR
+area: Canary Wharf
 website: http://www.royalchinagroup.co.uk/
 phone: 020 7719 0888
 lat: 51.505574
@@ -1237,6 +1315,7 @@ summary: Cantonese food including dim sum.  Part of a small chain.
 ---
 name: Gaucho
 address: 29 Westferry Circus, Canary Wharf, E14 8RR
+area: Canary Wharf
 website: http://www.gauchorestaurants.co.uk/
 twitter: GauchoGroup
 phone: 020 7987 9494
@@ -1259,6 +1338,7 @@ summary: Argentine restaurant specialising in steak.  Part of a small chain.
 name: Camino
 exclude: Closed down in April 2014.
 address: 28 Westferry Circus, Canary Wharf, E14 8RR
+area: Canary Wharf
 website: http://www.camino.uk.com/
 twitter: CaminoLondon
 phone: 020 7239 9077
@@ -1276,6 +1356,7 @@ summary: Spanish food including tapas.  Part of a small chain.
 ---
 name: Le Secret Des Rôtisseurs
 address: 37 Westferry Circus, E14 8RP
+area: Canary Wharf
 website: http://www.eatlesecret.co.uk/
 twitter: LeSecretdesR
 phone: 020 7719 0950
@@ -1297,6 +1378,7 @@ summary: French restaurant specialising in spit-roasted meats and Bordeaux wines
 ---
 name: The Grapes
 address: 76 Narrow Street, Limehouse, E14 8BP
+area: Limehouse
 website: http://www.thegrapes.co.uk/
 twitter: TheGrapesLondon
 phone: 0207 987 4396
@@ -1318,6 +1400,7 @@ summary: Historic riverside pub with a restaurant upstairs.
 ---
 name: The Narrow
 address: 44 Narrow Street, Limehouse, E14 8DP
+area: Limehouse
 website: http://www.gordonramsay.com/thenarrow/
 phone: 0207 592 7950
 lat: 51.509746
@@ -1336,6 +1419,7 @@ summary: Riverside pub offering modern British cuisine.  Part of the Gordon Rams
 ---
 name: La Figa
 address: Unit 1, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
+area: Limehouse
 website: http://www.lafigarestaurant.co.uk/
 phone: 020 7423 9829
 lat: 51.510140
@@ -1350,6 +1434,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12832376475/in/photostream
 ---
 name: Veranda
 address: Unit 2, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
+area: Limehouse
 website: http://www.verandadocklands.com/
 phone: 020 7791 2760
 lat: 51.510128
@@ -1369,6 +1454,7 @@ photo:
 ---
 name: Verde
 address: Unit 3, Ionian Building, 45 Narrow Street, Limehouse, E14 8DX
+area: Limehouse
 website: http://verderiverside.co.uk/
 phone: 020 7702 8803
 lat: 51.510290
@@ -1390,6 +1476,7 @@ photo:
 ---
 name: Obikà
 address: Unit 1, West Wintergarden, 35 Bank Street, Canary Wharf, E14 5NW
+area: Canary Wharf
 website: http://obika.com/
 phone: 020 7719 1532
 lat: 51.502535
@@ -1409,6 +1496,7 @@ summary: Self-styled “Mozzarella bar”.
 ---
 name: Zamoo Falafel
 address: 19 Cuba Street, Isle of Dogs, E14 8LD
+area: Canary Wharf
 phone: 020 7515 2131
 lat: 51.501366
 long: -0.023897678
@@ -1426,6 +1514,7 @@ summary: Kebab and falafel cafe.
 ---
 name: The North Pole
 address: 74 Manilla Street, Isle of Dogs, E14 8LG
+area: Canary Wharf
 phone: 020 7987 5443
 lat: 51.500989
 long: -0.023318321
@@ -1445,6 +1534,7 @@ access: A step to get in, but it's all level once you're in.
 ---
 name: Lime
 address: 1 Manilla Street, Regatta Point, Isle of Dogs, E14 8JZ
+area: Canary Wharf
 website: http://www.limerestaurant.co.uk/
 phone: 020 7515 4500
 lat: 51.501173
@@ -1462,6 +1552,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12837415305/
 ---
 name: Aniseed
 address: 25 Westferry Road, Isle of Dogs, E14 8JH
+area: Canary Wharf
 website: http://www.aniseed-docklands.co.uk/
 phone: 020 7517 9233
 lat: 51.501520
@@ -1481,6 +1572,7 @@ photo:
 ---
 name: Tesco Express
 address: Landmark Tower, Westferry Road, Isle of Dogs, E14 9AB
+area: Canary Wharf
 website: http://www.tesco.com/
 twitter: tesco
 phone: 0345 6719592
@@ -1496,6 +1588,7 @@ summary: Also has a free 24-hour cashpoint.
 ---
 name: Bene Bene
 address: 3 Westferry Circus, Canary Wharf, E14 4HD
+area: Canary Wharf
 phone: 020 7519 6792
 lat: 51.506178
 long: -0.026274115
@@ -1508,6 +1601,7 @@ summary: "Cheap sandwich shop.  NB: Phone number not working."
 ---
 name: Quadrato
 address: Four Seasons Hotel, 46 Westferry Circus, Canary Wharf, E14 8RS
+area: Canary Wharf
 website: http://www.fourseasons.com/canarywharf/dining/
 twitter: FSCanaryWharf
 phone: 020 7510 1858
@@ -1527,6 +1621,7 @@ access: No step-free access from Westferry Station; for step-free access use Can
 ---
 name: Dockland Diner
 address: 76-77 Cannon Drive, Isle of Dogs, E14 4AS
+area: Canary Wharf
 phone: 020 7515 7160
 lat: 51.507364
 long: -0.025769860
@@ -1542,6 +1637,7 @@ summary: "Traditional British “greasy spoon” cafe — possibly the only one 
 ---
 name: The Ledger Building
 address: 4 Hertsmere Road, West India Quay, E14 4AL
+area: Canary Wharf
 website: http://www.jdwetherspoon.co.uk/home/pubs/the-ledger-building
 twitter: jdwtweet
 phone: 020 7536 7770
@@ -1560,6 +1656,7 @@ summary: Lloyds No 1 (Wetherspoons) pub.  Reasonably-priced real ales and pub fo
 ---
 name: Rum and Sugar
 address: No 1 Warehouse, West India Quay, E14 4AL
+area: Canary Wharf
 website: http://www.rumandsugar.co.uk/
 twitter: RumAndSugar
 phone: 020 7538 2702
@@ -1579,6 +1676,7 @@ summary: Restaurant attached to the Museum of London Docklands.
 ---
 name: La Tasca
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
+area: Canary Wharf
 website: http://www.latasca.com/canary-wharf/
 twitter: LaTasca
 phone: 020 7531 9990
@@ -1595,6 +1693,7 @@ summary: Chain tapas restaurant with several gluten-free options.
 ---
 name: Strada
 address: Unit E, 12 Hertsmere Road, West India Quay, E14 4AE
+area: Canary Wharf
 website: http://www.strada.co.uk/italian-restaurant/west-india-quay
 phone: 020 7538 9435
 lat: 51.507384
@@ -1610,6 +1709,7 @@ summary: Chain Italian restaurant.
 ---
 name: Temple Lounge
 address: Unit D, Hertsmere Road, West India Quay, E14 4AF
+area: Canary Wharf
 website: http://www.temple-lounge.com/
 twitter: temple_lounge
 phone: 020 7005 0862
@@ -1630,6 +1730,7 @@ summary: Halal shisha cafe with a large covered outdoor seating area.  BYOB allo
 name: Levante
 exclude: Closing down soon.
 address: 14 Hertsmere Road, West India Quay, E14 4AF
+area: Canary Wharf
 website: http://www.levantebar.com/
 phone: 020 3069 8981
 lat: 51.507340
@@ -1646,6 +1747,7 @@ summary: Spanish food including tapas.
 ---
 name: Henry's
 address: Unit C, 16 Hertsmere Road, West India Quay, E14 4AX
+area: Canary Wharf
 website: http://www.henryscafebar.co.uk/henrys-west-india-quay/
 twitter: HenrysWIQ
 phone: 020 7515 8361
@@ -1662,6 +1764,7 @@ summary: Part of a small chain.
 ---
 name: Via
 address: Unit B, 18 Hertsmere Road, West India Quay, E14 4AY
+area: Canary Wharf
 website: http://www.viabars.co.uk/
 twitter: Via_CanaryWharf
 phone: 020 7515 8549
@@ -1684,6 +1787,7 @@ summary: Cocktails, burgers, sharing platters, and pub food.
 ---
 name: Browns
 address: Unit A, 18 Hertsmere Road, West India Quay, E14 4AY
+area: Canary Wharf
 website: http://www.browns-restaurants.co.uk/locations/west-india-quay/
 twitter: BrownsWIQ
 phone: 020 7987 9777
@@ -1704,6 +1808,7 @@ summary: Chain restaurant offering classic British food including breakfast, tra
 ---
 name: Manhattan Grill
 address: 22 Hertsmere Road, West India Quay, E14 4ED
+area: Canary Wharf
 website: http://manhattangrill.co.uk/
 twitter: manhattan_grill
 phone: 020 7517 2808
@@ -1719,6 +1824,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12860251594/
 ---
 name: Dockmaster's House
 address: 1 Hertsmere Road, Poplar, E14 8JJ
+area: Canary Wharf
 website: http://www.dockmastershouse.com/
 twitter: DockmastersHous
 phone: 020 7345 0345
@@ -1739,6 +1845,7 @@ summary: Fine dining Indian restaurant.
 ---
 name: Noodle Street
 address: 15-17 Pennyfields, Poplar, E14 8HP
+area: Limehouse
 website: http://www.noodlestreet.co.uk/
 phone: 020 7987 8688
 lat: 51.509604
@@ -1758,6 +1865,7 @@ summary: Chinese food including dim sum, plus a few Japanese, Thai, and Vietname
 ---
 name: Bengal Classic
 address: 11 Pennyfields, Poplar, E14 8HP
+area: Limehouse
 website: http://www.bengal-classic.co.uk/
 phone: 020 7517 9955
 lat: 51.509634
@@ -1778,6 +1886,7 @@ summary: Representative example of the standard British curryhouse.
 ---
 name: The Tale of India
 address: 53 West India Dock Road, Poplar, London E14 8HP
+area: Limehouse
 website: http://thetaleofindia.com/
 phone: 020 7537 2546
 lat: 51.509739
@@ -1797,6 +1906,7 @@ summary: Standard British curryhouse fare, plus a few regional Indian specialtie
 ---
 name: Westferry Arms
 address: 43 West India Dock Road, Poplar, E14 8EZ
+area: Limehouse
 website: http://westferryarms.com/
 phone: 020 7987 1530
 lat: 51.510025
@@ -1812,6 +1922,7 @@ photo:
 ---
 name: Spice Merchants
 address: 38 Salter Street, Poplar, E14 8AA
+area: Limehouse
 website: http://www.spicemerchants.com/
 phone: 020 7987 8779
 lat: 51.509213
@@ -1830,6 +1941,7 @@ photo:
 ---
 name: MK Cafe
 address: 819 Commercial Road, Limehouse, E14 7HG
+area: Limehouse
 phone: 07960 530714
 lat: 51.512061
 long: -0.028183848
@@ -1844,6 +1956,7 @@ summary: Traditional British “greasy spoon” cafe.
 ---
 name: Royal Spice
 address: 815 Commercial Road, Limehouse, E14 7HG
+area: Limehouse
 website: http://www.royalspice.uk.com/
 phone: 020 7536 9902
 lat: 51.512088
@@ -1863,6 +1976,7 @@ summary: Standard British curryhouse fare with a few specialities including gril
 ---
 name: Basiliano
 address: 795 Commercial Road, Limehouse, E14 7HG
+area: Limehouse
 phone: 020 7987 7799
 lat: 51.512330
 long: -0.029257134
@@ -1877,6 +1991,7 @@ summary: Takeaway pizzas from a wood-fired oven. Pasta dishes too.
 ---
 name: Indiana
 address: 129 Salmon Lane, Limehouse, E14 7PG
+area: Limehouse
 website: http://indiana.uk.com/
 phone: 020 7987 0343
 lat: 51.513538
@@ -1891,6 +2006,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12988434904/
 ---
 name: Sapore Italiano
 address: 106 Salmon Lane, Limehouse, E14 7PQ
+area: Limehouse
 website: http://www.saporeitaliano.co.uk/
 twitter: sapore_italiano
 phone: 020 7531 7492
@@ -1911,6 +2027,7 @@ summary: "NB: Phone number not working."
 ---
 name: Departure
 address: 649-651 Commercial Road, Limehouse, E14 7LW
+area: Limehouse
 website: http://www.departure.org.uk/
 phone: 020 7702 8802
 lat: 51.512814
@@ -1931,6 +2048,7 @@ summary: Community arts cafe with events and classes. Regularly changing hot spe
 ---
 name: The Fish And Chicken Shop
 address: 139 Watney Street, Shadwell, E1 2QE
+area: Whitechapel
 phone: 020 7791 1984
 lat: 51.511590
 long: -0.056655899
@@ -1947,6 +2065,7 @@ access: A step to get in.
 ---
 name: Dar Marrakech
 address: 403 Stratford High Street, E15 4QZ
+area: Stratford
 website: http://www.darmarrakech.co.uk/
 phone: 020 8221 0113
 lat: 51.539574
@@ -1969,6 +2088,7 @@ summary: Has a shisha menu and a heated garden terrace.
 ---
 name: LA Bar
 address: 405 Stratford High Street, E15 4QZ
+area: Stratford
 phone: 07455 939137
 lat: 51.539622
 long: 0.00015060602
@@ -1987,6 +2107,7 @@ summary: Despite the name, as of March 2014 this is only open for takeaway/deliv
 ---
 name: Ye Olde Black Bull
 address: 13 Broadway, Stratford, E15 4BQ
+area: Stratford
 phone: 020 8519 6720
 lat: 51.540238
 long: 0.00086675583
@@ -2000,6 +2121,7 @@ summary: "NB: Phone number possibly wrong (no answer on several occasions)."
 ---
 name: Stratford Best Cafe/Best Kebab House
 address: 21-23 Broadway, Stratford, E15 4BQ
+area: Stratford
 lat: 51.540383
 long: 0.0011081546
 station: Stratford
@@ -2014,6 +2136,7 @@ summary: Traditional British “greasy spoon” cafe food, plus lahmacun (“Tur
 ---
 name: The Langthorne
 address: 14 Broadway, Stratford, E15 4QS
+area: Stratford
 website: http://www.thelangthornestratford.co.uk/
 phone: 020 8534 7840
 lat: 51.540230
@@ -2028,6 +2151,7 @@ summary: Pub food and real ale.
 ---
 name: Cafe In The Courtyard
 address: Old Town Hall, 29 Broadway, Stratford, E15 4BQ
+area: Stratford
 lat: 51.540528
 long: 0.0015453547
 station: Stratford
@@ -2044,6 +2168,7 @@ photo:
 ---
 name: Cafe Mondo
 address: 3 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 website: http://cafemondo.co.uk/
 twitter: cafemondo1
 phone: 020 8519 4013
@@ -2061,6 +2186,7 @@ summary: Pizza, pasta, and fish. Gluten-free pasta available.
 ---
 name: Queens Head
 address: 5-7 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 phone: 020 8522 7111
 lat: 51.540580
 long: 0.0022480935
@@ -2079,6 +2205,7 @@ summary: "NB: Phone number not working."
 ---
 name: Princess Of Wales
 address: 25 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 phone: 020 8519 2930
 lat: 51.540068
 long: 0.0030017942
@@ -2098,6 +2225,7 @@ links:
 ---
 name: Manus Palm Grove
 address: 45 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 phone: 020 8555 5560
 lat: 51.539576
 long: 0.0038735121
@@ -2110,6 +2238,7 @@ summary: "NB: Phone number is wrong."
 ---
 name: Sawmill
 address: 51 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 twitter: CafeSawmill
 lat: 51.539457
 long: 0.0040639490
@@ -2125,6 +2254,7 @@ links: http://gastrogays.wordpress.com/2014/01/22/guide-stratford-london/
 ---
 name: Asmara Cafe
 address: 53 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 phone: 07984 932068
 lat: 51.539426
 long: 0.0041122287
@@ -2140,6 +2270,7 @@ photo:
 ---
 name: Café Lympic
 address: 61 West Ham Lane, Stratford, E15 4PH
+area: Stratford
 phone: 020 8555 3477
 lat: 51.539207
 long: 0.0044045895
@@ -2150,6 +2281,7 @@ photo: http://www.flickr.com/photos/kake_pugh/12992762645/
 ---
 name: Tiffin Grill
 address: 38 West Ham Lane, Stratford, E15 4PT
+area: Stratford
 phone: 020 8555 8000
 lat: 51.538570
 long: 0.0048605650
@@ -2164,6 +2296,7 @@ links: http://www.just-eat.co.uk/restaurants-tiffingrill-e15/menu
 ---
 name: VIP Cafe
 address: 75 Vicarage Lane, Stratford, E15 4HG
+area: Stratford
 lat: 51.540050
 long: 0.010930404
 station: Stratford
@@ -2173,6 +2306,7 @@ summary: Seems to be Bulgarian-run - haven't seen the menu though.
 ---
 name: Valbona Coffee
 address: 85 Vicarage Lane, Stratford, E15 4HG
+area: Stratford
 lat: 51.539878
 long: 0.010989413
 station: Stratford
@@ -2181,6 +2315,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13005365473/
 ---
 name: Patisserie And Venoiserie
 address: 24 Vicarage Lane, Stratford, E15 4ES
+area: Stratford
 lat: 51.541474
 long: 0.010147199
 station: Stratford
@@ -2189,6 +2324,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13005358013/
 ---
 name: Calabash
 address: 22 Vicarage Lane, Stratford, E15 4ES
+area: Stratford
 website: http://www.calabashcuisine.com/
 phone: 020 8503 1664
 lat: 51.541534
@@ -2203,6 +2339,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13005207045/
 ---
 name: Cafe Now
 address: 35 Leytonstone Road, Stratford, E15 1JA
+area: Stratford
 phone: 020 8555 7775
 lat: 51.546332
 long: 0.0057430118
@@ -2215,6 +2352,7 @@ summary: "Coffee and pastry shop opposite Maryland Station.  NB: Phone number no
 ---
 name: Tasty
 address: 51a Leytonstone Road, Stratford, E15 1JA
+area: Stratford
 website: http://www.tastyafricanfood.com/
 twitter: TastysUK
 phone: 020 8522 4705
@@ -2233,6 +2371,7 @@ summary: Part of a small chain.
 ---
 name: Nooks
 address: 55 Leytonstone Road, Stratford, E15 1JA
+area: Stratford
 phone: 020 3581 6364
 lat: 51.546767
 long: 0.0061185211
@@ -2251,6 +2390,7 @@ summary: Cafe and coffee shop near Maryland Station, serving toast and granola f
 ---
 name: Stoney Hill
 address: 57-59 Leytonstone Road, Stratford, E15 1JA
+area: Stratford
 phone: 020 3583 2246
 lat: 51.546869
 long: 0.0061185211
@@ -2268,6 +2408,7 @@ summary: Caribbean food including stew chicken, jerk pork, curry goat, and manni
 ---
 name: D'Gaf
 address: 11 Leytonstone Road, Stratford, E15 1JA
+area: Stratford
 website: http://www.d-gaf.com/
 twitter: dgafuk
 phone: 020 7366 3666
@@ -2288,6 +2429,7 @@ summary: Halal hookah cafe with food and mocktails. Possibly alcohol-free?
 ---
 name: Railway Tavern
 address: 131 Angel Lane, Stratford, E15 1DB
+area: Stratford
 website: http://www.railwaytavernhotel.co.uk/
 phone: 020 8534 3123
 lat: 51.545102
@@ -2302,6 +2444,7 @@ summary: Traditional British pub food. Breakfast too though possibly only for gu
 ---
 name: Pizza Express
 address: Theatre Square, Stratford, E15 1BX
+area: Stratford
 website: http://www.pizzaexpress.com/
 twitter: PizzaExpress
 phone: 020 8534 1700
@@ -2318,6 +2461,7 @@ summary: Reliable chain pizzeria in the same building as the Picturehouse cinema
 ---
 name: De Lites
 address: 81 Watney Street, Shadwell, E1 2QE
+area: Whitechapel
 phone: 020 7790 7100
 lat: 51.511585
 long: -0.056484237
@@ -2341,6 +2485,7 @@ summary: Small cafe on the short route between Shadwell's two stations (DLR and 
 ---
 name: Frank's Cafe
 address: 641 Commercial Road, Limehouse, E14 7NT
+area: Limehouse
 phone: 020 7790 9009
 lat: 51.512854
 long: -0.039441481
@@ -2353,6 +2498,7 @@ summary: Traditional British “greasy spoon” cafe just across the road from L
 ---
 name: Rajboy
 address: 564 Commercial Road, Limehouse, E14 7JD
+area: Limehouse
 website: http://www.rajboy.com/
 phone: 020 7791 3535
 lat: 51.512674
@@ -2370,6 +2516,7 @@ summary: British curryhouse staples with a couple of more unusual dishes.
 ---
 name: Shan Shui Jian
 address: 562 Commercial Road, Limehouse, E14 7JD
+area: Limehouse
 phone: 020 7790 3427
 lat: 51.512677
 long: -0.040702119
@@ -2381,6 +2528,7 @@ summary: Previously New Thai Garden (http://www.flickr.com/photos/kake_pugh/1302
 ---
 name: Limehouse Fried Chicken And Spice
 address: 540 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 phone: 020 7265 9444
 lat: 51.512847
 long: -0.041911796
@@ -2395,6 +2543,7 @@ summary: Cafe/takeaway with a small eat-in space. Curries, kebabs, and fried chi
 ---
 name: Hung Tou
 address: 538 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 phone: 020 7790 7487
 lat: 51.512859
 long: -0.041986898
@@ -2409,6 +2558,7 @@ summary: Fairly standard Anglicised Chinese food.
 ---
 name: Popular Cafe
 address: 536 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 phone: 020 7265 9133
 lat: 51.512877
 long: -0.042091504
@@ -2420,6 +2570,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13030945843/
 ---
 name: Sainsbury's Local
 address: 516-520 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 website: http://www.sainsburys.co.uk/
 twitter: sainsburys
 phone: 020 7423 9176
@@ -2433,6 +2584,7 @@ summary: Branch of one of the UK's big supermarket chains.
 ---
 name: Sylvia's Corner
 address: 583 Commercial Road, Shadwell, E1 0HJ
+area: Limehouse
 website: http://www.sylviascorner.co.uk/
 phone: 020 3509 8295
 lat: 51.513253
@@ -2448,6 +2600,7 @@ summary: Breakfasts, sandwiches, burgers, salads, and hot pasta dishes.
 ---
 name: The Maroons
 address: 514 Commercial Road, Shadwell, London E1 0HY
+area: Limehouse
 website: http://www.themaroonsrestaurant.co.uk/
 phone: 020 7790 5132
 lat: 51.513014
@@ -2461,6 +2614,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13030764795/
 ---
 name: Perfect Fried Chicken / Taj Mahal Tandoori
 address: 512 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 phone: 020 7780 9147
 lat: 51.513044
 long: -0.043263629
@@ -2474,6 +2628,7 @@ summary: Halal.
 ---
 name: Sid Cafe
 address: 510 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 lat: 51.513054
 long: -0.043328002
 station: Limehouse
@@ -2482,6 +2637,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13031124624/
 ---
 name: Docklands Fish Bar
 address: 506 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 phone: 020 7790 1122
 lat: 51.513066
 long: -0.043454066
@@ -2493,6 +2649,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13030732535/
 ---
 name: Chung's
 address: 504 Commercial Road, Shadwell, E1 0HY
+area: Limehouse
 phone: 020 7790 7678
 lat: 51.513073
 long: -0.043513075
@@ -2509,6 +2666,7 @@ summary: Fairly standard Anglicised Chinese food.
 ---
 name: Bismillah Cash And Carry
 address: 3-5 Westport Street, Shadwell, E1 0RA
+area: Limehouse
 phone: 020 7791 5050
 lat: 51.513797
 long: -0.043724567
@@ -2520,6 +2678,7 @@ summary: Asian groceries and fresh vegetables.
 ---
 name: Michael's Chinese Restaurant
 address: 378 Commercial Road, Shadwell, E1 0LB
+area: Limehouse
 phone: 020 7791 2828
 lat: 51.513632
 long: -0.050170317
@@ -2536,6 +2695,7 @@ summary: Fairly standard Anglicised Chinese food. Halal.
 ---
 name: Lahore Two
 address: 367 Commercial Road, Shadwell, E1 2PS
+area: Whitechapel
 website: http://www.lahore-two.co.uk/
 phone: 020 7791 2376
 lat: 51.514351
@@ -2551,6 +2711,7 @@ photo:
 ---
 name: Spice King
 address: 363 Commercial Road, Shadwell, E1 2PS
+area: Whitechapel
 phone: 020 7790 8856
 lat: 51.514376
 long: -0.053525761
@@ -2565,6 +2726,7 @@ summary: Small halal cafe and takeaway serving fried chicken, kebabs, and biryan
 ---
 name: Angora
 address: 337 Commercial Road, Shadwell, E1 2PS
+area: Whitechapel
 phone: 020 7790 3312
 lat: 51.514371
 long: -0.054354563
@@ -2577,6 +2739,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13055187205/
 ---
 name: Efes
 address: 230 Commercial Road, Whitechapel, E1 2NB
+area: Whitechapel
 website: http://efeslondon.co.uk/
 twitter: EfesLondon
 phone: 020 7790 3299
@@ -2595,6 +2758,7 @@ summary: Charcoal-grilled kebabs including İskender, yoğurtlu, and vegetable v
 ---
 name: Lahore One
 address: 218 Commercial Road, Whitechapel, E1 2JT
+area: Whitechapel
 website: http://lahoreone.co.uk/
 phone: 020 7791 0112
 lat: 51.514580
@@ -2611,6 +2775,7 @@ summary: A short menu focusing on home-style curries and kebabs, with plenty of 
 ---
 name: Sahara Grill
 address: 49-53 New Road, Whitechapel, E1 1HH
+area: Whitechapel
 website: http://www.saharagrill.co.uk/
 phone: 020 7247 7803
 lat: 51.516102
@@ -2628,6 +2793,7 @@ summary: Halal, alcohol-free restaurant in The Whitechapel hotel. Part of a smal
 ---
 name: Needoo Grill
 address: 85-87 New Road, Whitechapel, E1 1HH
+area: Whitechapel
 website: http://www.needoogrill.co.uk/
 phone: 020 7247 0648
 lat: 51.516995
@@ -2641,6 +2807,7 @@ summary: Curries and grilled meats with daily specials including haleem and niha
 ---
 name: Maza
 address: 97 New Road, Whitechapel, E1 1HJ
+area: Whitechapel
 website: http://mazaeatery.co.uk/
 phone: 020 7539 3433
 lat: 51.517329
@@ -2662,6 +2829,7 @@ summary: A small and focused menu of curries and grilled meats; plenty of vegeta
 ---
 name: The Crêpe Shop
 address: 103 Fieldgate Street, Whitechapel, E1 1JU
+area: Whitechapel
 website: http://www.crepeshop.co.uk/
 twitter: TheCrepeShop
 lat: 51.517272
@@ -2680,6 +2848,7 @@ summary: Crêpes, coffee, and cakes in an “art café” with a basement galler
 ---
 name: Tayyabs
 address: 81-83 Fieldgate Street, Whitechapel, E1 1JU
+area: Whitechapel
 website: http://www.tayyabs.co.uk/
 twitter: 1tayyabs
 phone: 020 7247 9543
@@ -2695,6 +2864,7 @@ summary: Extremely popular — expect long queues and don't expect to linger ove
 ---
 name: Lahore Kebab House
 address: 2-10 Umberston Street, Whitechapel, E1 1PY
+area: Whitechapel
 website: http://www.lahore-kebabhouse.com/
 phone: 020 7481 9737
 lat: 51.514683
@@ -2710,6 +2880,7 @@ summary: Curries and grilled meats. Very large but also very popular — expect 
 ---
 name: misschu
 address: 91 Whitechapel High Street, E1 7RA
+area: Whitechapel
 website: http://www.misschu.co.uk/
 twitter: misschutuckshop
 phone: 020 7650 0001
@@ -2728,6 +2899,7 @@ summary: Vietnamese food with a pan-Asian twist. Vegan and gluten-free options. 
 ---
 name: Qasida
 address: 96 Whitechapel High Street, E1 7RA
+area: Whitechapel
 website: http://qasida.co.uk/
 twitter: QasidaLondon
 phone: 020 7247 7086
@@ -2748,6 +2920,7 @@ summary: Alcohol-free halal Turkish restaurant.
 ---
 name: Kasturi
 address: 57 Aldgate High Street, EC3N 1AL
+area: Whitechapel
 website: http://kasturi-restaurant.co.uk/
 phone: 020 7480 7402
 lat: 51.514148
@@ -2766,6 +2939,7 @@ photo:
 ---
 name: Still And Star
 address: 1 Little Somerset Street, Whitechapel, E1 8AH
+area: Whitechapel
 phone: 020 7488 3761
 lat: 51.513886
 long: -0.074658886
@@ -2782,6 +2956,7 @@ access: Step-free to get in, to get to the bar, to get to the seating, and to ge
 ---
 name: White Swan
 address: 21 Alie Street, Whitechapel, E1 8DA
+area: Whitechapel
 website: http://www.shepherdneame.co.uk/pubs/aldgate-east/white-swan
 phone:  020 7702 0448
 lat: 51.513592
@@ -2799,6 +2974,7 @@ access: Level entrance, step-free access to bar and ladies' (gents' not checked)
 ---
 name: Dispensary
 address: 19a Leman Street, Whitechapel, E1 8EN
+area: Whitechapel
 website: http://www.thedispensarylondon.co.uk/
 twitter: DispensaryPub
 phone: 020 7977 0486
@@ -2819,6 +2995,7 @@ summary: Grade II* listed building housing a pub with a mezzanine restaurant. Ch
 ---
 name: Oliver Conquest
 address: 70 Leman Street, Whitechapel, E1 8EU
+area: Whitechapel
 twitter: OliverConquest
 phone: 07725 647082
 lat: 51.513023
@@ -2838,6 +3015,7 @@ summary: Self-proclaimed “pub and gin house”. Over 150 gins, plus Meantime b
 ---
 name: Cafe Spice Namaste
 address: 16 Prescot Street, Whitechapel, E1 8AZ
+area: Whitechapel
 website: http://www.cafespice.co.uk/
 twitter: CafeSpiceNamast
 phone: 020 7488 9242
@@ -2866,6 +3044,7 @@ access: Half a dozen steps to get in; no lift. Bell at bottom of steps to ring f
 ---
 name: Princess Of Prussia
 address: 15 Prescot Street, Whitechapel, E1 8AZ
+area: Whitechapel
 website: http://www.shepherdneame.co.uk/pubs/london/princess-prussia
 phone: 020 7702 0723
 lat: 51.511637
@@ -2887,6 +3066,7 @@ summary: Real ale, sandwiches, bar snacks, and traditional British pub food incl
 ---
 name: Red Chilli
 address: 137 Leman Street, Whitechapel, E1 8EY
+area: Whitechapel
 website: http://www.redchillicurryclub.co.uk/
 phone: 020 7481 3300
 lat: 51.511470
@@ -2905,6 +3085,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13064073993/
 ---
 name: Brown Bear
 address: 139 Leman Street, Whitechapel, E1 8EY
+area: Whitechapel
 phone: 020 7481 3792
 lat: 51.511385
 long: -0.068594411
@@ -2919,6 +3100,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13063937675/
 ---
 name: The Empress
 address: 141 Leman Street, Whitechapel, E1 8EY
+area: Whitechapel
 website: http://theempress.co.uk/
 phone: 020 7265 0745
 lat: 51.511310
@@ -2935,6 +3117,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13063921185/
 ---
 name: Poppies Diner
 address: 8 Cable Street, Whitechapel, E1 8JG
+area: Whitechapel
 phone: 020 7488 4841
 lat: 51.510814
 long: -0.067988232
@@ -2951,6 +3134,7 @@ summary: American diner theme.
 ---
 name: Cirilo
 address: 4 Cable Street, Whitechapel, E1 8JG
+area: Whitechapel
 website: http://cirilonoodlebar.co.uk/
 phone: 020 7702 2299
 lat: 51.510804
@@ -2973,6 +3157,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Cirilo,_E1_8JG
 ---
 name: The Yellow House
 address: 126 Lower Road, Rotherhithe, SE16 2UE
+area: Surrey Quays
 website: http://www.theyellowhouse.eu/
 twitter: TheYellowHouse_
 phone: 020 7231 8777
@@ -2995,6 +3180,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Yellow_House_Bar,_SE16_2UE
 ---
 name: Royal Palace
 address: 1b Rotherhithe Old Road, SE16 2PP
+area: Surrey Quays
 phone: 020 7232 1323
 lat: 51.493079
 long: -0.047828749
@@ -3013,6 +3199,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Royal_Palace,_SE16_2PP
 ---
 name: Ma Po
 address: 176-178 Lower Road, Rotherhithe, SE16 2UN
+area: Surrey Quays
 website: http://www.mapolondon.com/
 phone: 020 7231 0623
 lat: 51.492241
@@ -3040,6 +3227,7 @@ links: http://www.yelp.co.uk/biz/ma-po-london
 ---
 name: Oi, Why Not
 address: 158 Lower Road, Rotherhithe, SE16 2UG
+area: Surrey Quays
 twitter: OiWhyNot
 phone: 020 3417 7043
 lat: 51.492595
@@ -3059,6 +3247,7 @@ links:
 ---
 name: The Yacht
 address: 5-7 Crane Street, Greenwich, SE10 9NP
+area: Greenwich
 website: http://www.taylor-walker.co.uk/pub/yacht-greenwich/c7591/
 twitter: TheYachtTW
 phone: 020 8858 0175
@@ -3078,6 +3267,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Yacht,_SE10_9NP
 ---
 name: Trafalgar Tavern
 address: 6 Park Row, Greenwich, SE10 9NW
+area: Greenwich
 website: http://www.trafalgartavern.co.uk/
 phone: 020 8858 2909
 lat: 51.484552
@@ -3098,6 +3288,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Trafalgar_Tavern,_SE10_9NW
 ---
 name: The Old Brewery
 address: Pepys Building, Old Royal Naval College, Greenwich, SE10 9LW
+area: Greenwich
 website: http://www.oldbrewerygreenwich.com/
 twitter: OldBrewery
 phone: 020 3327 1280
@@ -3117,7 +3308,8 @@ summary: Restaurant, bar, and cafe owned by the local Meantime brewery. Modern B
 links: http://london.randomness.org.uk/wiki.cgi?Old_Brewery,_SE10_9LW
 ---
 name: Black Vanilla
-address:  5 College Approach, Greenwich, SE10 9HY
+address: 5 College Approach, Greenwich, SE10 9HY
+area: Greenwich
 website: http://www.black-vanilla.com/
 twitter: _BlackVanilla_
 phone: 020 8858 3283
@@ -3137,6 +3329,7 @@ summary: Gelato, gelato milkshakes and cocktails, affogato, and champagne cockta
 ---
 name: Papa Charlie
 address: 29-31 Greenwich Church Street, Greenwich, SE10 9BJ
+area: Greenwich
 lat: 51.481226
 long: -0.010068610
 station: Cutty Sark
@@ -3151,6 +3344,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d6407163-Reviews-P
 ---
 name: Peter De Wit's Cafe
 address: 21 Greenwich Church Street, Greenwich, SE10 9BJ
+area: Greenwich
 website: http://www.peterdewitscafe.co.uk/
 phone: 020 8305 0048
 lat: 51.481087
@@ -3171,6 +3365,7 @@ links:
 ---
 name: Mevali
 address: 17 Greenwich Church Street, Greenwich, SE10 9BJ
+area: Greenwich
 phone: 020 3490 4342
 lat: 51.481039
 long: -0.0098938644
@@ -3192,6 +3387,7 @@ links:
 ---
 name: The Pier
 address: 19 Greenwich Church Street, Greenwich, SE10 9BJ
+area: Greenwich
 phone: 020 8858 3668
 lat: 51.481064
 long: -0.0099394620
@@ -3212,6 +3408,7 @@ links:
 ---
 name: San Miguel
 address: 18 Greenwich Church Street, Greenwich, SE10 9BJ
+area: Greenwich
 website: http://sanmiguelgreenwich.co.uk/
 twitter: SanMiguelTapas
 phone: 020 8305 1720
@@ -3232,6 +3429,7 @@ summary: Tapas bar and restaurant. Separate children's menu based on things-with
 ---
 name: Mogul
 address: 10 Greenwich Church Street, Greenwich, SE10 9BJ
+area: Greenwich
 website: http://mogulindian.co.uk/
 phone: 020 8858 6790
 lat: 51.480925
@@ -3253,6 +3451,7 @@ summary: Fairly standard British curryhouse menu plus a few more interesting dis
 ---
 name: Pizza Express
 address: 4 Greenwich Church Street, Greenwich, SE10 9BG
+area: Greenwich
 website: http://www.pizzaexpress.com/
 twitter: PizzaExpress
 phone: 020 8853 2770
@@ -3271,6 +3470,7 @@ summary: Reliable chain pizzeria. Separate gluten-free menu including pizzas.
 ---
 name: Aji Ichiban
 address: 8 Nelson Road, Greenwich, SE10 9JB
+area: Greenwich
 website: http://www.aji-ichiban.co.uk/
 phone: 020 8858 7808
 lat: 51.480984
@@ -3295,6 +3495,7 @@ links:
 ---
 name: Goddards
 address: 22 King William Walk, Greenwich, SE10 9HU
+area: Greenwich
 website: http://www.goddardsatgreenwich.co.uk/
 phone: 020 8305 9612
 lat: 51.481391
@@ -3313,6 +3514,7 @@ summary: Traditional London “pie and mash shop”, serving pies, mashed potato
 ---
 name: Vietnam Oriental
 address: 17-18 King William Walk, Greenwich, SE10 9JH
+area: Greenwich
 website: http://www.vietnamoriental.co.uk/
 phone: 020 8858 5888
 lat: 51.480932
@@ -3327,6 +3529,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Vietnam_Oriental_Cuisine,_SE10_9
 ---
 name: Jamie's Italian
 address: 17-19 Nelson Road, Greenwich, SE10 9JB
+area: Greenwich
 website: https://www.jamieoliver.com/italian/
 twitter: JamiesItalianUK
 phone: 020 3667 7087
@@ -3348,6 +3551,7 @@ summary: Chain Italian restaurant with a separate (but small) gluten-free menu. 
 ---
 name: The Mitre
 address: 291 Greenwich High Road, Greenwich, SE10 8NA
+area: Greenwich
 website: http://www.themitregreenwich.co.uk/
 twitter: MitreGreenwich
 phone: 020 8293 0037
@@ -3366,6 +3570,7 @@ links:
 ---
 name: The Green Cafe
 address: 285 Greenwich High Road, Greenwich, SE10 8NB
+area: Greenwich
 twitter: TheGreenCafee
 phone: 020 8293 5577
 lat: 51.479657
@@ -3378,6 +3583,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2479995-Reviews-T
 ---
 name: Taperia
 address: 180 Greenwich High Road, Greenwich, SE10 8NN
+area: Greenwich
 website: http://www.taperia.co.uk/
 phone: 020 8269 0003
 lat: 51.479637
@@ -3399,6 +3605,7 @@ links:
 ---
 name: Plumtree Café
 address: 241 Greenwich High Road, Greenwich, SE10 8NB
+area: Greenwich
 twitter: theplumtreecafe
 lat: 51.479019
 long: -0.011063710
@@ -3420,6 +3627,7 @@ links:
 ---
 name: The Cheeseboard
 address: 26 Royal Hill, Greenwich, SE10 8RT
+area: Greenwich
 website: http://www.cheese-board.co.uk/
 twitter: CheeseboardUK
 phone: 020 8305 0401
@@ -3437,6 +3645,7 @@ summary: Bread, cheese, beer, and wine from local and international sources. Che
 ---
 name: Richard I
 address: 52-54 Royal Hill, Greenwich, SE10 8RT
+area: Greenwich
 website: http://www.richardthefirst.co.uk/
 twitter: RichardFirstPub
 phone: 020 8692 2996
@@ -3455,6 +3664,7 @@ access: No steps at entrances, but steps down to the toilets from both bars. I t
 links: http://london.randomness.org.uk/wiki.cgi?Richard_I,_SE10_8RT
 ---
 name: Greenwich Union
+area: Greenwich
 address: 56 Royal Hill, Greenwich, SE10 8RT
 website: http://greenwichunion.com/
 twitter: GreenwichUnion
@@ -3476,6 +3686,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Greenwich_Union,_SE10_8RT
 ---
 name: The Prince Of Greenwich
 address: 72 Royal Hill, Greenwich, SE10 8RT
+area: Greenwich
 website: http://www.theprinceofgreenwich.com/
 phone: 020 8691 5369
 lat: 51.476181
@@ -3492,6 +3703,7 @@ links: http://www.thegreenwichphantom.co.uk/2011/01/the-prince-of-greenwich/
 ---
 name: Royal Teas
 address: 76 Royal Hill, Greenwich, SE10 8RT
+area: Greenwich
 website: http://www.royalteascafe.co.uk/
 phone: 020 8691 7240
 lat: 51.476106
@@ -3504,6 +3716,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13195419743/
 ---
 name: Buenos Aires
 address: 86 Royal Hill, Greenwich, SE10 8RT
+area: Greenwich
 website: http://www.buenosairesltd.com/
 phone: 020 8488 6764
 lat: 51.475940
@@ -3514,6 +3727,7 @@ photo: http://www.flickr.com/photos/kake_pugh/13195598374/
 ---
 name: The Hill
 address: 89 Royal Hill, Greenwich, SE10 8SE
+area: Greenwich
 website: http://www.thehillgreenwich.com/
 phone: 020 8691 3626
 lat: 51.475611
@@ -3537,6 +3751,7 @@ links:
 ---
 name: Ashburnham Arms
 address: 25 Ashburnham Grove, Greenwich, SE10 8UH
+area: Greenwich
 website: http://ashburnhamarms.com/
 phone: 020 8692 2007
 lat: 51.475648
@@ -3558,6 +3773,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Ashburnham_Arms,_SE10_8UH
 ---
 name: Baba's Cafe
 address: 13-15 Greenwich South Street, Greenwich, SE10 8NW
+area: Greenwich
 phone: 020 8305 9955
 lat: 51.477544
 long: -0.012088314
@@ -3574,6 +3790,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2390100-Reviews-B
 ---
 name: The Lost Hour
 address: 217-219 Greenwich High Road, Greenwich, SE10 8NB
+area: Greenwich
 website: http://www.thelosthourgreenwich.co.uk/
 twitter: TheLostHourPub
 phone: 020 8269 1411
@@ -3595,6 +3812,7 @@ links:
 ---
 name: Café Marrone
 address: Shadwell Station, Watney Street, Shadwell, E1 2QD
+area: Whitechapel
 website: http://cafemarrone.blogspot.co.uk/
 phone: 020 7791 5356
 lat: 51.511674
@@ -3610,6 +3828,7 @@ links: http://www.yelp.co.uk/biz/cafe-marrone-london
 ---
 name: Sichuan Kitchen
 address: 213 East India Dock Road, Poplar, E14 0ED
+area: DLR
 website: http://www.sichuankitchen.co.uk/
 phone: 020 7515 8866
 lat: 51.511383
@@ -3632,6 +3851,7 @@ links: http://chowhound.chow.com/topics/865723
 ---
 name: Super Three
 address: 207 East India Dock Road, Poplar, E14 0ED
+area: DLR
 phone: 020 7515 8700
 lat: 51.511383
 long: -0.011975661
@@ -3646,6 +3866,7 @@ links:
 ---
 name: Paul A Young
 address: 20 Royal Exchange, Threadneedle Street, City, EC3V 3LP
+area: Bank/Tower Hill
 website: http://www.paulayoung.co.uk/
 twitter: paul_a_young
 phone: 020 7929 7007
@@ -3666,6 +3887,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Paul_A_Young,_EC3V_3LP
 ---
 name: Simpson's Tavern
 address: Ball Court, 38½ Cornhill, City, EC3V 9DR
+area: Bank/Tower Hill
 website: http://www.simpsonstavern.co.uk/
 phone: 020 7626 9985
 lat: 51.513109
@@ -3690,6 +3912,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Simpson%27s_Tavern,_EC3V_9DR
 ---
 name: Jamaica Wine House
 address: St Michael's Alley, off Cornhill, City, EC3V 9DS
+area: Bank/Tower Hill
 website: http://www.shepherdneame.co.uk/pubs/london/jamaica-wine-house
 phone: 020 7929 6972
 lat: 51.512919
@@ -3707,6 +3930,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Jamaica_Wine_House,_EC3V_9DS
 ---
 name: The Wurst Club
 address: 56-57 Cornhill, City, EC3V 3PD
+area: Bank/Tower Hill
 website: http://www.the-wurst-club.co.uk/
 phone: 020 7283 8008
 lat: 51.513373
@@ -3731,6 +3955,7 @@ links:
 ---
 name: The Ship
 address: 11 Talbot Court, EC3V 0BP
+area: Bank/Tower Hill
 website: http://www.nicholsonspubs.co.uk/theshiptalbotcourtlondon/
 phone: 020 7929 3903
 lat: 51.512286
@@ -3746,6 +3971,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Ship,_EC3V_0BP
 ---
 name: The Walrus and the Carpenter
 address: 45 Monument Street, City, EC3R 8BU
+area: Bank/Tower Hill
 website: http://www.nicholsonspubs.co.uk/thewalrusandthecarpentermonumentlondon/
 twitter: The_Walrus45
 phone: 020 7621 1647
@@ -3763,6 +3989,7 @@ photo:
 ---
 name: Wagamama
 address: 2B Tower Place, Tower of London, EC3N 4EE
+area: Bank/Tower Hill
 website: http://www.wagamama.com/
 twitter: Wagamama_UK
 phone: 020 7283 5897
@@ -3784,6 +4011,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1019713-Reviews-W
 ---
 name: Brasserie Blanc
 address: 14 Trinity Square, Tower of London, EC3N 4AA
+area: Bank/Tower Hill
 website: http://www.brasserieblanc.com/
 phone: 020 7480 5500
 lat: 51.509752
@@ -3806,6 +4034,7 @@ links: http://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1385617-Reviews-B
 ---
 name: Hung, Drawn and Quartered
 address: 26-27 Great Tower Street, EC3R 5AQ
+area: Bank/Tower Hill
 website: http://hung-drawn-and-quartered.co.uk/
 phone: 020 7626 6123
 lat: 51.509616
@@ -3822,7 +4051,8 @@ access: No steps to get in, and it's step-free to the bar, seating, and accessib
 links: http://london.randomness.org.uk/wiki.cgi?Hung_Drawn_And_Quartered,_EC3R_5AQ
 ---
 name: Bavarian Beerhouse
-address:  The Arches, 9 Crutched Friars, City, EC3N 2AU
+address: The Arches, 9 Crutched Friars, City, EC3N 2AU
+area: Bank/Tower Hill
 website: http://www.bavarian-beerhouse.co.uk/
 twitter: BavarianBeerUK
 phone: 0844 330 2005
@@ -3846,6 +4076,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Bavarian_Beerhouse,_EC3N_2AU
 ---
 name: The Chamberlain
 address: 130-135 Minories, City, EC3N 1NU
+area: Bank/Tower Hill
 website: http://www.thechamberlainhotel.co.uk/
 phone: 020 7680 1500
 lat: 51.512241
@@ -3866,6 +4097,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Chamberlain,_EC3N_1NU
 ---
 name: Velo
 address: 104 Tooley Street, London Bridge, SE1 2TH
+area: London Bridge
 website: http://www.velorestaurant.com/
 twitter: velorestaurant
 phone: 020 7407 9310
@@ -3887,6 +4119,7 @@ links: http://www.thegoodwebguide.co.uk/food-wine/table-talk/interviews/Nghi-Ngu
 ---
 name: Suchard
 address: 102 Tooley Street, London Bridge, SE1 2JP
+area: London Bridge
 website: http://suchardthai.co.uk/
 phone: 020 7357 6381
 lat: 51.504320
@@ -3907,6 +4140,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Suchard_Thai,_SE1_2JP
 ---
 name: Magdalen
 address: 152 Tooley Street, London Bridge, SE1 2TU
+area: London Bridge
 website: http://www.magdalenrestaurant.co.uk/
 phone: 020 7403 1342
 lat: 51.503661
@@ -3927,6 +4161,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Magdalen,_SE1_2TU
 ---
 name: Vivat Bacchus
 address: 4 Hays Lane, London Bridge, SE1 2HB
+area: London Bridge
 website: http://www.vivatbacchus.co.uk/
 twitter: Vivat_Bacchus
 phone: 020 7234 0891
@@ -3949,6 +4184,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Vivat_Bacchus,_SE1_2HB
 ---
 name: Barrowboy and Banker
 address: 6-8 Borough High Street, London Bridge, SE1 9QQ
+area: London Bridge
 website: http://barrowboy-and-banker.co.uk/
 twitter: BarrowBoyB
 phone: 020 7403 5415
@@ -3968,11 +4204,12 @@ links: http://london.randomness.org.uk/wiki.cgi?Barrowboy_And_Banker,_SE1_9QQ
 ---
 name: Tito's
 address: 4-6 London Bridge Street, London Bridge, SE1 9SG
+area: London Bridge
 website: http://www.titosperuvianrestaurant.com/
 phone: 020 7407 7787
 lat: 51.505435
 long: -0.088544682
-station: London Brige
+station: London Bridge
 type: restaurant
 cuisine: Peruvian
 licensed: yes
@@ -3992,6 +4229,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Tito%27s,_SE1_9SG
 ---
 name: Tapas Brindisa
 address: 18-20 Southwark Street, London Bridge, SE1 1TJ
+area: London Bridge
 website: http://www.brindisatapaskitchens.com/
 twitter: Brindisa
 phone: 020 7357 8880
@@ -4010,6 +4248,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Tapas_Brindisa,_SE1_1TJ
 ---
 name: Monmouth Coffee Company
 address: 2 Park Street, London Bridge, SE1 9AB
+area: London Bridge
 website: http://www.monmouthcoffee.co.uk/
 phone: 020 7232 3010
 lat: 51.505490
@@ -4027,6 +4266,7 @@ links:
 ---
 name: Wright Brothers
 address: 11 Stoney Street, London Bridge, SE1 9AD
+area: London Bridge
 website: http://www.thewrightbrothers.co.uk/
 twitter: WrightBrosLDN
 phone: 020 7403 9554
@@ -4046,6 +4286,7 @@ links:
 ---
 name: Konditor And Cook
 address: 10 Stoney Street, Bermondsey, SE1 9AD
+area: London Bridge
 website: http://konditorandcook.com/
 twitter: konditorandcook
 phone: 020 7633 3333
@@ -4059,6 +4300,7 @@ summary: Cakes, tarts, biscuits, savouries, salads, sandwiches, soups, and hot d
 ---
 name: The Market Porter
 address: 9 Stoney Street, Bermondsey, SE1 9AA
+area: London Bridge
 website: http://www.markettaverns.co.uk/
 phone: 020 7407 2495
 lat: 51.505397
@@ -4077,6 +4319,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Market_Porter,_SE1_9AA
 ---
 name: Champor-Champor
 address: 62-64 Weston Street, London Bridge, SE1 3QJ
+area: London Bridge
 website: http://www.champor-champor.com/
 twitter: ChamporChampor
 phone: 020 7403 4600
@@ -4098,6 +4341,7 @@ summary: Thai-Malaysian fusion. One or two vegetarian plus one or two vegan opti
 ---
 name: Suchard Freehouse
 address: 2 Crucifix Lane, Bermondsey, SE1 3JW
+area: London Bridge
 website: http://suchardthai.co.uk/
 phone: 020 7357 7995
 lat: 51.502296
@@ -4114,6 +4358,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Suchard_Freehouse,_SE1_3JW
 ---
 name: Casse-Croûte
 address: 109 Bermondsey Street, Bermondsey, SE1 3XB
+area: London Bridge
 website: http://www.cassecroute.co.uk/
 twitter: CasseCroute109
 phone: 020 7407 2140
@@ -4133,6 +4378,7 @@ links:
 ---
 name: José
 address: 104 Bermondsey Street, Bermondsey, SE1 3UB
+area: London Bridge
 website: http://www.josetapasbar.com/
 twitter: Jose_Pizarro
 lat: 51.500577
@@ -4151,6 +4397,7 @@ links:
 ---
 name: Caphe House
 address: 114 Bermondsey Street, Bermondsey, SE1 3TX
+area: London Bridge
 website: http://www.caphehouse.com/
 phone: 020 7403 3574
 lat: 51.500338
@@ -4165,6 +4412,7 @@ links: http://chowhound.chow.com/topics/638398
 ---
 name: Zucca
 address: 184 Bermondsey Street, Bermondsey, SE1 3TQ
+area: London Bridge
 website: http://www.zuccalondon.com/
 twitter: ZuccaBermondsey
 phone: 020 7378 6809
@@ -4184,6 +4432,7 @@ links:
 ---
 name: Pizarro
 address: 194 Bermondsey Street, Bermondsey, SE1 3TQ
+area: London Bridge
 website: http://www.pizarrorestaurant.com/
 twitter: Jose_Pizarro
 phone: 020 7378 9455
@@ -4204,6 +4453,7 @@ links:
 ---
 name: Crystal China
 address: 78-80 Tower Bridge Road, Bermondsey, SE1 4TP
+area: London Bridge
 phone: 020 7231 8866
 lat: 51.496197
 long: -0.082461432
@@ -4226,6 +4476,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Crystal_China,_SE1_4TP
 ---
 name: M Manze
 address: 87 Tower Bridge Road, Bermondsey, SE1 4TW
+area: London Bridge
 website: http://manze.co.uk/
 twitter: Manzes_SE1
 phone: 020 7407 2985
@@ -4246,6 +4497,7 @@ links: http://london.randomness.org.uk/wiki.cgi?M_Manze,_SE1_4TW
 ---
 name: Constancia
 address: 52 Tanner Street, Bermondsey, SE1 3PH
+area: London Bridge
 website: http://www.constancia.co.uk/
 twitter: ConstanciaGrill
 phone: 020 7234 0676
@@ -4271,6 +4523,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Constancia,_SE1_3PH
 ---
 name: The Draft House
 address: 206-208 Tower Bridge Road, Bermondsey, SE1 2UP
+area: London Bridge
 website: http://www.drafthouse.co.uk/
 twitter: DraftHouseTB
 phone: 020 7378 9995
@@ -4294,6 +4547,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Draft_House,_SE1_2UP
 ---
 name: Tentazioni Fine Food
 address: 19 The Circle, Queen Elizabeth Street, Bermondsey, SE1 2JE
+area: London Bridge
 website: http://www.tentazioni.co.uk/delicatessen/
 twitter: TentazioniWorld
 phone: 020 7407 7529
@@ -4319,6 +4573,7 @@ links: http://www.yelp.co.uk/biz/tentazioni-fine-food-london
 ---
 name: Tentazioni Restaurant
 address: Lloyds Wharf, 2 Mill Street, Bermondsey, SE1 2BD
+area: London Bridge
 website: http://www.tentazioni.co.uk/restaurant/
 twitter: TentazioniWorld
 phone: 020 7237 1100
@@ -4336,6 +4591,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Tentazioni,_SE1_2BD
 ---
 name: The Dean Swift
 address: 10 Gainsford Street, Bermondsey, SE1 2NE
+area: London Bridge
 website: http://thedeanswift.com/
 twitter: DeanSwiftSE1
 phone: 020 7357 0748
@@ -4360,6 +4616,7 @@ links: http://london.randomness.org.uk/wiki.cgi?Dean_Swift,_SE1_2LX
 ---
 name: Teapod
 address: Cardamom Building, 31 Shad Thames, Bermondsey, SE1 2YR
+area: London Bridge
 website: http://www.teapodtea.co.uk/
 twitter: TeapodLondon
 phone: 020 7407 0000

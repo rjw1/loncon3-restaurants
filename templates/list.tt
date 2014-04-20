@@ -1,0 +1,51 @@
+[% subtitle = 'list' %]
+[% INCLUDE header.tt %]
+
+<p>Note: inclusion on this list does not imply inclusion in the final guide.  This is just a shortlist.</p>
+
+<ul class="areas">
+  [% FOREACH area = areas %]
+    <li><a href="#[% area.anchor %]">[% area.name %]</a></li>
+  [% END %]
+</ul>
+
+[% FOREACH area = areas %]
+
+  <h3 class="area_name"><a name="[% area.anchor %]"></a>[% area.name %]</h3>
+
+  [% IF area.overview %]
+    <p class="area_overview">[% area.overview %]</p>
+  [% END %]
+
+  <ul class="venues_by_area">
+  [% FOREACH venue = area.venues %]
+    <li>
+      <span class="name">[% venue.name %],</span>
+      <span class="address">[% venue.address %].</span>
+      <span class="contact">
+        [% IF venue.website %]
+          <a href="[% venue.website.url %]">[% venue.website.display %]</a>[% IF venue.twitter OR venue.phone %] · [% ELSE %] .[% END %]
+        [% END %]
+        [% IF venue.twitter %]
+          <a href="https://twitter.com/[% venue.twitter %]">@[% venue.twitter %]</a>[% IF venue.phone %] · [% ELSE %].[% END %]
+        [% END %]
+        [% IF venue.phone %]
+          <span class="phone">[% venue.phone %].</span>
+        [% END %]
+      </span>
+      [% IF venue.summary %]
+        <span class="summary">[% venue.summary %]</span>
+      [% END %]
+      [% IF venue.access %]
+        <span class="access">[% venue.access %]</span>
+      [% END %]
+      [% IF venue.stations %]
+        <span class="stations">Public transport: [% venue.stations %].</span>
+      [% END %]
+    </li>
+  [% END %]
+  </ul>
+
+[% END %]
+
+[% INCLUDE footer.tt %]

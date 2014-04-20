@@ -1,3 +1,41 @@
 body {
-  font-family:Geneva, Helvetica, Arial, sans-serif;
+  font-family: Geneva, Helvetica, Arial, sans-serif;
+  color: #000;
+  background-color: #f2f2f2;
+}
+
+h3.area_name {
+  padding-top: 1em;
+}
+
+.area_overview {
+  font-size: 90%;
+  padding: 0 1em;
+}
+
+.venues_by_area li {
+  list-style: none;
+  margin-bottom: 0.5em;
+  margin-left: -2.5em;
+}
+
+.venues_by_area li .name {
+  font-weight: bold;
+}
+
+.venues_by_area li .contact {
+  font-style: italic;
+}
+
+.venues_by_area li .contact a {
+  text-decoration: none;
+  color: #777;
+}
+.venues_by_area li .contact a:hover {
+  text-decoration: underline;
+  color: #777;
+}
+
+.venues_by_area li .access {
+  font-style: italic;
 }

@@ -1,0 +1,78 @@
+name: Bank/Tower Hill
+description: Convenient for those staying in the Novotel Tower Bridge, but also
+  easily accessible via the DLR (Bank Station, Tower Gateway Station), the
+  Central Line (Bank Station), and the District Line (Monument Station, Tower
+  Hill Station).  South across the river is the area we’ve labelled as
+  “London Bridge”, which can be accessed by walking across Tower Bridge or
+  London Bridge.  Whitechapel is to the east.
+---
+name: Canary Wharf
+description: The northern part of the Isle of Dogs, developed in the late
+  1980s/early 1990s from unused commercial dockland into one of London’s two
+  main financial centres.  Note that many restaurants and bars here open
+  weekdays only, to cater for the many office workers of the area.
+  Accommodation includes the Britannia International, the Hilton London Canary
+  Wharf, the Marriott West India Quay, the Radisson Blu Edwardian New
+  Providence Wharf, and the Marlin Canary Wharf serviced apartments.  Easily
+  reachable via the DLR (stations including Blackwall, Canary Wharf,
+  Crossharbour, Heron Quays, South Quay, Westferry, and West India Quay) or
+  the Jubilee Line (Canary Wharf Station).
+---
+name: Canning Town
+description: Focused around Canning Town Station, which is a significant
+  interchange point between different branches of the DLR, the Jubilee Line,
+  and local bus services.  A varied selection of cafes and restaurants can be
+  found on Barking Road.
+---
+name: DLR
+description: Venues easily accessible from the DLR network.
+---
+name: ExCeL
+description: Venues around ExCeL itself.  DLR stations are Custom House, Prince
+  Regent, and Royal Victoria.
+---
+name: Greenwich
+description: Home of the National Maritime Museum, the Royal Observatory,
+  Greenwich Park, and more.  Served by the Lewisham branch of the DLR (Cutty
+  Sark Station, Greenwich Station) and trains from London Bridge (Greenwich
+  Station).
+---
+name: Limehouse
+description: A sprawling area of East London, served by Limehouse Station and
+  Westferry Station on the DLR.  Many of the venues here will likely mainly be
+  of interest to those staying in the Marlin Limehouse serviced apartments,
+  though some (including the Narrow and the Grapes) are worth travelling for.
+---
+name: London Bridge
+description: Just south of the Thames, the area between London Bridge Station
+  (Jubilee Line) and the south end of Tower Bridge (across which are Tower
+  Gateway Station on the DLR and Tower Hill Station on the District Line).
+  Everything in this area is within walking distance of the Hilton Tower Bridge.
+  The eastern side is also close to Bermondsey Station, which is useful for
+  those travelling in on the Jubilee Line from the east and wishing to avoid
+  paying Zone 1 fares.
+---
+name: Stratford
+description: A recently regenerated area, with the Westfield shopping centre
+  and the Olympic Park.  Well-connected via the DLR (Stratford Station,
+  Stratford High Street Station, Stratford International Station) and Jubilee
+  Line (Stratford Station).  A small enclave around Maryland Station is
+  walkable from Stratford Station, though the tired or lazy may prefer to take
+  an overground train for 2 minutes to Maryland Station itself.  Several
+  independent cafes and restaurants make it well worth looking beyond the
+  chains of Westfield.
+---
+name: Surrey Quays
+description: A small enclave of interesting independent restaurants focused
+  around Surrey Quays Station (London Overground).  Change to London Overground
+  from the DLR at Shadwell Station or from the Jubilee Line at Canada Water
+  Station, and it’s then just 1–4 stops southbound (or walk from Canada Water
+  Station).
+---
+name: Whitechapel
+description: London’s original “East End”, a large area served by the DLR
+  (Shadwell Station), the District Line and Hammersmith & City Line (Aldgate
+  East Station and Whitechapel Station), and the Circle Line and Metropolitan
+  Line (Aldgate Station).  The western part of it is also walkable from the area
+  we’ve designated as “Bank/Tower Hill”.
+

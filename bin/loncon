@@ -11,6 +11,7 @@ my $laptop = 0;
 
 my $datadir = "/Users/kake/Documents/Geo stuff/Loncon";
 my $filename = $ARGV[0] || "$datadir/food-guide.yaml";
+my $areafile = "$datadir/areas.yaml";
 my ( $webdir, $base_url );
 if ( $laptop ) {
   $webdir = "/Users/kake/Sites/loncon";
@@ -20,8 +21,10 @@ if ( $laptop ) {
   $base_url = "http://the.earth.li/~kake/tmp/loncon/";
 }
 
+# Read in and process the venue information.
+
 my @venues = LoadFile( $filename );
-@venues = sort { $a->{name} cmp $b->{name} } @venues;
+@venues = sort namesort @venues;
 my $total = scalar @venues;
 
 @venues = grep { !$_->{exclude} } @venues;
@@ -41,6 +44,8 @@ my %colours = (
   takeaway => "green",
   "grocery shop" => "yellow",
 );
+
+my %areahash;
 
 foreach my $venue ( @venues ) {
   # Check whether we need to expand our bounding box.
@@ -62,7 +67,33 @@ foreach my $venue ( @venues ) {
     die "No appropriate markers for $venue->{name}.\n";
   }
   $venue->{marker} = join( "_", sort @markers );
+
+  # Deal with website.
+  if ( $venue->{website} ) {
+    my $url = $venue->{website};
+    my $display = $url;
+    $display =~ s'https?://'';
+    $display =~ s'/$'';
+    $venue->{website} = { url => $url, display => $display };
+  }
+
+  # Deal with stations.
+  my $station = $venue->{station};
+  if ( $station ) {
+    my @stations = ref $station ? @{$station} : ( $station );
+    $venue->{stations} = join ", ", @stations;
+  }
+
+  # File by area for list view.
+  my $area = canonicalise_area( $venue->{area} );
+  if ( !defined $areahash{$area} ) {
+    $areahash{$area} = [ $venue ];
+  } else {
+    push @{$areahash{$area}}, $venue;
+  }
 }
+
+# Set up template stuff.
 
 my $tt_config = {
   INCLUDE_PATH => "$datadir/templates/",
@@ -70,6 +101,7 @@ my $tt_config = {
 };
 my $tt = Template->new( $tt_config ) or die Template->error;
 
+# Write the map.
 my $tt_vars = {
   base_url => $base_url,
   min_lat => $min_lat,
@@ -85,6 +117,31 @@ open( my $output_fh, ">", "$webdir/map.html" ) or die $!;
 $tt->process( "map.tt", $tt_vars, $output_fh ) or die $tt->error;
 close $output_fh;
 
+# Read in and process the area overviews.
+my @areainfo = LoadFile( $areafile );
+my %overviews;
+foreach my $datum ( @areainfo ) {
+  next unless $datum->{name}; # skip empty data
+  my $name = canonicalise_area( $datum->{name} );
+  $overviews{$name} = $datum->{description};
+}
+
+# Write the list.
+my @areas;
+foreach my $area ( sort { lc( $a ) cmp lc( $b ) } keys %areahash ) {
+  my $anchor = lc( $area );
+  $anchor =~ s/[\/\s]+/_/g;
+  push @areas, { name => $area, anchor => $anchor, overview => $overviews{$area} || "", venues => [ sort namesort @{$areahash{$area}} ] };
+}
+
+$tt_vars = {
+  base_url => $base_url,
+  areas => \@areas,
+};
+open( $output_fh, ">", "$webdir/list.html" ) or die $!;
+$tt->process( "list.tt", $tt_vars, $output_fh ) or die $tt->error;
+close $output_fh;
+
 copy( "$datadir/stylesheets/loncon.css", "$webdir/stylesheets" ) || die $!;
 copy( "$datadir/js/map.js", "$webdir/js" ) || die $!;
 if ( !$laptop ) {
@@ -95,4 +152,20 @@ my @icons = bsd_glob( "$datadir/icons/*.png" );
 foreach my $icon ( @icons ) {
   my ( $vol, $dir, $file) = File::Spec->splitpath( $icon );
   copy( "$datadir/icons/$file", "$webdir/icons" ) || die $!;
+}
+
+sub canonicalise_area {
+  my $area = shift;
+  $area =~ s/((^\w)|(\s\w)|(\/\w))/\U$1/g;
+  $area = "ExCeL" if $area eq "Excel";
+  return $area;
+}
+
+sub namesort {
+  my $aa = lc( $a->{name} );
+  my $bb = lc( $b->{name} );
+  foreach ( ( $aa, $bb ) ) {
+    s/^the //;
+  }
+  $aa cmp $bb;
 }
